@@ -52,4 +52,5 @@ Given more time it would be great to bring in Census data in order to further na
 ├── DS_Project_Presentation.pdf         <- PDF version of project presentation
 ├── data                                <- Both sourced externally and generated from code
 └── images                              <- Both sourced externally and generated from code
+└── notes                               <- Other Jupyter Notebooks related to the project
 ```
