@@ -1,0 +1,815 @@
+id,Name,Zip Code,Buisness Rating,Review Count,Categories,Delivery,Distance,Price
+u51e3gychuqBYNqe2xG6_w,Lolita Cocina & Tequila Bar Back Bay,02116,4.0,2174,mexican,True,598.5047280006519,$$
+jIxhHWqxKd5ZWBIEmsFxWQ,Citrus & Salt,02116,4.0,556,cocktailbars,True,130.48865521659965,$$
+sA2gVTJOBH7Qk32p48ENdQ,Saltie Girl,02116,4.5,1116,seafood,True,649.1890070149382,$$$
+rcn3L8ZeQebdG0K1RSRKXQ,Drink,02228,4.0,1571,lounges,True,1893.6995257848516,$$$
+2s4BPlsqvM4fV5F_MkF40g,Moon Bar,02116,4.0,81,seafood,True,220.6645137036863,$$
+4-Tp4hstdC5XVvO4otGkuA,Wink & Nod,02116,4.0,450,cocktailbars,True,192.76070177319497,$$$
+tKRg7pxR2Sw7aSrHTQS5mQ,Buttermilk & Bourbon,02116,4.0,586,southern,True,725.7267127712291,$$
+xlOMKjE4omTgkI1eduWj8A,The Friendly Toast,02116,4.0,1772,bars,True,176.04842333150364,$$
+LNS4vQq-j5VCiPbM19gl9g,LUCIE drink + dine,02116,4.5,12,bars,True,849.9832452819137,
+xZ22_0eJOgaiKqIhoSHrPw,Bostonia Public House,02109,4.0,1423,newamerican,True,1880.9978483543537,$$
+mP1EdIafQKMuOm9O4PzAfA,Barcelona Wine Bar South End,02116,4.5,1102,spanish,True,328.22766734138577,$$
+367aDatN4B0UNT4hNPMqPQ,The Beehive,02116,3.5,2187,tradamerican,True,372.9407627004676,$$
+QFEEm3joTWU5ZF4suCuRPQ,Five Horses Tavern,02118,4.0,455,bars,True,1020.5757983051275,$$
+nIS4O-TwLYkA_P1Cu0SfhA,Yvonne's,02108,4.0,998,newamerican,True,1173.8300908685944,$$$
+Svxkliw-2cfHifMK8EvkIQ,City Bar,02116,4.0,267,newamerican,False,692.3837000974323,$$$
+NYa-JphaaB41ElGsb3iawA,Toro,02118,4.0,2174,tapas,True,1266.7234617418144,$$$
+4lMpwHFzxmirHqLSsj8BjQ,Cósmica,02116,4.0,55,mexican,False,216.71351188254357,
+X0mY5Pf7Fj_kfWmwDEqwdQ,4th Wall Restaurant & Bar,02116,4.0,91,bars,True,669.0589737286047,$$
+Q8g68ZDAt93h_n_wTbwshA,Shojo,02111,4.0,850,asianfusion,True,932.457880665299,$$
+5HMXgD_gui5n0Tc_hadesg,The Gallows,02118,4.0,857,burgers,True,727.2164662478685,$$
+K676uk86gZfTBbXw9TvbMw,Trophy Room,02116,3.5,186,newamerican,True,97.29445672849053,$$
+l6Ye6vPB6ZPZbxVxMMgvPQ,Top Mix Bar & Kitchen,02119,4.0,85,cocktailbars,True,2694.1610637826543,$$
+m1ertlgQIxAl74D7nCsvbQ,Earls Kitchen + Bar,02199,4.0,897,newamerican,True,924.6382406812364,$$
+u21_m6mewRV6pTMn9DCosA,City Tap House,02210,4.0,486,breakfast_brunch,True,1985.7404387755237,$$
+MKIngNGj0_cBKV4leGuCjw,The Tip Tap Room,02114,4.0,723,newamerican,True,1585.1475883018695,$$
+rdpY_LeMnDnfeK47eDnDOw,Lincoln Tavern and Restaurant,02127,4.0,862,newamerican,True,2327.3407908158247,$$
+JX8z_4daLZFoeju7cccS-w,Avery Bar,02111,3.5,38,cocktailbars,True,874.0532788807664,$$$
+UoAbVHm6A04avk-QIhiWYQ,Corner Cafe,02113,4.0,66,divebars,True,2330.4147027969348,$
+BlULiGXlf_GkJA_ZkerniQ,Flight Club Darts Boston,02210,4.0,18,bars,True,2053.959883933824,
+7bq2nCYCPuvI5o2GCFRAeg,Bukowski Tavern,02115,3.5,695,tradamerican,True,1165.3559880316855,$$
+MkjhW1dVbl3e0AxBL0oXKw,Ward 8,02113,4.0,486,cocktailbars,True,2210.0697862265224,$$
+ZFCJr_QRGPVKerWCkvR7SA,Bar 10,02116,3.5,120,lounges,True,492.4471123662291,$$
+n-5xA19txqjxmRdKB3A6bg,Brick & Mortar,02139,4.0,262,lounges,True,3185.900178307003,$$
+lCMN0raxlHnBFDoLgkz4sw,Milkweed,02120,4.5,659,newamerican,True,2908.3126242712588,$$
+XoBvgETT2RYIhQ_DQgLjsg,Bar Mercato,02109,4.0,47,modern_european,True,1638.2107591793065,$$
+kOqVXdqRzWIEK7XiQWxmJQ,Corner Tavern,02115,4.0,255,bars,True,1514.3727966905994,$$
+JwJa6nY_wlZEjagVleWQ-Q,Cheers,02108,3.5,964,tradamerican,True,900.0662273845812,$$
+b8_a5LuSt0Gcy-TZIvDl3g,Black Lamb,02118,4.0,98,newamerican,True,478.6413371941115,
+1aQpK-diOf5B2aA17F8GZw,Rock&Rye,02116,5.0,4,lounges,False,689.3693494979132,
+ae1ZClWkPyncMNmbpG60RA,Zuzu Momo,02149,5.0,17,indpak,True,7033.64973659319,
+FyYDej3MRxz1uaDJCZMToQ,Five-10 Waterfront,02210,3.5,8,bars,False,1745.5742824769757,$$
+rU0hKHmjQHX63ymqF7-9TQ,Brighton Bodega,02135,4.5,178,cocktailbars,True,6659.960032752164,$$
+itOs1rPS8j8sakiwsl1PEw,Precinct Kitchen + Bar,02116,3.5,252,bars,True,175.68089851870778,$$
+JuTlOfaUDnqnNEG8QYnYrw,Area Four - Boston,02118,4.0,207,bars,True,840.9388638050292,$$
+RJfovzPhmdt-pYHnFboM8w,The Avenue,02134,4.0,376,tradamerican,True,5010.144240343278,$
+WDpPZYEZhf7LLv3PyTeb4Q,Gather,02210,3.5,390,newamerican,True,2198.5785841632674,$$
+H0lnJ44GvEkHoSV4WsQwtw,Little Donkey,02139,4.0,796,tapasmallplates,True,3090.9069693854553,$$
+jrmvJb674XPvrUJndopavQ,Six West,02127,3.0,84,cocktailbars,True,1279.7149590947051,
+e3ub67T0KLXf61S9if9fvg,Durty Nelly’s,02109,3.5,229,bars,True,1956.3976422918456,$
+VjU5s6LPOksItZRUDT-g0Q,The Bebop,02215,4.0,117,irish_pubs,True,1441.9942855051804,$$
+ElOE7WzFMX8aMS_hkqtX_w,Parla,02113,4.0,339,italian,True,2159.759896536874,$$
+8a_P_6kYaIM2HdOEd0xzmg,Committee,02210,4.0,592,mediterranean,True,2134.316016124763,$$
+o9DfCXqPQvzEPdBSaCBd1g,Alcove,02114,4.0,145,cocktailbars,True,2329.5958051111625,
+gvslXIfVWkVu12MjgdlZJg,The Smoke Shop BBQ - Kendall Square,02139,4.0,587,southern,True,2635.9039258177454,$$
+Jmyya_ylt3Bks4NTcyWgEg,Zuma,02199,4.0,124,japanese,True,1119.6940944870555,
+CJ0DuAPIract7wPMWgsXbg,Renegade's Pub,02128,4.0,93,pubs,True,6845.877773143208,$
+rK-fgI2_-x0T4lxwF9L4Ww,The Publick House,02445,4.0,1187,pubs,True,5460.959569472913,$$
+OxobKchEqJU2BZi6qc0QBA,The Sevens Ale House,02114,3.5,281,pubs,True,1149.0284976292191,$$
+9XovFXshYZEqA-4v2mzh6g,The Squealing Pig,02120,3.5,410,pubs,True,2921.5065491472033,$$
+AOiNvHQUa5tAJN7Xt4176A,Tiki Rock,02109,3.5,363,tikibars,True,1854.214343919337,$$
+t4zpNjWmwKmPe4STXV0OYw,Gustazo Cuban Kitchen & Bar,02140,4.5,159,cuban,True,6455.354966279373,
+sqr1T-KLQ7ED49SlAEx49w,SOJUba,02215,4.0,308,korean,True,2085.70284096307,$$
+0REdlKVtzMv1KkSbyO0k5g,The Longfellow Bar,02138,4.0,76,newamerican,True,5022.577949731171,
+vy-jx5LVTbQDEXb07wC13g,Taste Wine Bar & Kitchen,02110,4.5,67,wine_bars,True,1258.6227726590027,$$
+8hJIgeFWS_WXgQBvCpjeQg,Blossom Bar,02445,4.0,211,cocktailbars,True,4270.648049886174,$$
+cqQfX8bDkR-7Ijh8JMtqJg,Audubon Boston,02215,4.0,191,tradamerican,True,2629.040314945581,$$
+xVxjzyMqghCYwVe_dwJzJw,Loco Taqueria & Oyster Bar,02127,4.0,609,cocktailbars,True,2279.095993596969,$$
+eTTnOUoAhbv65vcApwhTgQ,Hopewell Bar & Kitchen,02134,4.0,235,bars,True,5111.517588519524,$$
+M0fRUDEo9mbnZFXhvshlFw,Dillon's,02115,3.0,465,bars,True,1202.560496809323,$$
+UAtX7xmIfdd1W2Pebf6NWg,Sidebar Boston,02108,3.5,240,tradamerican,True,1320.985840773436,$
+BzDlLJ9uSFV5HCOkGcumUQ,Bar Lyon,02118,4.5,88,bars,True,1339.1395799817162,
+c0d6MwDQGkt4sBLVFQCaMw,Banyan Bar + Refuge,02116,3.5,358,asianfusion,True,391.9294556281568,$$
+FioFvBhgVPV2dZW3mxjxQQ,Lulu's Allston,02134,4.0,493,newamerican,True,5232.645996524702,$$
+UrgCPlAXDhKxNuDbGtqh9Q,Dublin House,02125,3.5,12,restaurants,True,3497.263668657047,$
+lrgGdVjP9iVYOXP-357fsA,CitySide Tavern,02135,3.0,356,bars,True,6634.399062850463,$$
+fmw_0vST7GjdibObHWLOuQ,Franklin Cafe,02118,4.0,509,lounges,True,578.6264628904432,$$
+gVmVqKTkgfFqXDg53t_nVQ,Bar à vin 1855,02116,4.5,18,wine_bars,False,1004.6702057926067,
+PkSaTVkRMXUcsrAJHxPI2w,Ghost Pepper Taco + Tequila Bar,02125,3.5,74,mexican,True,4284.648994605566,$$
+2v0-gBcXethuNFT6rMGiRw,Mr. Dooley's,02109,4.0,431,irish,True,1809.9777665024694,$$
+lAUA9Dr_eFliVB5JGUy3qA,Trina's Starlite Lounge,02143,4.0,480,lounges,True,3880.4984550562867,$$
+djb7jPPMwVOBfCE5K7Ilog,Hops N Scotch,02446,3.5,443,bars,False,4102.984868263599,$$
+naaaoYjlln77ZjsN8ql4cg,Pearl & Lime,02169,4.5,49,latin,True,12357.960560303525,
+WI-04gXZls3TM8rTAhMW_g,The Playwright,02127,2.5,26,tradamerican,True,3042.297324110609,
+qJxjhLQjLcYnpcqqDHS3Jg,PURO ceviche bar,02116,4.5,206,wine_bars,True,988.2299220700704,$$
+mmJ2ixPN8NIkEEIM4oHd8g,Kings Dining & Entertainment - Boston Seaport,02210,4.0,202,sportsbars,True,2053.959883933824,$$
+vCaaXCYqpBsxJy2kBR67IA,The Brahmin,02116,3.5,401,newamerican,True,172.2302021837145,$$
+_tkRmWRJpRDiXCzxNZSEIA,The Red Hat,02114,3.5,257,divebars,True,1611.6075733909752,$$
+yBIN7uSzd5saehWA1I_GBw,Row 34,02210,4.0,1486,newamerican,True,1960.4098750144674,$$$
+vRlGCME1KCFPQc_hW2AVlA,Fromage Wine Bar and Restaurant,02127,4.0,97,bars,True,2226.8484822416667,$$
+W0Lmpe7yIVercq9ouNzrxA,Lower Mills Tavern,02124,4.0,143,cocktailbars,True,8325.795074839643,$$
+VwcuTadW8apQeNvt0IRfKQ,The Junction,02127,4.0,83,bars,True,2513.1305018329767,$$
+bsGuOhibpJc-MHNXj9kiUg,Cask'n Flagon,02215,3.5,606,sportsbars,True,2215.102831752409,$$
+j26j_w7dt3YiSqyBZBwadg,465 Bar and Restaurant,02115,4.0,10,newamerican,True,2090.553763170896,
+IvvgLWS3J6qR4dhYMlDOPA,Tavern In The Square,02114,3.5,267,sportsbars,True,2188.1199568762736,$$
+YwtjSs7ul_6RX1WnWglxIA,River Bar,02145,3.0,268,cocktailbars,False,5361.986372407957,$$
+bqC8cTtPJmSAW6NUVHV9YQ,Tavern at the End of the World,02129,4.0,215,pubs,True,3876.5961389102513,$$
+5NsdznaNSUmH2O0vuo65Pw,Cornish Pasty,02115,4.5,282,british,True,1489.813205536254,$$
+HJfJAZm5zwaR0t1zCBNUDQ,VERSUS,02108,3.5,75,arcades,True,1375.2173671358398,
+cSvpRCBljhJiE6NFZUwK4w,Sunset Cantina,02215,3.5,635,mexican,True,3758.2105025901155,$$
+ev0CyR6RXtt-2mjQciY3nw,The Bullpen,02215,4.5,17,sportsbars,False,2269.4074567544317,$
+pgb_V3Wk56X5HK1NfLFgcw,The Black Rose,02109,3.5,705,tradamerican,True,1935.9850658591622,$$
+STgopLVLqcFNLRl-2H3VSw,Scorpion Bar Boston,02210,2.5,218,mexican,True,2027.1753854768028,$$
+aGYdF_fNHDhFCAnXoTCkGA,Boston Sail Loft,02110,4.0,847,bars,True,2353.4798039628545,$$
+fUXHR5XBFa4qV_NvPXpuAA,Rochambeau,02115,4.0,124,french,True,1145.425215233896,
+wuiDoeKWClLrr2g2LSXA8w,KO Pies At the Shipyard,02128,4.5,323,australian,True,3722.5468346669595,$$
+wxe0Hxxhv4FQtI8EvrgReA,Monument Restaurant & Tavern,02129,4.5,202,bars,True,3261.5074594427497,$$
+sV538upjEMiKNVFZBS5zMQ,Bronwyn Restaurant,02143,4.0,415,german,True,4034.8754433210875,$$
+bZhUufqdpg5qxsDKpIRv5A,Bar Mezzana,02118,4.5,346,italian,True,727.0636035927298,$$$
+YGSacISAJEsEGrBKFwR0Gg,The Westland,02115,3.5,87,newamerican,True,1351.3370311039055,$$
+Go8U9oJd4CfpO1ik4Z8iKA,Lucky's Lounge,02210,3.5,624,lounges,True,1882.9142540108362,$$
+Qz7YOjaJ89TFdWhtt4mAiw,Bar 'Cino,02446,4.0,64,italian,True,3057.8764333219406,
+9VGECwLbj29RljD2WVSzaw,Porters Bar & Grill,02114,4.0,247,tradamerican,True,1989.8793928392918,$$
+t77sOZmbHMB6n3whAQT8MA,Clerys,02116,3.0,444,bars,True,372.73151658249355,$$
+pzCrO7RatLAB9ThsOSRu9A,Stats Bar & Grille,02127,3.5,130,sportsbars,True,2511.5104694226757,$$
+y2w6rFaO0XEiG5mFfOsiFA,Neptune Oyster,02113,4.5,5123,seafood,True,2122.4029385375484,$$$
+A--_gxXUMp4caZzQlLPLoA,Temazcal Tequila Cantina,02210,3.0,836,mexican,True,2703.86444025981,$$
+_RWkck7niE8VJG3zLXK2ig,Silvertone,02108,4.0,866,tradamerican,True,1334.1050123566185,$$
+bpuQzgbzKohXD8MuE6ZCaw,Outlook Kitchen And Bar,02211,3.5,227,newamerican,True,1989.8905570494212,$$
+l4YpEuvIm_RqNXleuDIthw,Ma Maison,02114,4.5,247,french,True,1485.342634029259,$$
+8I2CBbVJnWS8w8OfkexE8g,The Warren Tavern,02129,4.0,479,bars,True,3013.3388551916664,$$
+F3G9zpyYBBzXi8kpAFc1Yg,Tanám,02143,4.5,34,filipino,False,4315.326243475064,
+KPFscTq_-jGPla0cNQRUcg,Meadhall,02142,3.5,745,bars,True,2206.879759668176,$$
+nmSiYGAo8YA4oCXjAAgY5g,The Mission Bar & Grill,02120,3.5,336,bars,True,3188.946924690553,$$
+-bC1fMN5kQgFruzUR8E_RA,Tony C's Sports Bar & Grill,02210,2.5,530,tradamerican,True,2683.993845021362,$$
+qtww5gR4Oyw29gqMoV3uLg,Grainne O Malleys,02446,4.5,63,irish_pubs,True,4166.909826454771,$$
+DkhLETFI7Z49Kbsa6E1icA,Hojoko Boston,02215,3.5,396,japanese,True,2133.2820213045707,$$
+09pqlAR4TSjQXNTiB4cXjw,Jm Curley,02111,3.5,798,newamerican,True,1101.2946873624865,$$
+VGU8Cy97So-jQCtWLKO6bA,Loretta's Last Call,02115,3.5,245,southern,True,1909.9079100542594,$$
+i5YmaCCuOm6b5_5uilFKtw,Rivershed,02184,4.5,12,bbq,False,16434.71366733209,
+n4XrNsqY2Oi1DB7-2hJzTw,Yard House,02215,3.5,812,bars,True,2406.0351590622167,$$
+ZepRG9iVXXA-u3gH5C-UKA,Solas Irish Pub,02116,3.5,374,pubs,True,718.2319690886605,$$
+MUA4S74hYjUGVtDNf8tj6w,Cunard Tavern,02128,3.5,135,tradamerican,True,3437.3904210066726,$$
+Sazc1goJzuxaQgluXH8-gQ,Flora's Wine Bar,02465,5.0,17,wine_bars,False,12725.240169701076,
+HCHxbmFDip0E51onVkcnZg,Branch Line,02472,4.0,339,newamerican,True,7853.969398998417,$$
+lcarZ5Oj_pWYoENAEK2t8A,The Bowery Bar,02124,3.5,102,newamerican,True,8303.485966547347,$$
+25sny_QPRSFNxCPqu1oRqw,75 on Liberty Wharf,02210,3.0,267,newamerican,True,2662.098394025356,$$
+X3ltF7mz6rPCSzRRrZjrPw,Lone Star Taco Bar,02141,4.0,329,tacos,True,2985.863988821384,$$
+GBsTXDvtuVSM2IC9mFQD9Q,The Banshee,02125,3.5,165,pubs,True,3433.3256651884003,$$
+xiHvrOv3lYI4_8bvZEljwQ,The Shannon Tavern,02127,4.0,17,bars,True,3051.7484499843245,$
+UPtndx3jFSyhz7KpBbv8XQ,Avenue Kitchen + Bar,02144,4.5,79,beerbar,True,6605.286067005313,$$
+VFvCFOYtyK9ae4Skxvf3vA,Saus,02108,4.0,1251,beerbar,True,1876.9440291013007,$$
+JdWplSS3RfBFamm4FshtcA,Green Street,02139,4.0,694,bars,False,3281.9614956615196,$$
+pwejc1NUK6cQz7aK_4XYEQ,Alibi,02114,3.0,363,lounges,True,1578.4828674356838,$$$
+aehgQxttnq8h6LEKsu9T7g,The Hill Tavern,02114,3.5,249,pubs,True,1508.6949704599829,$$
+ULGoHTVLp5ZgUEBoxFb4vg,Slade's Bar & Grill,02120,3.5,155,bars,True,1560.45720826146,$$
+1ormi492NqirB_kU_a8W-w,Glass House,02142,3.5,133,newamerican,True,1921.7133462845072,$$
+EYMC8NHn6U-4WpLo54dQtw,Anchovies,02116,4.0,394,italian,True,679.0186477822741,$$
+IJ2MnBlIvib0aU2hbmr0hg,The Brewer's Fork,02129,4.5,385,pizza,True,3428.5844668974673,$$
+ek-lwfIZ7b-K31w_x0EzjA,LongCross Bar & Kitchen,02155,4.5,58,pizza,True,6251.593802215577,
+SmOX52W6mib-qT7GptyDVQ,Brassica Kitchen & Cafe,02130,4.5,301,newamerican,True,6311.340102297512,$$
+PLuitJs0KkdjVE8wVlTZ_A,Champions,02116,3.0,263,sportsbars,True,662.0290030565341,$$
+twXlQB0UMBrAVas53QN9BA,MIDA,02118,4.0,313,italian,True,1232.6488285887442,$$$
+XT2R-fYEGyus1MP39u2aaw,Dryft,02151,4.5,91,seafood,True,9852.24010759024,$$
+LSmYTw4HvU0lDBK4Mg2KyQ,Shenannigans Bar,02127,3.5,179,bars,True,2051.648738333489,$$
+4jYkon2dF4_asouJ8S_gVQ,Lithuanian Kitchen,02127,4.5,22,modern_european,True,2145.562590621862,$
+7MN8kNyuKDZtoSoVdZDCpg,Miracle of Science Bar + Grill,02139,3.5,559,bars,True,2780.828152146744,$$
+j4GcfVzq1BCXGoPtNGOtgg,Cafe Polonia,02127,4.5,452,polish,True,2413.05684125205,$$
+a17mI6DjjfWDL6dpZS6oBg,Brownstone,02116,3.5,378,bars,True,378.16944060619596,$$
+imBg1-qcZ9Wwvw8KsQBcUg,The Ginger Man,02109,4.0,108,beerbar,True,1896.0927446886703,$$
+BRPrmJoGYtDRwtPl-vh-zQ,Dunn-Gaherin’s Food and Spirits,02464,4.5,350,irish,True,13146.225436760482,$$
+IjshhPQwClaUK1v7z_7CpQ,Harvard Gardens,02114,3.5,441,bars,True,1469.0852804164035,$$
+CkmykRQcSfIsbb62F4NQoQ,Terra at Eataly Boston,02199,3.5,292,italian,True,911.5721342631826,$$
+oIzfAg8hEkzVrxTJaIfoPQ,Fort Hill Bar & Grill,02119,3.0,24,bars,True,3377.6608044916347,$$
+72PQGMhrEcIuWH-S44TprA,Myers & Chang,02118,4.0,1679,asianfusion,True,607.0314234733801,$$
+h7ENzK5Vp6f1j6iU-U3g4w,The Broadway,02127,3.5,151,pizza,True,3174.685943134852,$$
+lsqYQYGfpe25wUZk9Wybwg,The Elephant Walk,02118,4.0,194,cambodian,True,744.9788616609346,$$
+A3D8gBGNmt51kvcI0GkaGQ,Lord Hobo,02139,3.5,585,bars,True,3030.5537815934213,$$
+mTyK9-_6CYY6XYAG56c68Q,Carrie Nation Cocktail Club,02108,3.5,345,tradamerican,True,1414.1390919176843,$$
+sYhfhua7GWiGLQkIUP_TWQ,Earls Kitchen + Bar,02145,3.5,1138,newamerican,True,5381.708287738803,$$
+1gqr3FWG4mIhmFetBZWlDg,W XYZ Bar,02210,3.5,7,venues,False,2235.604176689285,$$
+WlsDN2Gh3_04c-FnWjzw7g,Waypoint,02138,4.0,361,bars,True,4141.437461924667,$$
+IhjP8q2cHol4ziuiDFdK2Q,Fat Baby,02127,3.5,142,sushi,True,2496.2658495000983,$$
+Ref2YEgk0-2BojAPYYND2Q,The Lexington,02141,5.0,4,tradamerican,True,2714.4157242799724,
+V8_e5MRjfexH4WFBqjDWCg,Beantown Pub,02108,3.0,630,pubs,True,1364.7697932466992,$$
+zEel4VKJtybhJurBaHbsuw,Local 149,02127,3.5,431,bars,True,3961.629130451422,$$
+Z9g2Zxf8wSXjgCanPPrnWQ,Loyal Nine,02141,4.0,426,tradamerican,True,2989.2774644360547,$$
+IeJ6oKr3MW5bSlwmlkknwg,Club Café,02116,3.0,359,gaybars,True,109.0228421463203,$$
+5EmqULtZ3IFZ3hjxyXna5Q,ilona,02118,4.0,110,bars,True,1229.9379769370003,$$
+VoH0dcofsPgKgT0OQWiuIQ,Omori Izakaya,02445,4.0,52,japanese,True,4216.5197215641565,
+7LYzR3mMr0GLEItUxyWY7Q,Fox And The Knife,02127,4.0,187,wine_bars,True,1339.7501369715383,$$$
+smiGOZuyboXfc8LyC2jXpg,Joe's American Bar & Grill,02116,3.5,973,tradamerican,True,760.3911244551114,$$
+LCFZDAaLRpmaidikraTWiw,Stillwater,02111,4.5,97,cocktailbars,True,1112.8769851750083,$$
+poswq7BdLM9Iryd9palDVQ,SRV Boston,02118,4.5,428,italian,True,1148.6112840272483,$$$
+pIc9Ae7AuOTQolPSQAxKlQ,Samba Bar and Grill,02143,3.5,13,brazilian,False,5087.967546048542,$$
+xyoagpWYgFuIKcCE425epA,Naco Taco,02139,3.5,474,mexican,True,2732.1038006918466,$$
+eJzWmVgMY5x1n281Qw6YDQ,KAVA neo-taverna,02118,4.5,316,greek,True,610.1047535874325,$$$
+dz2OSto01aMIWkGHXd8lOg,FiRE + iCE  Grill + Bar,02116,3.0,742,tradamerican,True,324.4171960312526,$$
+ooaCl61BsK7kJlZnYOq0UQ,Abe & Louie's,02116,4.0,1365,steak,True,865.291759596898,$$$
+cwUUnKCZs8Zild6n2uwiSA,Publico Street Bistro & Garden,02127,4.5,187,newamerican,True,2555.9368856999154,$$
+TIdF3xCwr--XdC1QEUxaJA,Last Hurrah,02108,3.5,157,newamerican,True,1429.3389075715415,$$
+l45r09qD9iIkQn9KoKKfuw,Bistro du Midi,02116,4.0,616,french,True,481.2791087487694,$$$
+gOjh7RMDZDn4h-QmwnAseA,Sonsie,02115,3.5,1318,newamerican,True,1239.8934408210137,$$
+3FDjQkYFxm6lgjRcdgO_OQ,LOCAL 02045,02045,3.5,107,bars,True,16710.96555253917,$$
+61kN14ljCzWOtIXaavTU_Q,Paris Creperie Seaport,02210,4.5,33,creperies,True,2050.6891481933194,
+GHmjQQuQya93blcsHHLDjQ,Article 24,02135,4.0,272,bars,True,6040.4361128627515,$$
+DkuCJwpeiGhW41EEcOKweg,Clink,02114,3.0,403,newamerican,True,1601.8460617351316,$$$
+GHZ-EWQrVxKYDtt9ce82Og,Buff's Pub,02458,4.0,459,tradamerican,False,9534.780749617577,$$
+geqpfK2WO6uHJCDpNofURA,Metropolis,02118,4.0,486,newamerican,True,524.0620762233416,$$
+jARXdEubmCxBtN55PYVd7w,Capo Restaurant,02127,3.5,343,bars,True,2377.31235845357,$$
+Z6Io2AbJrof7TPVliMZkAg,Fuji at Ink Block,02118,4.5,469,japanese,True,706.3573293177284,$$
+DMMIU3G8CngajT2ymBfXxw,Flann O'Brien's,02120,3.5,149,pubs,True,3059.8668963975097,$$
+hADEjYNxdlSrU8paiRUzUg,Lizard Lounge,02138,4.0,102,musicvenues,True,5489.206357297654,$$
+VxoRKAebGksNn5ewTGGxQQ,Elephant & Castle,02110,3.0,395,pubs,True,1458.7598997213238,$$
+WJiV5LAjH97KIa2PSuYjRg,Yellow Door Taqueria,02124,4.0,204,mexican,True,8397.49617493232,$$
+ru2PbckR1YiXNggUVL_kEw,Troquet on South,02111,4.5,59,french,True,1197.677611845924,$$$$
+BRjvpMJ8C_1_mdB3n3tAgA,Mahaniyom,02445,5.0,58,cocktailbars,True,4262.535095239909,
+1hWZ0K2DOKZB9Xft08VZ9g,Sorellina,02116,4.0,675,italian,True,558.4198278099876,$$$$
+RX8V-PemYDvTY1V0U42_bA,Tres Gatos,02130,4.0,500,tapas,True,4610.541522775959,$$$
+SCXfxp-mF-S2YoLqfYMSEA,Map Room Tea Lounge,02116,3.5,73,lounges,True,576.8417637034138,$$
+n5c-AeQYPJxIpjiuOKjxOg,Good Life,02111,3.5,358,lounges,True,1175.6224635011465,$$
+1VeOj6f36qag7iScjjL8-w,Model Café,02134,3.5,132,divebars,False,5503.237808590074,$
+5oKcsAsYqWOtNLEwMnoWuw,Servia,02109,5.0,14,mediterranean,False,1875.270975267162,
+XtwKkI3vEcJczmGY14Y92A,El Kiosco Restaurant,02128,4.0,21,latin,True,6808.481493730904,$$
+0AOdsO0aRRRlwxH_MGeoWg,Suya Joint All African Cuisine,02119,3.5,100,african,True,2338.5328900235963,$$
+9m678PeuzwYamIf6sysUHg,Marliave,02108,4.0,1294,french,True,1359.4056913069762,$$$
+mxjVk5rvPNhzYe_vt3OSQA,B&G Oysters,02116,4.0,1056,seafood,True,436.6494308680762,$$$
+QULve82crMjaNkgfqfjl2Q,Darryl's Corner Bar & Kitchen,02118,3.5,684,bars,True,1285.9472750566792,$$
+L0Ds6wNdgS0YwqVNWVns9Q,Saloon,02144,3.5,393,tradamerican,True,6737.881251516462,$$
+0qmGd3I6dFkJ3auDgRZl4Q,Highland Fried,02139,4.0,144,tikibars,True,3638.1895577596456,$$
+lKWxxaWmMETMnlPmEQjGZw,Idle Hour,02169,4.5,146,tradamerican,True,12408.684335178383,$$
+3K13iIrTbHmV-qpvz8C7Ew,Strip By Strega,02116,3.5,319,tradamerican,True,370.1152135193564,$$$$
+RdxN5oT8r6DF0P3PNV1Owg,Rowes Wharf Bar - Boston Harbor Hotel,02110,4.0,35,bars,False,1960.407845308166,$$$
+_98MfEQ67r9-V78gmy8_Pg,Grill 23 & Bar,02116,4.0,1036,seafood,True,187.80006008768987,$$$$
+mnFhrH1Fi5GoSuV-5gVpnA,Krasi,02115,4.5,82,mediterranean,True,1061.326692953109,
+qpDzEwTAYPUityT2I4BpfA,La Bodega,02472,4.5,130,spanish,True,7395.311783211313,$$$
+WYnXpXym2DMtwchDcbilmg,Area Four,02139,4.0,936,pizza,True,2430.5393787577955,$$
+01_V3jriaILJvam7JVSFTg,Pink Taco Boston,02210,3.0,179,mexican,True,1985.7404387755237,$$
+R7peDyHzKTGilwo_1fjt3g,Woody's Grill and Tap,02115,4.0,286,bars,True,1542.3011589818593,$$
+v92qIZUQ61rrqvK0w7UpJQ,Broadside Tavern,02110,3.5,53,beerbar,True,1855.6616819923306,$$
+1qwxzGRcU1y3tJrsoYQ4Rw,Picco Pizza & Ice Cream,02116,4.0,1186,pizza,True,335.0211653144537,$$
+jaHS-fPSEEDW273iFrWG9Q,Scullers Jazz Club,02134,3.5,85,jazzandblues,True,4093.115620965857,$$$
+xo7g1UhRVROVPBnQCgpULQ,Urban Hearth,02140,4.5,101,newamerican,True,6905.728859128609,$$
+75V7FGFBga-ISm0dIJt7wQ,Southside Tavern,02184,3.5,188,tradamerican,True,17041.441180644964,$$
+LkNkXt0ELgXxFJjkI-CgTQ,J & J Irish Pub & Grille,02125,4.0,10,pubs,True,4123.947477600015,$$
+6sM4hFHheaRNwsd74wplEw,The Green Dragon Tavern,02108,3.5,505,pubs,True,1922.4556298853904,$$
+um4x6dIkv8w2a4e0VkRNmA,Rocco's Cucina & Bar,02109,3.5,163,sportsbars,True,2620.496629020125,$$
+1PETTG5wOUtagED0o1M5tg,BARRA,02143,4.5,8,bars,True,4304.8989695382315,
+DIRXMPneSiHoOani8QnI3A,Hong Kong At Faneuil Hall,02109,3.0,430,bars,False,1938.7630803871975,$
+nBG0C0J7bnBnUMB39F5O-A,Bin 26 Enoteca,02114,3.5,289,italian,True,1003.2780389577913,$$$
+9jStwuAp2D0gdMFe6FNrTw,The Draft,02134,3.0,238,pubs,True,5091.117305187629,$
+y0n1XazerJISK3bhspN-og,Hurricane's at the Garden,02114,3.5,39,newamerican,False,2073.841593781364,
+Dv-n8rW1l8r2MZ2neW7rpw,La Hacienda Restaurant and Bar,02128,4.0,183,mexican,True,3915.428865478101,$$
+hkduXqDA7Ssmb-2hqpGMDg,Olde Magoun's Saloon,02145,4.0,420,irish,True,6058.6414254537,$$
+E3DdyR6aT7NpLNN39cMTcQ,Harry's Bar & Grill,02135,4.0,325,bars,True,5643.790915274517,$$
+D37JiBDWxz130VOHIjQhxA,Bogie's Place,02111,4.0,97,bars,True,1091.178080738904,$$$
+1yUvx89slO4SRud5O3zjUQ,Tiger Mama,02215,3.5,626,thai,True,2425.5105258679073,$$$
+pHIfIJiANQNDO_JxQKnorw,Field & Vine,02143,4.5,90,newamerican,True,4046.6517554423817,$$$
+E8F4QcCBTXimwnJLbnt94g,Landmark Public House,02122,3.5,81,bars,True,7276.580938855557,$$
+r2CqNYEZyVT3Ay9DRYeF9w,Blackmoor Bar and Kitchen,02129,4.0,226,tradamerican,True,2715.3908494814136,$$
+S3V6IA4cp9Ci8tEhY9P-JA,The Backroom at Moody's,02453,4.0,148,newamerican,False,13821.818081251658,$$$
+MjopvJwjCbOtsLvkUxUZNQ,The Harp,02114,2.5,280,sportsbars,True,1994.146965321215,$$
+oz882XuZCxajKo64Opgq_Q,Barking Crab,02210,3.0,2165,seafood,True,1694.2644422591006,$$
+XK3V6XjaQDuFJKi0WLsNZw,The Kenmore,02215,5.0,13,bars,False,1860.6199358234346,
+oeGGj21XtuZTTIk3wRlCOw,The Abbey,02140,4.0,234,newamerican,True,5712.7051939476505,$$
+HsKe3Y-Glm5xPGDwMBE1mg,Chickadee,02210,4.5,146,newamerican,True,3336.0947677278,
+55PGG2U1z-q7Z694F-B-_w,Bricco,02113,4.0,1000,italian,True,2165.9714824407974,$$$
+X6megK3Vz4xMquw2f233xQ,Coogan's,02109,2.5,309,bars,True,1890.3761601007423,$
+kVn-sFg1CIFaHuRdES00NA,Tony C's Sports Bar & Grill,02145,3.0,395,newamerican,True,5359.3672585011855,$$
+tdIyREwlre3SVU41a4eBgA,Ned Devine's Pub,02109,3.0,516,musicvenues,True,1982.261798610724,$$
+4RpdVZIR3dV890pJ5hQd9A,Lucca Back Bay,02116,4.0,342,italian,True,727.9056120379838,$$$
+_Xh0hL64vuxfHf3iewJYQA,Prairie Fire,02446,4.0,123,newamerican,True,4168.062860373281,$$
+uexdYC40dpPjGG9LGjeQ5w,Parlor Sports,02143,4.5,78,sportsbars,False,3866.4402655838785,$$
+JbUjGjc_K_Od9s3ysv142g,Brato Brewhouse and Kitchen,02135,4.5,70,breweries,True,6364.41978447738,$$
+_9ZZv5V-uM5BXx3P-HslIw,Russell House Tavern,02138,4.0,1967,newamerican,True,4859.432027269401,$$
+q2EXggq1IIrw20YPSfvJeQ,Phoenix Landing,02139,3.0,324,irish,True,3100.9263837841295,$$
+ri7UkbzzEoDlNZ7ogsB0eA,Doña Habana,02119,5.0,1,cuban,True,1764.159314302266,
+PUZSvR-nEHlhEi0gSADu7w,Piattini,02116,4.0,858,italian,True,846.6318662184409,$$
+D2pEDsQBUO5GIgyT8oKUxg,Helmand Restaurant,02142,4.0,869,afghani,True,2145.2117281844244,$$
+_kYzkcPWSCoh6UHQJcmePA,Sam Adams,02128,4.0,26,tradamerican,False,4128.619938438436,$$
+biYgFkftCPue7g3upflUOg,Trade,02110,3.5,549,mediterranean,True,1621.8249623983686,$$$
+8YBJqxV8rRmNNzX3RgUtVg,Vinotta,02453,5.0,6,italian,True,13869.833135396133,
+Qfh5uqZMzS5XB-7GXsgUhw,Maverick’s,02128,4.0,145,tradamerican,True,3678.3336482817626,$
+l5r5mdi099B9zwyVL-5-Lg,The White Bull Tavern,02108,3.5,133,bars,True,1837.7811993464063,$$
+oSM8ItF9hZ0Qz7-y9ckuiQ,Galway House,02130,4.0,231,bars,True,5383.059486933642,$$
+-luo75C1WGmnwI18_xMq5A,The Porch Southern Fare & Juke Joint,02155,3.5,154,southern,True,6910.4411689496865,$$
+Tyf0P9SMnc9Q7jXF6JO3cw,Kelley Square Pub,02128,4.0,175,pubs,True,4299.151450876906,$$
+-kah9M8Zd7HuWSA9mkQxsg,Peppers Grille,01730,4.0,47,italian,True,21928.287238624664,
+arnbjQR2n0-6-iqdBB_gHw,The Point,02108,3.5,205,tradamerican,True,1935.7975134311766,$$
+U4C0Bgoeqev9Ee1_upRccQ,Sip Wine Bar And Kitchen,02111,3.5,335,wine_bars,True,938.9010036265549,$$
+1exJzD7WPZzJ72JRG1CGWg,Lone Star Taco Bar,02134,4.0,531,bars,True,5451.160576667929,$$
+Q1TofnFQ4sMFA47sGYAyeg,Mija Cantina & Tequila Bar,02109,2.5,565,bars,True,1891.0068038747518,$$
+bFuUggRPBrXbSQqUbpUgUw,Slate Bar & Grill,02110,3.5,148,tradamerican,True,1582.52156779214,$$
+m0b79jiAXpcvJXyZlu82UA,Orfano,02215,3.5,67,italian,True,2529.9652336440563,$$$
+JzFweQSjdivBYiLA96UF5Q,Connolly's Pub,02128,2.5,117,tradamerican,True,4491.726041603039,$$
+ZfGuMUhFbSBx0yAKc0GPIA,Frenchie Wine Bistro,02118,4.0,210,wine_bars,True,465.3698841060051,$$$
+csV_k-p1P7dne789kVMZkg,753 South,02131,4.5,86,bars,True,8259.791990895761,$$
+1A9alCsYB5Z5PW3yvH1HnQ,Casa B Tapas and Cocktail & Rum Bar,02143,4.0,295,caribbean,True,4024.244513802694,$$$
+83QCpMgQrifnp_OiyYwcTA,The Glenville Stops,02134,4.5,299,newamerican,True,5240.4730303451925,$$
+r946O58JrrHW1Ma9-pOz4w,Union Street,02459,2.5,88,tradamerican,True,10249.244871369117,
+Bmvu1grPzxECp7dxm8zerA,Cambridge Brewing Company,02139,3.5,782,gastropubs,False,2648.8992529886696,$$
+4PQWJGUJirk-UKOKxu8ktw,Casa Verde,02130,5.0,1,breakfast_brunch,True,5398.03683033564,
+E_vKoJ0zvpfAcEkQGS4d2A,Daedalus Restaurant,02138,3.5,461,pubs,True,4539.989504842156,$$
+GeH-0kjRmRDkO5N6-6ySdg,Casey's,02145,4.5,46,pubs,True,4752.285625000799,$$
+gkCSVmq6Mx8Z04KzkrHzCA,Porto,02199,3.5,246,seafood,True,714.9938900996362,$$$
+58cDJU4cub1o0o0B4h9GrA,Craigie On Main,02139,4.0,1307,newamerican,True,2838.923048502497,$$$$
+ck8Id2EaJ20Alj0N8UMvBQ,Barcelona Wine Bar,02446,4.5,1396,tapasmallplates,True,5643.28466360571,$$$
+PKnj9SK8M9aSrWpf0rQtPg,The Plough & Stars,02139,4.0,310,musicvenues,True,3827.9269161940724,$$
+UtS03G9OuSNuEtm-lHcf7w,The Cellar Food & Drink,02138,4.0,254,newamerican,True,4046.749198350267,$$
+FYgNCaNNS8-75rYdq7YvhQ,Crave Chinatown ,02111,3.5,617,korean,True,902.027119747023,$$
+PNuPnJSwGBaqvD3fUKo4Ow,The Industry,02122,4.0,203,newamerican,True,7223.441389506814,$$
+nfZLdMmcqPbmSooutrc9yQ,Cafe G,02115,4.0,100,newamerican,True,2517.136441992439,$$
+xMnAsMSgTtMy7DT-En7qOQ,Sons of Boston,02108,3.5,80,newamerican,True,1878.9045697121303,
+QeHA9K8uks9XGBxJeKzFCA,BEERWORKS No. 3 Canal,02114,3.0,483,tradamerican,True,2051.7586425120544,$$
+bNZ3-0rse12NKdSVqQ30xw,Sulmona,02139,4.0,222,pizza,True,2498.1710184777644,$$
+n6iTeADfaVagZjsoZZ631A,Emmet's Irish Pub & Restaurant,02108,4.0,298,pubs,True,1414.9373297351783,$$
+ChzM9HTXqqe0VdXSbMGoqQ,Red Lantern,02116,3.5,689,asianfusion,True,188.60544188539893,$$$
+6cE6ZKMM9QXEQIuxH_5R1w,Viale,02139,4.0,252,italian,True,3094.6355391461284,$$$
+DrfWREMxP-0JCt5Pz8_sUQ,Legal Crossing,02111,3.5,374,seafood,True,988.2071660906983,$$$
+q5HPp961WsjoVDaOmN8SwQ,Giacomo's,02116,4.0,1304,italian,True,679.112081298963,$$
+uog_FdVRIPtReDYuxLdNGw,World of Beer,02141,2.5,193,tradamerican,True,2293.1045322045557,$$
+NfsltaOq5d5ZeMpJnYkxMg,Acitron Cocina Mexicana,02474,4.0,313,mexican,True,9991.784413508143,$$
+zoV-2pOckokrnUWW-yNTzg,Blend,02122,5.0,5,bars,False,4773.213910224051,
+0goWTmfdgwOe6b-pPPp3Gg,Antonio's Cucina Italiana,02114,3.5,305,italian,True,1478.621788511127,$$
+XW7io20_FAsbf66FJqsOVw,Little Lingo,02141,5.0,1,salad,False,2464.7590679195523,
+n3igZVHHGAum5SFy4uMfPQ,Brewer's Coalition,02460,3.5,204,newamerican,True,11121.802454006309,$$
+SNJhevBiD7xFvxiEJywMxw,BEERWORKS No. 1 Fenway,02215,3.5,731,tradamerican,False,2288.8404782373964,$$
+hswb7GsV3vIYcO1_BBpDOA,Atrium Lounge,02451,4.5,4,wine_bars,False,16901.280732684845,
+7B9dJn1uWTv9QPnFcDwaXw,Sweet Cheeks Q,02215,3.5,1544,southern,True,2492.839927990971,$$
+6UN-aw4UdPePD97jiboMbQ,Lucy's American Tavern,02124,3.5,359,newamerican,True,7399.745280180075,$$
+Ruq91rmQNweZ78TzKylQMg,Union Oyster House,02108,3.5,2830,seafood,True,1898.8550681838226,$$
+yak6zfWqMT5tfNtzhHbiJg,Savin Bar & Kitchen,02125,3.5,325,tradamerican,True,4278.2330058647185,$$
+7li1JnbB_WKidEzJoIKX6Q,Barracuda Tavern,02108,3.5,289,bars,True,1346.4443627563726,$$
+X05LWeDT93dhQkDyCG8IeA,Sixth Gear - Cask & Kitchen,02127,3.5,112,newamerican,True,3277.993127607198,$$
+-gMHZHFokeV0B5nL86AD-w,Shine Square Pub,02140,4.5,14,sportsbars,True,6378.582077100501,
+B4zJ1rOroLTvb5LpMlNjTA,Yotel Deck 12,02210,4.0,2,cocktailbars,False,2036.128066688527,
+yXVgVKV-Ek_tE9EZXMVTEQ,Hennessy's,02108,3.0,303,bars,True,1881.898577629822,$$
+sG0zIVkkWRe0p1VOSZgpBQ,Boston Sports Grille,02114,3.0,113,tradamerican,True,2066.9482187833214,$$
+SvMVqEWYJXPOr6vJlRYnrg,Joe's American Bar & Grill,02110,3.0,542,burgers,True,2308.9204187371515,$$
+BgzsPfCdc7_keimDwCvJWg,Chulo Restaurant & Bar,02472,4.5,111,himalayan,True,10156.117322192944,$$
+5aB31ecKPzcK1kzW0zCzzQ,The Bar By the Elevator,02139,3.5,3,cocktailbars,False,2662.598341967471,
+26X1cTdgOnyfKGLoRiqhmQ,Stewart's,02149,4.5,29,wraps,True,7742.215900364108,$$
+x4fNltn_RTWU4xLY3gJQUA,Champions,02142,3.0,110,sportsbars,True,2023.4903467409933,$$
+MPmPo9vike8PG1Wo8uXi0g,The Thirsty Scholar Pub,02143,3.5,208,pubs,True,4167.987551735994,$$
+aL_wqxOoYUObBF_dFdHzSg,Rumors Bar & Grill,02149,3.0,4,bars,False,6767.502667512875,$$
+WJqqQSKP75Z6QYr1p06L2g,District Kitchen,02148,4.0,220,chinese,True,8874.434203329,$$
+8UcBp8iVGieSEo5LQOQPFA,Easy Pie,02151,3.5,114,pizza,True,10127.86173889355,$$
+ZQNf8895P81vjCfyipjhYw,Scholars American Bistro and Cocktail Lounge,02108,3.0,376,newamerican,True,1482.1663969880333,$$
+gJYD0JUYJUrF_98isnn0ig,Fenway Johnnie's,02215,3.0,23,bars,True,2314.46987303427,
+8I275yw-PcoFgiXROgdFMA,City Winery,02114,3.0,304,venues,True,2115.97775251593,$$
+E2De90kZUtXIS2dy-vn1yg,Deuxave,02115,4.0,549,newamerican,True,1484.6695554955397,$$$
+5P5ycXMBRKvIZaEAKTdBBg,Parlour,02446,4.0,30,newamerican,True,4324.046857295721,$$
+kiEx6SbKY69fgDF-KVpEWA,Casarecce,02113,4.0,94,italian,True,2239.0623273277765,$$
+_vsgjhqs356JqeAPsP6XOQ,The Washington Square Tavern,02445,4.0,319,bars,True,5345.992701688971,$$
+Oj5Seggqo_2FfKSjcAg7yw,Empire Asian Restaurant & Lounge,02210,3.0,537,lounges,True,2183.0867601513382,$$$
+VEmNgxY90VOc5HNprOiXlw,Eddie V's Prime Seafood,02199,4.0,107,seafood,False,961.5020652076211,$$$
+8z_wiU74O4F6RDuIYrjZ0g,Forage,02138,4.0,114,wine_bars,True,5758.0145450284635,$$$
+dQ4elaeRxCwkJC3YveGykQ,SideBar & Grille,02199,3.5,31,chicken_wings,True,1041.153439133176,$$
+tSYxIloFnxf3H1UUI-FJWg,Dockside Restaurant,02148,2.5,122,tradamerican,True,8603.61433621265,$$
+XCPxbHLo0kmWSQv3ZqJvBg,Pazza on Porter,02128,4.0,100,italian,True,4020.4252429046487,$$
+ecqjHw3jeEApa9eZ622hAA,Fin Point Oyster Bar + Grille,02110,4.5,317,seafood,True,1837.5840252533342,$$$
+7lJXIkwfd-SmYGaQhg2zRg,City Works,02472,4.0,53,sportsbars,True,7277.921012106809,
+xGXzsc-hzam-VArK6eTvtw,The Burren,02144,3.5,500,tradamerican,True,6725.57897269241,$$
+c81oaaBKc7XJmoHGCudSOg,Seapoint Restaurant,02127,4.0,41,bars,True,2767.4940053905975,$$
+AHZMbcuI2tGmwxe9LB85BA,Papagayo Downtown,02111,3.0,225,mexican,True,1058.9285724120766,$$
+NX19BZuBNK-lZey8NoH0bA,The Bancroft,01803,4.0,670,newamerican,True,19866.324655898632,$$$
+R9Toci4ercJanvzQ24r7Xw,The Federal,02451,4.5,82,steak,True,16207.839958624758,
+6bw34tvKak9ZD0xA7iKM-g,Hong Kong,31210,3.0,519,chinese,True,4579.242541662205,$$
+KI6tobehgMlmwBoOxnl1gQ,Casa Caña,02135,3.5,81,latin,True,5632.560172623178,
+_OK9IEzkMWMlR9T4mF9RmA,Black Horse Tavern,01890,3.0,229,tradamerican,True,12736.246030573646,$$
+eqr5t-Py3oOhIuukz27dEA,Applebee's Grill + Bar,02125,2.5,162,sportsbars,True,2498.1325544543756,$$
+XlcWm3OdV1QrSPF_AwrlTQ,Shays Pub & Wine Bar,02138,4.0,229,tradamerican,True,4865.361127587114,$$
+CzzkGwY4N-tW8lUOPKOBNA,Boston Beer Works,02128,3.0,297,tradamerican,False,5004.398795043156,$$
+EfGkjkslMPVDcvHhavz62w,Joey Bar & Grill,02149,4.0,1,bars,True,8006.424547841649,$
+9W2sNkB_rVNV1DTtRbgtuw,Winter Hill Brewing,02145,4.5,147,breweries,True,5318.645661369219,$$
+S_T-0KCy0dQSEMFFk2o-Vg,3 Amigos Bar & Grill,02148,4.0,121,mexican,True,8681.15896929749,$$
+yzl1qq2ALNuIeWtBhAWLHw,The Dog House Bar & Grill,01801,4.0,41,tradamerican,True,16196.308533385454,$$
+loRoCo53b30zgHZ_mIMatQ,Amrheins,02127,3.5,436,newamerican,True,1482.126861331573,$$
+UsXWzOS7eOt8zv3qiQF6Nw,White Horse Tavern,02134,3.0,363,bars,True,4922.332306891348,$$
+_GnowT79JmzKvg5SHecykw,110 Grill,02184,4.0,425,newamerican,True,14533.403813879111,$$
+IMvYStWCvpzqiKxcCZT2WA,The Farmhouse,02492,4.0,199,newamerican,True,15503.470815364104,$$$
+i9Gi-LSagCrV6pLUfO2-3A,Purple Shell,02127,4.5,61,sushi,True,1324.008686063222,$$$
+ouHtxTVTVDB8KZ5mkLvU2g,Jerry Remy's,02128,3.0,173,tradamerican,False,4923.224025779093,$$
+2u_w3rthRzR2uEihW5BC4A,Giacomo's Ristorante - Boston,02113,4.0,3524,italian,True,2372.4665686945236,$$
+PZ0tYd5QzKvVLp2X7CWfwA,Brass Union,02143,3.5,155,cocktailbars,True,4068.9119215203264,$$
+0gCdE3fsWJ86YCT8Hnk9oQ,Causeway Restaurant & Bar,02114,3.0,175,sandwiches,True,1984.8112662243425,$$
+gsET9P93IJUj7eViFF35NA,PJ Ryans,02144,3.5,178,tradamerican,True,7623.732378505556,$$
+JNLsyyONWH-ympiY-7CUpQ,Baramor,02459,4.0,39,gastropubs,True,10123.35547752263,
+bMcozrCMkppinCDu0C5ueA,Penguin Pizza,02115,3.5,542,pizza,True,3204.3342917559016,$$
+w2QQiZN5tXZ5CD4XKLnu7g,Jeanie Johnston Pub & Grill,02130,3.5,102,pubs,True,5937.526706199035,$$
+8B_WzsThkSvef8011Oub6w,Chili's,02150,3.0,96,tradamerican,True,7444.544253012692,$$
+WRv36_xwynru5AFVEyCOkw,The Marina Restaurant & Bar At the Wharf,02151,4.0,254,seafood,True,11956.27069924746,$$
+uxaLFWos3_BGTXtQNEuZuQ,Donohue's Bar and Grill,02472,4.0,149,tradamerican,True,7448.377318338897,$$
+l2nLuCGaadfqDTvaEqk5bw,O'Hara's Food & Spirits,02461,4.0,256,tradamerican,True,11458.196006632432,$$
+5KHaTbBgPPvnfK8VNoMEgw,Tamo Bistro & Bar,02210,3.0,163,bars,True,2476.829010564075,$$
+WLYDPoWGriHWtf4BmRVx2Q,Volare Restaurant and Bar,02151,4.0,189,italian,True,8450.015464125398,$$
+wA__asXpc5UJFtOEBWBluA,Harp & Bard,02125,3.5,178,tradamerican,True,4027.5881490743573,$$
+frKpQpQC0hTAFy85ns923w,The Biltmore Bar & Grille,02464,3.5,344,pubs,True,13051.758119695409,$$
+fEKzWC1sbfZSElp46FoNag,Mooo Restaurant,02108,4.0,894,steak,True,1389.9730017343259,$$$$
+Y1-cXsWZ1v2rRj5MMtFsqA,Commonwealth Restaurant and Market,02142,3.5,312,tradamerican,True,1949.1841469699768,$$
+uYqizPy4eUSpwOha0RkVPg,No. 9 Park,02108,4.0,669,french,True,1286.3523933242152,$$$$
+KxwvG_l_bRJUTC8SUOHcRA,The Brown Jug,02150,3.5,220,pizza,True,7328.820894022157,$$
+AKInxxg4sIuHQ5IMT13wOA,Sally O'Brien's,02143,4.0,46,irish,True,4271.538392382971,$$
+CWqL2TEq_V9tipCj-X-GoQ,Granary Tavern,02109,3.5,625,newamerican,True,1960.886106206758,$$
+629nHJEs1Spt4bI3mI2JwQ,The Townshend,02169,4.5,363,newamerican,True,12016.309894880578,$$
+QIq-oL_3NTz9Z3aK9OizGw,Gustazo Cuban Kitchen & Bar,02453,4.5,602,cuban,True,13845.013348120698,$$
+ovIxZ7qvNT76tilujesmIA,Corazon De Frida,02139,4.5,62,desserts,True,3665.203350727449,$$
+9RH1xBIMMAZXg9s_XW_sLg,Giulia,02138,4.5,453,italian,True,5559.31166595636,$$$
+3ysQylsFQj7JNIlQjncQeQ,Max and Leo's - Newton,02458,4.5,378,pizza,True,9567.808633460843,$$
+et8Pwzjy2vjRhETAgEZ1Lg,Legal Harborside,02210,3.5,1406,seafood,True,2757.1333057228967,$$$
+HatHuBZ4mwNBbHSeC32p1A,Colette Wine Bistro,02140,4.0,82,breakfast_brunch,True,6123.408563524135,
+7M6tbueoJc_TX4ut_qp5HA,Stars On Hingham Harbor,02043,4.0,261,seafood,True,19104.832254492674,$$
+3F5TXK8dL72UqwIE9OlNnA,The Pub,02143,3.5,95,tradamerican,True,6648.651376968473,$
+mf4iQmyh4oxssF4YhWfC-g,W XYZ Bar,02421,4.0,5,venues,False,18966.633281932016,
+uKB1eXRNNBq2w4-wUkusZA,Charlie's Kitchen,02138,3.5,895,burgers,True,4953.62191875903,$$
+pweAOylTmRWYDV2AlggCNg,Latina Kitchen & Bar,02492,4.5,48,mediterranean,True,15463.314171828142,
+I4PeclAxAwHsBneAFD97CA,Daddy Jones,02145,4.0,191,bars,True,6077.47531622839,$$
+XE3oEdVJ2wu_J5X8TdLU-w,"730 Tavern, Kitchen & Patio",02139,3.5,91,tradamerican,True,3442.743334637831,$$
+q57nAhieOJtH1wsXhci0Nw,"Pastoral - Artisan Pizza, Kitchen & Bar",02210,3.5,454,pizza,True,1846.7024366170301,$$
+Vnq-kO_VO-gLFM4ItffzzA,Devlin's,02135,3.5,423,tradamerican,True,6663.84690361968,$$
+kF_0OkW9sTQQNIwQfbDE3Q,Chelsea Station Restaurant Bar & Lounge,02150,4.0,276,newamerican,True,5822.731496579509,$$
+yngIcg8mi-XPTAOocYGIJg,Beat Brew Hall,02138,3.0,84,tradamerican,True,4935.789134495744,
+3hXCc6w8HxJmp3ZL2EjX1g,Krave Kitchen & Bar,01801,4.5,2,tradamerican,False,14737.163942540972,
+UIELOyfVuKrW8rdTOWQa7g,Jeveli's Restaurant,02128,4.0,236,italian,True,5037.916398174179,$$
+_Ks1hiymH5k4iqBk48oOTg,La Fania,02149,5.0,2,bars,False,5563.582619360079,$
+KTYNXnLKrd-0sBvaVwUYSw,The Black Sheep Restaurant & Bar,02142,3.0,91,newamerican,True,2069.1809254605914,$$
+AGR_kBvN__I7aTl0rBywAg,Atlantic Fish Company,02116,4.0,2583,seafood,True,826.6340017964785,$$$
+lJ3b2dR2V98Yc3SM_kO37g,Reflections,02145,4.0,2,lounges,True,5110.90811605973,
+WsYQF28GdiStUJuLSecIaA,Spoke Wine Bar,02144,4.0,232,newamerican,True,7151.916723470512,$$$
+QaVJlPkn48gDVymrqKn8DA,Local 438 Grille & Sport,02180,3.5,84,sportsbars,True,16378.052271815634,$$
+xXj6XsEvpRJ0hMHAh9N02A,The Independent,02143,3.5,427,bars,True,4036.2104637757925,$$
+GxhifC8yMJllH2pguLhrIg,Zo Greek,02145,4.5,154,greek,True,4912.432264695738,$$
+9-KBO2jGuvMCrM88ysDLTA,Foundry on Elm,02144,3.5,781,bars,True,6737.390385139511,$$
+RDZJY7ls8-2hNkkXFIJg4g,Boston Chops South End,02118,4.0,609,bars,True,716.8464607657135,$$$
+CRV5pbiOC_EXCqQrRZ98BA,The Blarney Stone,02122,3.5,223,bars,True,5465.968497601028,$$
+nq902iEwTCZv-EzZV2wHQA,Five Horses Tavern,02144,4.0,788,beerbar,True,6702.4812550645665,$$
+oDGOAQneCBTgfSHsouJvmQ,Jamaica Jeffs,02478,4.0,46,caribbean,True,10162.664027000988,$$
+LGCC_NYgWz9qUFyYqeS89g,Happy Crab,02144,4.5,44,seafood,True,7675.570589172619,$$
+T4nEmSQNeTKnNgcHpnvH0A,Panza,02113,4.0,1307,italian,True,2355.2892760031627,$$
+JoygPx7-luRucKGtik8pWw,Blake's,02114,3.5,20,newamerican,True,2037.7573943814,
+YFkrZhuA1phCiJB1EJV39w,Middle East Restaurant and Nightclub,02139,3.5,543,mideastern,True,3043.723363196665,$$
+1m24sCgIRmzaQU1WhQ9eWA,Island Creek Oyster Bar,01803,4.0,279,seafood,True,19059.105111237393,$$$
+mKmJQYByaCqWVs2TsF9ogQ,Pollo Club,02453,4.0,33,chicken_wings,False,13829.424382855997,
+Q399JsTaCKmokcmWXyoQUQ,T'ahpas 529,02176,4.0,224,tapasmallplates,True,13451.842518391764,$$
+F0jYQlhwSiAiQxM-UmCdOg,COOK,02460,4.0,465,diners,True,11162.211144965513,$$
+aeTSZOU2hwStTwteuwJkVA,Bistro781,02453,4.0,377,bars,True,13826.260316668266,$$
+B0ZTztL-vjgm2Tc1ZxSbHg,Stockyard Restaurant,02135,4.0,346,bars,True,6453.454935439329,$$$
+eZcy-jmMJyYurpAi4xRVvA,El Potro Mexican Grill,02143,4.0,245,mexican,True,4081.232553766354,$$
+SRCpBVqcqoMdyJcJ8qJd8A,Oscar's,02026,3.5,105,bars,True,13932.149727515984,$$
+Z3-r4EEXnL82TF27wdzSyw,Yellow Door Taqueria - South End,02118,3.5,44,mexican,True,710.606935562305,
+EwKnLuWAWT4wD_LOjRdGew,Town Tavern,02474,4.0,99,pubs,True,8706.815041771459,$$
+DoxJ_ELGpQHDtuCNXEWtCw,Clarke's at Faneuil Hall,02109,3.0,193,tradamerican,True,1833.2458984245814,$$
+EqniJ93DOeBjQo83E_Xd3g,Mystique Asian Restaurant & Lounge,02149,3.5,80,sushi,True,5157.944072867156,
+BNHywyVhZNdyOu3bcqbyhg,99 Restaurants,02129,3.0,81,pubs,False,3029.997918376346,$$
+DGlk1nTaaRE6uJFJbKv45A,City Table,02116,3.5,294,bars,True,698.0036433279581,$$
+ltviyVvUODAkT-xUBP9NqA,Not Your Average Joe's,02128,3.0,3,bars,False,4718.499061232376,
+Ud52z9ZOMZlKh7P0vuPegw,Sushi Momento,02445,4.5,90,sushi,True,6634.831735404542,$$
+40tVXCga2f1xa13cUd8Yog,Lingo Cafe & Bar,02141,3.5,22,bars,True,2414.734364701749,$
+4rYlrxCQY4dxUzdctfXOuQ,Dos Diablos Taco Bar,02115,2.5,18,bars,True,1482.183634122622,
+EN15n4bu3Sc1KgOiV9mOcA,2Twenty2,02114,3.0,70,lounges,True,2004.8950592290003,
+leGlDtF4iveddK_uuBC8lQ,Cambridge Common,02138,4.0,717,tradamerican,True,5498.442106850363,$$
+Ucl0LL0jaHM9vtkbnK-8vQ,Brick and Beam,02169,3.5,138,bars,True,10592.62734698006,$$
+5Ekp-L6hnnZz3-qPkNHy3g,Napper Tandy's,02131,3.5,72,irish,True,8160.989840630896,$$
+vmKoJXSimRhwPnpePBJGXA,Serafina Downtown,02110,3.5,165,italian,True,1384.5659454884237,$$
+_J0pNqx8XFa_l4HmBCrIkA,PlayMakers Restaurant,02453,4.0,19,tradamerican,False,13832.166326866552,
+9tEBtu2x3LZFB5eSJebh7g,Tequila's Mexican Cantina,01880,4.0,127,mexican,True,14850.155319162892,$
+435AFqUlpfkv2MvSHw6S8A,Coolidge Corner Clubhouse,02446,3.0,427,sportsbars,True,4270.887179090636,$$
+iu6vsQ4p7bO7eODQQmYOJA,Cisco Brew Pub,02127,3.0,19,tradamerican,False,4906.591629464699,$$
+lXqHE_77ENPFxZVe9VScTg,Alumni,02189,4.0,26,pizza,True,19434.793720317262,$$
+vQNe7TD_QDpGtGbkaAqi8Q,Bacco,02113,3.5,346,italian,True,2232.7617918781048,$$
+8xEzPWnw0u5bm7sXavEiUw,90 Restaurant,02152,4.5,30,newamerican,True,8457.072306679785,$$
+9Bt9MMtmjPB6IykEMrFB7A,Tavern in the Square,01803,3.5,408,sportsbars,True,19164.48535432553,$$
+wt-fwK_Y4WmJ0HBui4EsIQ,Fat Hen Broadway East,02145,4.0,98,italian,False,4586.969686733351,$$$
+20znyS_wba0KUlbLtibdHQ,Tony C's Sports Bar & Grill,01803,3.0,248,sportsbars,True,19939.16100337062,$$
+uwM1H0CwDmQ6IsfLfoxTyQ,Caprice,02116,2.5,35,lounges,False,520.8998998144522,$$
+_1r8W-j_3WwJyRRIQR86Jw,North Square Oyster,02113,4.0,196,seafood,False,2311.7494908604795,$$$
+UBnYZaeTqDOunjNFlIKsFw,Hugh O'Neill's Restaurant & Pub,02148,3.5,229,irish,True,8778.645286821684,$$
+TLtykd3vG5_BG-8MP66RHg,Kings Dining & Entertainment,02115,3.0,513,bowling,True,1192.7500487652962,$$
+bIrQmUeBtfTdRT4S9Y3mkQ,La Gran Manzana,02128,3.0,9,brazilian,True,4052.662104830196,$$
+BQunhLBOYq7F0Iz-YWhjiA,Copper House Tavern,02451,3.0,298,newamerican,True,16313.405089033773,$$
+ZAV8c9iGKV8zWHxOpTxdYQ,Select Oyster Bar,02115,4.0,368,seafood,True,1061.0996496973162,$$$
+5-yfhwOIkUhvDE_O9E0EjQ,Tuscan Kitchen - Seaport,02210,3.5,247,italian,True,2099.044528906367,$$$
+aAntWIjPrU3Pf4Pr_m7dBg,Napoles Restaurant,02128,3.0,19,colombian,True,7700.913889035774,$$
+_FtG-mqx4eTAcRoypDxINg,Monument Restaurant and Tavern,02128,5.0,2,bars,False,4118.757480255682,
+tFjWlJCDpANBRAPSMc5Cew,Bastille Kitchen,02210,4.0,284,bars,True,1741.8840514732667,$$$
+qM2uL512NnC_cIxdQVTKew,Sweet Basil on Moody,02453,4.0,9,italian,True,13866.530612940194,
+yE-L6UojGwslXb_IWuqL2g,Mission on the Bay,01907,3.5,398,newamerican,True,18389.223822111417,$$
+Ab_eNGXr2PhZSt5thxjJ6Q,G Bar & Kitchen,01907,4.0,104,bars,True,18522.32402816509,$$
+uND3ramjqFFZ7acTMzWrSA,Jake n JOES Sports Grille - Braintree,02184,3.5,97,sportsbars,True,17579.04152514947,$$
+0s8iv660dB30pHK4W1r6KA,Genki Ya - Boston,02116,3.5,495,sushi,True,657.2505217108808,$$
+5k5SW78NHHWy9gFhUgoWIA,J J Brannelly's,02131,4.0,18,pubs,True,9164.497489321286,$$
+F_1OOxF--SnAIquhq8Ohjw,T&B Pizza,02143,4.5,21,pizza,True,4027.4989907733247,
+gwiBd_RCD2Hcd3_ESjyMbA,Massimino's,02113,3.5,377,italian,True,2354.941748491732,$$
+dHxCRFtlLM4DojmxgeyS-A,The Island Caribbean Cuisine & Drinks,02148,4.0,24,haitian,True,8573.817457750556,
+5Jm8du6LOoQGvGcaDuVj7w,Tasty Burger,02116,3.0,208,burgers,False,363.21303379377895,$
+sYwiUHojCnVM7dZAhFWrmw,Curio Coffee and Wine,02141,4.5,213,coffee,True,2829.326106296105,$
+KOXi-uBVU7vzjVghYcpb-Q,Lazy Dog Sports Bar,01904,4.5,91,tradamerican,True,17802.19072678442,$$
+rlnEm-mJWGR0q807Ei_NHw,The Chantey At Marina Bay,02171,4.0,55,bars,True,6448.662366200259,$$
+ysxXehAKCjN137hnfpn6yA,Trattoria Il Panino,02113,4.0,443,italian,True,2254.1943143139374,$$
+RF2YhEH__pDNKAhMwZmCUA,Anthem Kitchen & Bar,02109,3.5,499,newamerican,True,1840.3853112049237,$$
+CoZmZKv2lCYd-UoAsAUobA,Asmara Restaurant,02139,4.0,344,ethiopian,True,3463.155662709792,$$
+F9CV9OuIhW-pm-PKKFXVBA,Finch,02114,3.5,34,wine_bars,True,1922.6530460912518,$$
+1hju79jdCKIe68csk-kNrA,Ruby Room,02115,3.0,24,lounges,True,1981.037227827741,$$$
+7kCMcEEKXqItFv5m0-Yj4g,Rabia's,02113,3.5,639,italian,True,2149.5006586656064,$$
+Goxa2_7dOZo6z8SqSy-F1w,Casa Vallarta,01906,4.0,305,mexican,True,16921.347305772946,$$
+m5jCNOs6QG75lkzLhMMryA,Artu,02113,3.5,384,italian,True,2314.637470585691,$$
+8zLHresim_7dPvkYSuBVzA,Menton,02210,4.0,488,french,False,1901.0351878512847,$$$
+Uh-vmfKAZAhSeauShT0UEQ,Asta,02115,4.0,189,newamerican,True,1489.7469365308464,$$$$
+sN2G7DGRc_whgIcZf7FHdA,Putterham Grille,02467,4.0,114,mediterranean,True,8267.042054188012,$$
+4kTfzwqYQlKaJIa-O7p9lw,Jake n JOES Sports Grille - Waltham,02451,3.0,201,sportsbars,True,16116.591629358703,$$
+htEuhPBhBgMs6ShlT3G3JA,Regina Pizzeria,02113,4.0,2072,pizza,True,2285.524037390261,$$
+JZPPsLYmLCc9uwuolor7cQ,Temple Bar,02138,3.5,509,newamerican,True,5572.6798092701665,$$
+RzgwMOAVg76OQ_-w_xWMtg,Yard House,01803,3.5,58,newamerican,True,18998.67839752375,$$
+sp63UqDzXbvXzAEJNVGinw,Seasons,01908,5.0,6,wine_bars,False,14263.776987930247,
+DrBE3gxgCkIZiBupHBHzDQ,FAB,02143,4.0,558,newamerican,True,4420.433656378076,$$$
+KYXBqlWzj1qr7XtPwCcRTg,The Bistro Restaurant and Bar,02114,3.0,2,newamerican,True,2199.958961036856,
+3bkcl_O4A8jgvZNjf8GptQ,Shanghai Moon,02155,3.5,74,japanese,True,8514.457626947138,$$
+wjFWMUEo-Azw3TYsDIUpbQ,Tavitas,02110,3.0,83,bars,True,1418.0815223452464,$$
+I07zWZ_JGqVAp3ZPxIpDYg,Summer Shack - Boston,02115,3.5,924,seafood,True,1187.745265741595,$$
+8TiS3Dcur6_SWQnaVIVOxA,Myung Dong 1st Ave,02134,3.0,334,korean,True,5021.739675608772,$$
+j-JGN1f_cN_20oePpRWXrw,Union Brewhouse,02188,4.0,117,tradamerican,True,18495.585864680183,$$
+91aDQQV8_OdFC6WIHq4gng,Lucia Ristorante,02113,3.5,541,italian,True,2492.5164489220765,$$
+3IRA159ZbwTAEL3WqcZZiA,MJ O'Connor's,02210,3.0,221,tradamerican,True,2306.358712258278,$$
+aVS9DWS7GUcF6oExGmYnlg,The Sinclair,02138,3.0,418,musicvenues,True,4999.925403143425,$$
+YRMlhKB5GNzi-ayda7DWaA,Shaking Crab - Brookline,02446,3.0,63,seafood,True,4174.927879134961,
+TDZntLCBYk4PsGYWP2fD3w,Kings Dining & Entertainment,01803,3.5,260,bowling,True,19855.196699268592,$$
+h4zAQs9BHUrErZod0u48JA,Wisteria Restaurant,02111,2.5,26,wine_bars,False,586.5805159806399,$$
+F7VQPCsmz9N7xgQvedae2A,Semolina Kitchen & Bar,02155,4.0,163,pizza,True,7177.24726735438,$$
+Zm29bLI2eYCevnse4n2U1g,Luna's Restaurant Italian and Latin Cuisine,02128,4.5,70,italian,True,6674.952810018152,$$
+jEF3IUxw1ZsGQD8xz7V7Ng,Paddy's Public House,02465,4.0,206,bars,True,13027.94313156188,$$
+Kiqu0GIYLOfxyp-dbvvsmw,Porter Belly's Pub,02135,3.5,89,bars,True,6677.454292017065,$$
+BCViqhu_svtkPqNqCd-9rw,Applebee's Grill + Bar,02171,2.5,106,tradamerican,True,8353.34789607487,$$
+Je42YeoIWbMUQphd-UsKLA,Paddy O's,02108,3.0,195,sportsbars,True,1898.967229290534,$$
+-8u9P253kZlukUqbDXrPgA,Porter Cafe,02132,4.5,227,bars,True,9285.85579343242,$$
+RYMtSv6zhuw-puGKp84-dQ,Hennessey,02109,1.0,13,bars,False,1876.2637819474003,
+QhhOFdwFrgHFjrUYlI67IA,Menotomy Grill & Tavern,02474,3.5,383,tradamerican,True,8048.1121573528135,$$
+uSM_sCp22BJWeatTDl6ODA,Harvest,02138,3.5,538,newamerican,False,5070.169922092223,$$$
+z3sGEryasCW-fCARryccNA,Cherry Tree Bar and Grille,02465,3.0,50,newamerican,True,12920.004185651,$$
+-p3SYaAiLKFc914fKyEPTA,West On Centre,02132,3.5,311,newamerican,True,9334.787104202422,$$
+XgR_JOWMTpd0xJeFq_tc-g,Fratelli,02149,3.5,93,italian,True,5265.700726475981,$$$
+LS8KDzUUUPAIc74_VrJeFg,LaMei Hot Pot,02446,4.5,16,chinese,True,4166.817109126545,
+jISD9TeLpnWOwVxAUafaJA,Yard House,02026,3.5,894,bars,True,15628.765990298718,$$
+cUxqEaLLXkRHlfyAX1Z6fg,Nightshade Noodle Bar,01901,4.5,60,vietnamese,True,16642.50729661867,
+mO7pW120PwyAab5l2BGsSA,Populus Tapas & Bar,02150,3.5,3,bars,False,5499.25244045768,
+0jfx6KQcWax5QRcxrvkSlA,Legal Harborside,02210,2.5,2,bars,False,2757.1333057228967,
+7l4W45Y7BwJpD2sytYNXgQ,Eddie V's Prime Seafood,01803,4.5,116,seafood,True,19351.297307412373,$$$$
+Sgm85LgzOGfcImy5jc9ijQ,Summer Shack-  Cambridge,02140,3.0,530,seafood,True,7672.668228528217,$$
+Zk2hzvQKq065gTwvAsFt8A,City Bar,02210,3.0,52,lounges,True,2329.5524168324564,$$
+LGNpVs8cRBllNVml8wI0Vg,Limoncello Ristorante,02113,4.0,701,italian,True,2239.352572102315,$$
+5HVHP_aUc_a6jdyBjq13FA,Fit Z's Bar and Grille,02472,4.0,44,tradamerican,True,10491.167860113097,$$
+KAyX9k6eaKrNigFGgwqm6g,Brandy Pete's,02110,3.5,75,tradamerican,True,1767.5514752446074,$$
+dXPmYs9b3xyv9Zqa0z8adA,La Voile,02116,4.0,530,french,True,1012.4931723689402,$$$
+zMDMx_QggIRrxF4jz0eJSw,The Reserve,02110,3.0,29,newamerican,False,1657.6791625671556,$$$
+Mj9P_ON9YPDmFV4GJXYYYA,Seasons 52,02467,3.5,349,newamerican,True,9218.406439583818,$$
+dHwuTZr_W2YJeuEv6fAl5A,Ritcey East,02472,4.5,132,newamerican,True,10153.539985819127,$$
+WVt2GdaHqZNE5qUIJ7k3Eg,Grendel's Den Restaurant & Bar,02138,3.5,824,bars,True,4909.25361507901,$$
+M_0hAzKIjAoEzg9geMlrHg,Nubar,02138,3.5,146,lounges,True,5376.856666983326,$$
+VlXOIzTFaEwF--oPFzfDkA,99 Restaurants,02145,3.0,93,tradamerican,False,5222.725722184609,$$
+jY0s_NgQmRiXsEYLW4qr-A,Brick Yard Bar & Grill,01902,4.5,38,bars,True,15681.305795961756,$$
+C1I-BBHBtM85eF7SD5xqQA,BK's Bar and Grill,02151,3.5,7,bars,False,9247.585362097729,$
+1lJ-a4dK59pRLHcibgdKGg,Conley's Pub & Grille,02472,3.5,123,irish,True,7726.79325284775,$$
+gvdQwBeV6bOCOvTKxVmTcg,Tempo,02453,4.0,437,bars,False,13822.095113836833,$$$
+DrQgIMe9fKfNvvHoXO8Y0w,Social Restaurant & Bar,02458,3.5,164,newamerican,True,9543.994561329535,$$
+jXyC3JvKQRdyKcCyGD2AvA,Kelleher's Bar & Grille,02131,4.0,37,bars,True,8024.976805758644,$$
+XUepp8T9xSMBuvlEG_-DrQ,The Capital Grille,02115,4.5,948,steak,False,1139.6703167645894,$$$$
+BJXadWOLyGXzly7Iqx4W_g,El Potro Mexican Grill,02148,4.5,274,mexican,True,7987.930021591283,$$
+ZPCrCl8K5slskpZ7Zz2uqg,Lily P's,02142,3.5,50,venues,True,2008.238029449009,
+_k1MnI6_J1-Z8Ft3ybWrFQ,Richards,02139,4.5,17,bars,True,3555.641227068481,
+m8NfajOPmG7G0O9aaMdQQA,Cafe El Molino,01905,4.0,7,dominican,True,14577.900235439973,$
+fNdehpeJkjtPF-EXGlDhWA,Waterfords Restaurant & Pub,02026,3.5,52,irish,True,12061.095969568249,$$
+lRQgzxa-1pvKJg9m6lkdYQ,The Local Kitchen & Drinks,02451,3.5,52,newamerican,True,16460.010205186896,$$
+2sv_Enskt7Gt9vXyxlE3aA,On Deck Burger Bar,02149,3.0,70,burgers,False,5157.4951357413365,$$
+V-dVahKTe8d5ikGUvgXzzA,Stephanie's,02128,3.0,321,tradamerican,False,4674.233229674088,$$
+-bu0xUnlhHWl_6Tv2gXNNQ,Buffalo Wild Wings,01906,2.0,284,tradamerican,True,13378.61324560047,$$
+VDmV3tPEQqFxzqQJRJazNw,Legal Sea Foods,02109,3.5,1323,seafood,True,2111.430710670027,$$$
+I2DIg6ZRkA1PNCf5zWeAFw,Rowes Wharf Sea Grille,02110,3.5,210,seafood,True,1959.4573728303037,$$$
+VQ_rPYmWwSjLs57PKYqH0w,Line Steak & Brew,02149,4.0,1,restaurants,True,8108.293878601365,$$
+UL_SGUZVcu9vsRtdcULFKw,Mick Morgan's Norwood,02062,3.0,6,irish_pubs,True,19177.25790389075,
+2JonVpR8n4rF8qbFnUpAcA,Buttonwood,02461,4.5,58,newamerican,True,11612.63016061456,
+6yrjZhxhE-XmSutZKXeV0g,The Village Manor,02026,3.5,60,tradamerican,True,14243.549244318196,$$
+eaeuswDi4Lfr9qVOqnbviQ,Ashmont Grill,02124,3.5,412,tradamerican,True,6885.787709332481,$$
+MVfW9obIIYKyndv41vMavQ,Saus,02143,4.0,55,vegetarian,True,4299.134625521373,
+tPY0JQVfAVEvVeDauJKEHg,Exchange Street Bistro,02148,4.0,449,newamerican,True,8758.501095652253,$$
+tqq3nQ9Gg0sNNrlndZlSHw,Papagayo,02145,2.5,400,mexican,True,5411.305355273528,$$
+3N7HUsO6O8Xl0DiRLJ-MAg,Luce,02138,4.0,19,italian,True,5527.101881951487,
+9mClygXHgT32dBxwBvGLww,The Gallery,02116,3.0,12,newamerican,False,567.6140059671874,$$$
+x1RMxTftVIjS8HvWf8tpoA,The Red House,02138,3.0,554,newamerican,True,4932.079601077215,$$
+wi1WvjRXaRaQF9Lvj3kDjg,Ruth's Chris Steak House,02145,3.5,43,seafood,True,4928.265967637896,
+qltv0gTM_T2KMj-xTX7Xgg,Trident Galley & Raw Bar - Hingham,02043,4.0,102,tapasmallplates,True,16249.695432347158,$$
+Ta0fmDvhG7SjcAjADFTntw,Savvor Restaurant and Lounge,02111,3.0,86,lounges,True,1072.529540264446,$$
+hbqAW0QZDV6XRxJJfOVTzw,La Cucina Italian Eatery,02145,3.5,143,italian,True,5102.95428795616,$$
+yoem-KW_Jln0LqsdLwLeUQ,Grafton Street,02138,3.5,814,tradamerican,True,4564.37936685556,$$
+H_XBx4erPI4IrUo8WySPLg,The Mad Monkfish,02139,3.5,799,sushi,True,3118.486622716568,$$
+yFexu7VAvozTZW6dWRYb0A,Scoreboard Sports Bar and Grill,01801,3.0,185,tradamerican,True,18085.085376216717,$$
+rJ0-X1-ZZ-GEd4c3BmWcmg,The Fours,02169,3.5,286,tradamerican,False,12450.40741232112,$$
+1Pemq90PJykugLYphPK1mQ,The Heights Harvard Restaurant & Bar,02138,4.0,8,bars,False,4943.445787400941,
+LSdQ20x7H0sJEADYUNrvaw,Victory Grille,02026,3.5,126,sportsbars,True,15972.22442847126,$$
+M_LWUPOK3CfShYltP3KvlA,First House Pub,01890,3.5,80,pubs,True,12747.120008831782,$$
+G7iw9QSWBMyB05yvq-xs4Q,Fuji At Kendall,02142,3.5,347,sushi,True,2124.095348928493,$$
+KhcJ4jcLos6Kd42pL9iZLA,Redstone American Grill,01803,3.5,321,tradamerican,True,20001.797885555923,$$
+8BUt8TPUoT9ShBDDVdU6Uw,Newtowne Grille,02140,4.0,264,pizza,True,6163.0775104094655,$
+x5MeBI8ahqQLAy2H9u3d2A,Taqueria Doña Julia,01901,4.5,8,mexican,True,16417.435290665293,
+nqKL5PbJbwwoCK_Xon31kA,Maggiano's Little Italy,02116,3.5,908,italian,True,421.10181258218904,$$
+RHTGt1O7VD4fSNtzqr03kQ,Buffalo Wild Wings,02184,2.0,179,sportsbars,True,14507.684999200612,$$
+bCe4zMLMfg09FN3qCON0CQ,Roza Lyons,02127,3.5,39,salad,True,3133.4098059943203,$$
+p4lNrHvbmOOkp4wGQpyLDA,Cinderella's Bar & Restaurant,02139,3.0,65,italian,True,3608.5321086897316,$$
+kAFRR5tmi3RI8-XfLpNi5Q,Legal Sea Foods,02128,3.5,333,seafood,False,4431.569052267113,$$
+8Oz37ge-a_ZgTGpORlutPA,Vincent's Asian Bistro,02368,4.0,107,chinese,False,17006.080886183117,$$
+x3iJsnBek6YOxPX_CZMj3g,Paddy Barry's,02169,4.0,29,irish,True,12618.046308991712,$
+DJjyfnmPWnsb4cBT35YSmQ,621 Tavern & Grille,02148,3.5,92,newamerican,True,10940.683791527987,$$
+CdNU-9vezpGA6ZL0z4WCrQ,Temazcal - Burlington,01803,3.0,133,mexican,True,18056.66335319727,$$
+wy083KJ6Y_I6RlPYnja1ug,Game On,02128,2.5,7,bars,False,4129.381698734053,$$
+aNMoeGt3ulCJ6eLlyyjyZg,Kings Dining & Entertainment - Dedham,02026,3.0,360,sportsbars,True,15756.24549065332,$$
+-C1gES7-4-PlFLi8xFFMvw,Aquitaine,02467,3.0,205,french,True,8283.255885449093,$$$
+FmAIHFqUBNkCw3YBCRQLmQ,Redbones BBQ,02144,3.5,1779,bbq,True,6735.139533315399,$$
+mI7qw74vuPgf4LJWH3M2oA,Vintage Restaurant and Lounge,02110,3.5,161,lounges,True,1861.3754516910847,$$
+55NGHog-Oh8QyrmLVR25HQ,In A Pickle Restaurant,02453,4.0,652,breakfast_brunch,True,13869.76438542324,$$
+PsUYM5VJ4rSKCsOYyrWxbQ,City Streets Restaurant,02452,4.0,109,sportsbars,True,11711.499724718311,$$
+l08g9hFjf_tFpdN6w8EpbQ,Corrib Pub & Restaurant,02132,3.5,80,tradamerican,True,10309.146506728744,$$
+VZTp9M1Uqb9_l-WHsWehfQ,Mad Raven,02451,3.5,130,breakfast_brunch,True,14594.283796050528,$$
+XgJWwSXomuSblxFBE-AxpA,Petit Robert Bistro,02118,3.5,424,french,True,822.006721814241,$$
+tCwvQQwNCFNuxAWAHL550w,Orleans Restaurant,02144,3.0,387,sportsbars,True,7085.2770975827925,$$
+X6aH_miGeRWrcNXhuKnbYA,Brothers Restaurant,02446,3.5,299,italian,True,4585.824224181948,$$
+L1yCGs1G1KM-LLIrLIWAPw,Hooters,01906,3.0,201,chicken_wings,True,13761.90081958401,$$
+FnLkn8ptLLCxtzdmhcMNVw,Cappella Restaurant,02492,4.0,67,italian,True,15468.560381957563,
+JHYOusJBXe4wW33oJoEtzw,Margaritas Mexican Restaurant,02453,3.0,469,mexican,True,13881.709285485103,$$
+2CigAh1ZFBpko2C96fy93g,Mad Hatter,02189,4.0,585,breakfast_brunch,True,19877.55016547018,$$
+xfDSf7nX9WQQIFqxbYG2OQ,Ocho Cafe Tacos & Tequila,02191,4.5,79,mexican,True,15980.698800896946,$$
+Fs0TBSzJmybCMCDwFIJHZA,Hooters,02026,2.5,77,tradamerican,True,15293.50367386844,$$
+KUh4_gXJp55Wy0h8nL81cQ,Anthony's Pier 4 Cafe & Hawthorne By The Sea Tavern,01907,2.5,147,seafood,False,18345.579904749313,$$$
+jkEG9ZbTCq_qvrjBcBnSVw,Habesha Ethiopian Restaurant,02148,4.0,243,ethiopian,True,9010.716307827011,$$
+uJMeAo9P6C4845dU_NGCgA,Trinity,02109,2.0,31,bars,False,1925.7818614782973,$$
+whrxNVNwY3BLb2SYPWsX0A,Salvatore's Restaurant,02155,3.0,257,italian,True,8548.974145493434,$$
+c5ifOiyEjJj6kZenohmFTA,Royal Hotpot Korean BBQ & Bar,02169,3.0,22,korean,False,12794.054063151023,
+q5dHr7QnzUooZ2vSUHyVvg,Nico Ristorante,02113,4.0,578,italian,True,2493.758548028107,$$$
+sKh9YtVz7ct3S-bt4scgCw,Tahiti Restaurant and Cocktail Lounge,02026,2.5,149,chinese,True,14112.962334424432,$$
+RjmSNF_Ox9znr5OaiXOndQ,Rhino Lounge Restaurant,02453,3.5,10,lounges,True,13610.012530786264,$$
+C8-SeZtLTvzZjxB5ObhRjw,Ducali Pizzeria & Bar,02114,3.5,280,pizza,True,2398.100443958411,$$
+Z6zAW5KYUbOqlv1pa63STw,Margaritas Mexican Restaurant,02151,3.0,175,mexican,True,9144.459985326284,$$
+UgamQu5z9oE_K3YtSWPgRw,Las Delicias Colombianas,02151,3.0,16,colombian,True,9050.428345345961,$$
+TacbXp9d2nsKLF8RlZH9sA,John Brewer's Tavern,02453,3.5,221,tradamerican,True,11774.73066730591,$$
+sTpZYdIjbe-JqpPmINo43Q,Royal Rooters Club,02215,3.5,22,tradamerican,False,2277.132323653853,$$
+xVJv__UZMNfW1O4oGUrvWw,Terramia Ristorante,02113,4.0,447,italian,True,2207.090654134311,$$$
+dxtwupZSbSSWXQ2LWYJ_VA,Corrib Pub & Restaurant,02135,3.5,59,newamerican,True,6703.291151431076,$$
+N4YUgRiHAb1vTUC0CQ6bOw,The Mooring Bar and Grill,02191,3.5,39,bars,True,14790.651171063766,$$
+Z4nYOABio2eASB9x7h43Cw,Fox Sports Sky Box Bar and Grill,02228,2.0,16,bars,False,4591.737190863951,$$
+Ha14TNOp-9Deawus_V-69g,Horse Thieves Tavern,02026,4.0,76,tradamerican,True,13880.940336039712,$$
+1HCuVv2R_o5ummMK5gyX3Q,Hancock Tavern,02170,3.5,103,bars,True,9989.198775833978,$$
+10kbx9G-0nApmL1WXePLig,Winners Sports Bar & Grill,02149,3.0,14,sportsbars,True,7748.515948596805,
+PBt_sana68L9ZjgQzeJ7zw,Ristorante Fiore,02113,3.5,626,italian,True,2193.411319585211,$$$
+dHDZpSFJv6OruviJSU3YTA,Fuji at Assembly,02145,4.0,540,sushi,True,5195.849317011998,$$
+ofqejxgvVO94YMi36Tqo1A,The China Restaurant and Sports Bar,02170,2.5,236,sportsbars,True,10033.755958016589,$$
+jOE4d9iUEo3qZ3mlOLUXvQ,Oliveira's Deli Market,02135,4.5,37,delis,True,7327.266950079768,$
+B9D2WGBbC4BjJce2R4BNhg,Cathay Center,02191,3.0,92,chinese,False,15044.447792774661,$$
+udThgO4OzHZQANFIepeX1w,McSwiggan's Pub,02188,3.5,57,irish,True,18110.317246104445,$$$
+25DUwcQq4ywNMivBjig2Rg,Lucca Restaurant & Bar,02113,3.5,478,italian,True,2161.454676736281,$$$
+ZfB0Kx9rK5uE01TLob9EdQ,Tommy Doyle's,02458,3.5,115,pubs,True,10741.30098740867,$$
+syquaI-x_U4BixYXGufUSg,Black & Blue Steak and Crab,01803,4.0,160,steak,True,18984.892310798466,$$$
+sXLcNEfvFvIe1-HPAhRh8w,Fajitas & 'Ritas,02111,3.0,690,tex-mex,True,1061.1404105446718,$$
+exv7sUIpNXQVp4Cajstyhw,Lily's Garden & Patio,02110,5.0,1,newamerican,False,1763.4976627278973,
+HZ4BsLyNfwRqtRYS9WtPxA,Shamrock Pub,02062,4.0,12,irish,True,19861.429965521762,$
+8ju300tn3uzUvIPIvmkRWA,Club Passim,02138,4.5,111,musicvenues,True,4940.873315070219,$$
+l4C6OrsUA5EzLUpHl09Ctg,Fajitas Sports Bar and Restaurant,02151,3.5,19,mexican,True,9295.944960659419,
+wQRvDeKs1mJs8MddPYXqRQ,Amuleto Mexican Table,02453,4.0,215,mexican,True,13827.778634693186,$$
+eLPovUOPLu0cIohblNXyyw,Route 1 Grill House,01906,3.0,123,bars,True,14879.671343833632,$$
+009k7-z9r8bXp0bWdyF_-Q,Goal Post Bar & Grille,02169,4.0,22,tradamerican,True,13073.870571433785,$
+-tH8utmC-EMhvcZ5xD9TCA,Christopher's,02140,3.5,697,bars,True,6087.960435944515,$$
+8oofaDz2nL0gzvAXaLbR4w,Coop's Bar & Grille,02169,4.0,153,bars,False,13436.8703623212,$$
+r7-YSA7Z8p4KISZ-jEww5A,Salty Dog Seafood Grille & Bar,02109,3.0,342,seafood,True,1869.4578475234052,$$
+kZtRAdoLiIXSrNOee9FvXA,Sweet Life Bakery & Cafe,02124,3.5,206,bakeries,True,8276.228108861484,$$
+QAQyK15EvzNl1oIMLQ_J4A,Sabroso Taqueria,02145,4.0,49,wine_bars,True,4939.302572288323,$
+hruCmmge80aqOa47JVJ6FQ,Bandita Brighton,02135,3.5,4,tacos,True,6040.285123166112,
+5EvsSPrMyxt-yAIDg4VZdw,Casa Loca Cantina,02090,4.0,24,mexican,True,17202.67739059319,
+lIDR_8ZuG7WvAaXaavreGg,Oliveira's Steak Bar & Grill,02149,3.5,141,brazilian,True,7802.362380743467,$$
+ph3SOdb_khwezTiKtwh04w,Central Wharf Co,02109,3.5,158,bars,True,1934.830607291216,$$
+JdVlUaXM9aZQ68tjgonszw,L'Osteria,02113,3.5,326,italian,True,2223.8876008894304,$$
+3UHLX26d_iPERGVzxfVLXQ,Four Spoons Thai Inspired Cuisine & Bar,02459,4.0,156,thai,True,10244.107617941258,$$
+y8jKzRjiFy1pQfq8JVfMfA,Nino's Restaurant & Bar,02151,4.0,87,italian,True,9064.606279800266,$$
+xoYHXN7aTMAFB5flzIT-ag,Turner Seafood Grill,02176,4.0,616,seafood,True,11996.867183267748,$$$
+6hAeZo_UMWAj9WlV-KA1Qg,Todd English's Bonfire,02128,2.5,109,pubs,False,4735.308377017288,$$
+hebOCEtNSq9TRwCsnFE9Mw,Village Bar & Grill,02149,3.5,27,tradamerican,True,6425.578296877711,
+wg9du0dlKjnsSTDSKQL5wg,Sugo Cucina Italiana,02474,4.0,107,italian,True,8555.70614481688,$$
+vyE6uuzEcB8vl11skeofrQ,Vinny's Ristorante,02145,4.0,364,italian,True,4416.735332003945,$$
+fRWeaaj6QIIWe0ncfnfU7w,Jake n JOES Sports Grille - Norwood,02062,3.0,229,sportsbars,True,19379.639145148245,$$
+Jm5ewLJxToqSVTyhpMrXmg,Nirvana The Taste of India,02138,4.0,217,indpak,True,5549.416883705077,$$
+QxnRK85TSnLsK3gbSmYlBA,Darcy's Village Pub,02169,3.5,48,pubs,True,11039.53080500952,$$
+FW8a3CNpjn3FLT7VhXgR8w,J J Grimsby,02180,3.0,100,tradamerican,True,12125.844347043592,$$
+6pNibxhQbAqQcEMr2Jy1Ew,Cagney's Restaurant & Pub,02169,3.5,167,tradamerican,True,12579.18458875305,$$
+OsczDcGceyR4GunP9Xw23Q,Dave & Buster's,02184,2.5,317,bars,True,14511.24152659321,$$
+EN-8RlzC__aR79cSJ6ewAQ,Birch Street Bistro,02131,4.0,151,newamerican,True,8325.877646738656,$$
+-Wt87_iiCz4ePaRXFXVK5Q,Shojo,02128,4.0,21,asianfusion,False,4932.778395430266,
+BbdGzqDzegqhULG5qd4WAg,Bates Bar and Grill,02184,4.0,69,newamerican,True,16522.001726588416,$$
+Hnx34LxtfW4XV0gZ18zMBg,Vinoteca di Monica,02109,3.5,412,italian,True,2218.721993738227,$$
+jYx2M08cO0XNxq8HSbYaZQ,Davio's,02184,4.0,135,steak,True,14766.891389072844,$$$
+zjMyoihyTl2H6euMuKtV1Q,Joco's Bar & Kitchen,02453,3.5,113,bars,True,13826.72230458346,$$
+M8zFxiaDmq9vZeFw7nZOVg,La Paloma Mexican Restaurant,02170,3.5,358,mexican,True,9548.393370303102,$$
+Z-Nr9Tw2asMk1jmnEeHBbw,Jimmy's Steer House,02476,3.5,262,steak,True,11700.434605366638,$$
+-iQO1GmmIReyXyFRYuA8Pw,La Piazza at Eataly Boston,02115,3.0,16,wine_bars,True,925.8711323884656,$$
+Emc4P_0RqKZOnqiugj-P4w,Victory Point,02171,3.0,105,seafood,True,6350.459714213063,$$
+VZVPXWXpeKCqzVJepzhjmg,Il Massimo Ristorante,02026,4.0,159,italian,True,15673.424464743339,
+Msh7LxQIyT80_NHYW3TJtw,Sapóre Ristorante & Bar,02210,3.0,46,italian,True,2641.847687621384,$$
+Kig4HQ3X8eF0e-yYgkuB_w,R. F. O'Sullivan's,01901,3.5,124,tradamerican,True,16351.819579654415,$$
+SybQ2WSMmLTt9bIa0-iPug,Estefani's Restaurant,01902,4.5,29,bars,True,17107.414901304845,
+bFHKnTus193TK8PqP61mCw,Tony's Pub & Grill,01904,4.0,32,tradamerican,True,16341.967757988656,$
+6lWeoY6C1Yl3WvrN0ilm2Q,Lucca Bar And Grill,02128,3.0,45,bars,False,4561.970640377056,$$
+ZqKZn2gPC1vdOCnT_jpJ1Q,Square Cafe,02043,4.0,158,newamerican,True,18985.17198330313,$$$
+ru3_WjFSLIXYA8kmc62bBw,Crossing Nines,02169,3.5,25,newamerican,False,11751.499308854634,$$
+5vlljLS1Dq8ZeCPuQJqphQ,Pancho’s Taqueria,02492,3.5,21,mexican,True,15405.632949051773,
+CqFaTLqrO7li9Yb37wqM5g,Maki Maki,01801,3.0,366,sushi,True,17217.90938631528,$$
+q28bsT9W3GpzjyViuMP-gA,Acapulcos,02062,3.5,155,mexican,True,19282.012013860825,$$
+3gzIsBdH8DwyK8PJnTMk7A,Cafe Avellino,01907,4.5,34,italian,True,18505.202524671175,$
+W2YNtO5W_ZK6o-1t8uLcYw,Montien Thai Restaurant,02116,3.5,451,thai,True,676.2801727641332,$$
+DFZO0jWIvQrQ8wGHEJXLGQ,Liberty Grille,02043,2.5,68,bars,True,19159.576380611932,$$
+ssOPvpKlkEaZ6mehiMirNg,Midway Restaurant,02026,4.0,68,newamerican,True,13510.08770334355,$$
+daUdzT7FwCfOJH8Z2q4sfQ,O'Brian's Pub,02128,2.0,10,tradamerican,False,5542.998735715549,
+8dZZy6AV4Bu_ftoDKQWpEQ,Saloniki Greek,02138,4.5,207,greek,True,4792.365029174011,$$
+wfS4vSXC2d8iMsL4_dDzUw,Ravello Italian Kitchen,02472,4.5,30,italian,True,7671.154734473816,
+V_6rG2oL56DVDIKPWnZ41A,French Quarter,02111,4.5,42,bars,True,979.394341324512,
+NZggU3sddR29yULXZQ0xKA,Za,02474,4.0,342,pizza,True,8460.702186916356,$$
+OP3hXjPJiWVxPHBmNj9ztw,Jack's Coal Fired Pizza,01803,4.0,103,pizza,True,18053.58095356696,$$
+GNbwIRRGmzW8E-NPfyTnKQ,Cavan Cafe,02136,2.0,2,bars,False,11706.001960596968,
+YHr48QF3ebS8y4HaFgZCyQ,Dockside Restaurant,01880,3.0,74,tradamerican,True,14568.204932023671,$$
+hewGudgB-tUk2ADWsUIHlg,Legal Sea Foods,02467,3.0,291,seafood,True,8504.581482127804,$$$
+wITbeprsnf9wt1CYHIf4Dw,The Capital Grille,02467,4.0,320,steak,False,9309.893519774881,$$$$
+vQyXrlWr3355WPg0JULVSw,Joe Sent Me,02451,3.5,93,bars,True,14606.138965324568,$$
+0udgF4hOWAoQkAQc79BnNA,Fuji At WoC,02169,4.5,501,japanese,True,12333.536712983929,$$
+GLCBNzvw2QtydfIDN4zxGg,Fowler House Cafe,02169,3.0,154,tradamerican,True,11443.297369911063,$$
+cEp8hi5IyY98f6bLHV08gg,Four Winds Pub & Grill,01904,3.5,105,tradamerican,False,17974.188264567907,$$
+FxveeHL_B0Kkz1KjPKyF3A,Tasty Burger,02138,3.0,522,burgers,False,4855.704027857561,$
+seC9cfU7It8mbczK442HAw,Seasons 52,01803,4.0,512,newamerican,False,18274.787563041118,$$
+q1VvBuonTIDyu0wGD0SJGw,Tremonte Restaurant & Bar,01801,3.5,155,bars,True,16113.555501678298,$$
+Gx0UVCzWbqeUQpXNZU2ftw,The Quiet Few,02128,5.0,45,beer_and_wine,False,3614.358420462823,
+h1_08k2chw6KLmw2nksYTQ,Paisano Restaurant,02453,3.5,149,mexican,True,13014.278064580722,$$
+u5P2vWbxm7WscTki5WTmUw,Champions Cafe,02149,4.5,4,bars,True,6827.313630466696,$
+anW_8E2ecPzOMKoiR-qsyw,Zef Cicchetti & Raw Bar,02169,4.5,167,italian,True,12419.450257926677,$$
+d5fNA093GOD5NpII4OENuQ,Sam's Kitchen,01801,4.5,164,italian,False,15928.865626478213,$$
+l7iATT41a30rJDp5U_EmQg,Rincon Caribeno Restaurant,02136,3.5,80,cocktailbars,True,11031.6569899662,$$
+_VEQpntwiMLUbNPLvxvwzA,Ruth's Chris Steak House,02108,4.0,835,steak,True,1504.8977392635402,$$$
+Z2wd_F7wOn9plbFaIULMbQ,Bocelli's,02155,4.0,232,italian,True,7082.289362750665,$$
+Jw1AFpclnJpycDEzoAQL1Q,Ruth's Chris Steak House,02451,3.5,143,steak,False,16352.73336568112,$$$$
+OpJDbCiYlySLcuFwJpD9lA,Shopper's Cafe,02453,3.5,87,tradamerican,True,13896.724950348953,$$
+AKLWhgbOImjNwYkThWkM9w,Buffalo Wild Wings,01803,2.0,303,sportsbars,True,19040.611227392146,$$
+9zdlqVPXYNSmZHYkdKOZXQ,Rosaria,01906,3.5,105,italian,True,13709.991052028374,$$$
+SeCCwykRJ7Y7S5Qok4px2w,Pier 6 Boston Waterfront,02129,3.5,404,bars,True,3302.596499540479,$$
+y9PNBfvc8ad9KJlWkoQUZQ,Granite Street Cafe,02169,4.0,159,irish,True,12625.812104005407,$
+vvvqkTMmLc4XNsszFYcUsw,99 Restaurants,02151,3.0,66,seafood,False,9286.804781398394,$$
+gEQxTJDoJYaW0l_6FYtf8g,Mark & Toni's Coal Fired Pizza,02478,3.0,84,pizza,True,9333.091716860545,$$
+6ZANHDeGTDX72sMI4sNuFA,Middle Ground Grill,02189,3.0,13,bars,True,18603.477675716273,$
+kQCy153WEnGfnBQGtuCJTA,Studio 3,02026,2.0,13,lounges,False,15682.24282084269,$$
+nGgv9UeiGupx93kKZnaegw,Pete's Grille,02169,3.0,14,sportsbars,False,13989.42009099169,$
+zZ7roMv_c8R4slTMPPdkng,Delux Café,02116,4.0,318,bars,True,217.86181556419766,$$
+F4c5cJJEFxoEFCDkMe3GNQ,99 Restaurants,02171,2.5,117,tradamerican,False,9043.361915209432,$$
+ZiUZYZhbmJ9yzdGsiU2KxQ,Pellino's Ristorante,02113,4.0,327,italian,True,2311.55514743257,$$
+WJcdYRIMPHoFm1TCy4H3WQ,Kilroy's Cafe,02169,3.0,2,irish,False,14105.029297211757,
+l9zYl5imloMjToskYtco2Q,99 Restaurants,02453,3.0,82,tradamerican,False,14898.183828839023,$$
+R2bMj1Jtl6DXbtvqH0MLVg,Franco's Pizzeria and Pub,02453,4.0,72,pizza,True,13859.752250830701,$
+PYDzfxSLUCCwQysbOkFSVA,State Park,02139,4.0,283,newamerican,False,2593.439527148652,$$
+Lhq4M5y9TS7U39QbGaTzVg,Rolly's Tavern on the Square,01904,3.5,59,sportsbars,True,17789.071037143945,$$
+DZnhcxnSys_emI7ZHd5jYg,OAK Long Bar + Kitchen,02116,3.5,335,bars,False,438.5504619225337,$$$
+HL7Kfo9S3eKgJJAEVQ2rbw,Burro Bar South End,02118,4.0,140,mexican,True,714.4552786848784,$$
+kljvtlkSLkOXSBEeS2SVrA,Mi Tierra,02453,4.5,110,salvadoran,True,13867.768496654991,$$
+Xc92ex6nMyLmCfqs-1DWvw,Great Chow,02170,2.5,173,chinese,True,9985.049957069832,$$
+q938FdEM90fl4wuiVYL-Ew,Rossetti Restaurant,01901,4.5,223,italian,True,16358.592468072038,$$
+HXY5AUs_EOKZ8TvzvuNH0Q,Capone's Pizzeria & Prohibition Pub,02189,3.5,102,pizza,True,20707.673649349414,$$
+wZYwI0gvk88NT6Y5az0EdQ,Ozone,02128,2.0,43,tradamerican,False,4558.026355820409,$$
+P9AJqEYOT--zGRfK7QQlmQ,The Emory,02108,4.5,62,newamerican,True,1363.7203817663624,$$
+xDyHjcb-kjwyeveTl9aUMQ,Legal C Bar,02026,3.0,302,seafood,True,15684.247744796017,$$
+bCboJRI-rzHaP_NT3l5leQ,Minuteman Diner,01730,3.5,25,breakfast_brunch,True,21700.84180793317,$$
+WoI1IisL_AgmWdiJLRb-Zw,Democracy Brewing,02111,4.0,216,tradamerican,True,1098.8863686623156,$$
+uMZoY7AyG08rnN-YiQN7fA,Mj O'connor's - Boston,02116,3.0,269,tradamerican,True,415.4698841019586,$$
+kXW4TVz16k8hlIyb0agU7g,Carmaleno's Pushcart Restaurant,01906,3.5,57,italian,True,14246.40552483344,$$
+XQFvbZxfzbrMY_GqsYu1RQ,TreMonte Restaurant & Bar,02113,4.5,129,italian,True,2154.3294020763437,$$
+wOw3Hb1ImlNBc0-eI13Dhw,Bamboo Thai Restaurant,02135,4.0,389,thai,True,5903.345317801502,$$
+d7ZoqaOw1yPHpfZtGKW4Yg,Cronin's Publick House,02169,3.5,42,tradamerican,True,13955.745856558946,$$
+Y7B9tTmHPXgNwu5SRGtgtQ,Worden Hall,02127,4.0,346,newamerican,True,1313.8980903028844,$$
+vxkOVmhReRa4XYfAT1hMxA,Villa Francesca,02109,3.0,372,italian,True,2205.265324242762,$$$
+-N5w3E16qNruBDGd0E4Xrg,Green's Grille and Pub,01801,4.0,14,newamerican,False,14976.740782043767,$$
+1H1lx1zBVUAsyyvQuvbCGg,White Sport Pizza & Subs,02145,3.0,71,sportsbars,True,5991.881948358211,$
+lWFAeNKpd5rere4Rv7m51A,Jackson Square Tavern,02189,3.0,28,bars,True,19094.15093750982,$$
+_QUh5vFHSuw8R_uiFZ7XKQ,Parish Cafe and Bar,02116,4.0,1418,sandwiches,True,455.0319168608268,$$
+ZT_xafbgHg3Zj0emqYw5Jg,The Gaff,02453,4.5,320,pubs,True,13864.087216937578,$$
+2ILe62hVJfiZEOcKxFYKDA,Mystic Station,02148,4.5,404,newamerican,True,8829.892093305078,$$
+eljnkNDnoIXQ7cf701kvJw,Hull & Mason Bar And Kitchen,02169,3.0,26,burgers,True,13879.644165499965,$$
+Uj693wthG_JL3wcyWKU4WQ,Bazille,01803,4.0,37,newamerican,True,18981.50930832673,$$
+f9aK_Xcph95kWq0DzDGDIg,Chili's,02184,3.0,110,tex-mex,False,17105.98135322033,$$
+-S_m_GBqkGEjABeO0FaxzA,State Street Provisions,02109,4.0,521,newamerican,True,2078.1025920230545,$$
+MLP6NYHUmtJoz2uZowpC1A,Hearth Pizzeria,02492,3.5,91,pizza,True,15512.351927207712,$$
+v_1d4aNN7bjiQ7aF3S0hgA,Cheeky Monkey Brewing,02215,3.5,215,brewpubs,True,1937.6211634133742,$$
+w2uRbCHkWjjHzHnYRsG-EQ,The Lansdowne Pub,02215,3.5,367,pubs,True,1962.1467107925375,$$
+T3TJ3TW_UYOXnSqBeOHh-w,Manow Thai Kitchen,02461,4.0,111,thai,True,11516.130222754486,$$
+bRGkwKjBKrQIgDgkK9RkQA,The Capital Grille,01803,4.0,452,steak,False,18215.000537164666,$$$$
+EED47bfe9ckHq-RU8rsdsg,99 Restaurants,02043,3.5,40,pubs,True,16330.958770019859,$$
+iDol9cv2jZwepAYTTx09fg,Caffe Tremezzo,02026,4.0,55,italian,True,13901.416220912226,
+u6Va-gVtTh_3JC78MvvYVg,Elm Street Taproom,02114,4.0,74,tradamerican,True,6760.391927437343,$$
+J4UsOYwRprbJXIVB_NcldQ,Loconte's Italian Cuisine,02113,3.5,304,italian,True,2270.2546629142826,$$
+C2-TNtNc___1tkYAmPgmWQ,The Restaurant Bar & Grille,01801,3.5,173,tradamerican,True,16350.017943040752,$$
+cjQG9SxzD6ViNpcIzXzPOQ,99 Restaurants,01906,3.0,54,pubs,False,16790.620209535955,$$
+kwZ0P_9LooXZ6ylGl8DkqQ,Lucia Ristorante - Winchester,01890,3.5,104,italian,True,12822.953246122015,$$
+MUs4mWUZWzR4UabPKeq-Gg,Tavern in the Square,02110,3.5,57,sportsbars,True,1394.711155195058,$$
+LgKBFgM0hN2yyX9WfEF_JQ,Burro Bar Brookline,02445,4.0,211,mexican,True,5533.3076265305035,$$
+pOtm0huSB2_ydAhPLU7EwQ,Tavern in the Square,02134,3.0,479,sportsbars,True,5081.719344536478,$$
+6fwICPdNuZMMKtsirUoHqg,Lido Cafe,01905,3.0,31,pizza,True,15641.586175732105,$$
+_wcTP2vCskW3oEBEmiZ3DQ,Hoffbrau Bar and Grill,02169,2.5,3,bars,False,11908.230457819562,$$
+wFSkfP9aE_F99p-K00JA4w,Time Out Market - Boston,02215,3.0,282,cocktailbars,False,2576.4504567745344,$$
+7ldjPaPvRApzmuHvmlXyMw,Rozafa Mediterranean Bistro,02169,3.5,112,mediterranean,True,11601.18546371102,$$
+BbE-ZOe12fGrVd8NiA7MZQ,Applebee's Grill + Bar,01906,2.5,65,tradamerican,True,16184.672498612725,$$
+uUMnZINNYCvgdX7jla4PLA,Warehouse Bar & Grille,02109,3.5,188,sportsbars,True,1833.4331481897696,$$
+UJJFLUq9PY8uzzM0-9kiiQ,The Painted Burro,02144,4.0,887,mexican,True,6613.704533374863,$$
+oDoacShrKZFDO-X4NrhKUg,Rosebud American Kitchen & Bar,02144,4.0,596,bbq,True,6588.4331834497925,$$
+Ip-biANzCmf1aTclubCIcA,Two Saints Tavern,02115,2.5,19,bars,True,1474.7217684204354,
+THeSIOFvgOMoq7_iXQxFCw,Rail Stop Restaurant & Bar,02135,4.0,132,bars,True,6017.269341722558,$$
+uVJZdN8q-nV4sdf7wGP-yA,Tambo 22,02150,5.0,26,peruvian,True,7225.020946860878,
+T7gZngkzq6MYtebxPW7Q0A,99 Restaurants,01801,2.5,41,tradamerican,False,15857.531923418313,$$
+27o-SXqHhCfx8TCcjvNxCg,Walnut Street Coffee Cafe,01905,3.5,61,cafes,True,15861.199835295329,$
+dv56VSw7tClqOuTYUrOwJw,The Asgard,02139,3.0,548,pubs,True,2843.286429402994,$$
+S4J69K-FCSAgodmPjCqQjQ,Ivory Pearl,02445,4.0,38,cocktailbars,False,5650.441242194906,
+rqzXyfMKcvTkLbX2kJeolg,Brewer's Tap & Table,02453,4.0,164,newamerican,False,13835.910761266583,$$
+89vuE7Q_TiEjsBbrznoFlA,Legal Sea Foods,01803,3.0,347,seafood,True,18973.179136034265,$$$
+SZw4rxKrlCphqMyWRv4lZg,Puritan & Company,02139,4.0,471,newamerican,True,3505.478790216569,$$$
+6hRoyNTzQKm_Yk2Zl6Z9mA,Draft,02143,3.0,9,tradamerican,False,3855.5821893362936,$$
+PMnU-trprMtR9p3V_9uXLw,Southern Kin Cookhouse,02145,4.0,1131,southern,True,5209.26931064531,$$
+ydF_ouK-tFPlz6iY-D_aqg,Waterfront,02149,4.0,15,newamerican,True,5255.901520395611,
+JEbgVwRUsQ3arKPhGXQj7Q,Oak + Rowan,02210,3.5,200,seafood,True,1808.9647238912644,$$$
+Bj5UBrE4YSpeojZZGIPeZQ,Il Capriccio,02451,4.0,185,italian,True,14762.690712863887,$$$
+0fbJdAPMHQBUGl4aNsg7-Q,Pasta Beach,02110,3.5,274,italian,True,1996.6286263196528,$$

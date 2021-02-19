@@ -1,0 +1,976 @@
+id,Name,Zip Code,Buisness Rating,Review Count,Categories,Delivery,Distance,Price
+NuVbxkDBwxMuDKe_ok-0LA,54thirty,80202,4.0,259,lounges,True,2239.9498711087494,$$
+yuzp8qeNTuQBIHzKqYWXPw,Prohibition,80203,4.0,550,newamerican,True,1030.8607626113037,$$
+FBqPcIryM6R-k1KV7WLwOw,Death & Co,80205,4.0,219,cocktailbars,True,2783.9618770054567,$$$
+mtKncZdZPVtumo_zDBGDAA,Buck Snort Saloon,80470,3.5,119,tradamerican,True,45508.81423022141,$$
+5Jy0ewQMmaKfhlHjTGfGcA,Hopdoddy Burger Bar,80220,5.0,2,burgers,False,2625.9095411632184,
+A1knCcfF__460LVsScHqBg,The 49th,80127,4.5,737,burgers,True,16399.04208066086,$$
+6F4_oM9oRzBDc7KeTEtvcw,Wild Corgi Pub,80218,4.5,51,pubs,True,231.91362059854177,
+pS_QQSJoHlXDX9RI6zxvfA,Occidental,80211,4.0,94,cocktailbars,True,4551.802100748274,$$
+vQeS4_jVes9imO8bfU2KCg,Adrift Tiki Bar,80209,4.0,498,tikibars,True,2930.037285224832,$$
+5X9iWU9aYCXnq4nnzpg8HA,Urban Putt,80202,4.5,101,mini_golf,True,2640.2522328529753,$$
+5lCzYPnAoNNlAZxW3rr_RA,Satchel's on 6th,80218,4.0,158,newamerican,True,1163.8531366695668,$$
+gGXnG-Rf5UUr6wT8krXT5w,Williams & Graham,80211,4.5,807,tradamerican,False,4553.618407079018,$$
+iEZvQg5mha6hLemB_vHoUQ,Mythology Distillery,80211,4.5,84,distilleries,False,4969.515384611256,$$
+6eZk5SjzVJEcBD7Ng20QmQ,Green Valley Ranch Beer Garden,80249,4.0,377,burgers,True,18037.733745350757,$$
+BHpQiNX5LF79RHTCng8TqQ,Nola Voodoo Tavern,80205,4.5,200,cafes,True,3352.8540248559334,$$
+XDZU8ij4u652i33LT2gTTw,Rooftop Tavern,80465,3.5,111,pubs,True,20916.765703151275,$$
+NOkJ14ltntgE4XWS5AgOSA,The Brutal Poodle,80210,4.5,314,bars,True,6259.892367140571,$$
+Lk_Vug3sjO8Dk47_j1TS2Q,Park Tavern & Restaurant,80218,3.0,342,sportsbars,True,496.87841370854323,$$
+Jfj_tln71utwjuEFLQBl4g,Bar Nun,80203,4.0,7,bars,True,1055.6233152083125,
+IqC4v53GgZce6TbLqyFa7Q,Bull & Bush,80246,4.0,795,tradamerican,True,4842.918528621031,$$
+EBT8s1PTtJiNVZpYPwpkrQ,Whiskey Tango Foxtrot,80202,4.0,492,cocktailbars,True,3462.864898831526,$$
+GYbWF7yKEao_53K5lL8FVw,Recess Beer Garden,80211,3.5,285,bars,True,4494.647303313506,$$
+-eDePVCzWv2DwiYApFU9Ow,Millers & Rossi,80205,4.0,90,speakeasies,True,3629.767561384538,$$
+ztvdtuFg4-w6OIRY0uYTsg,Colorado Campfire,80203,3.5,124,tradamerican,False,1532.9335335563019,$$
+mNr9Ki7VFpR7nbqgOElMIQ,Snowpack Taproom & Pizzeria,80433,4.5,81,bars,False,40154.382313151116,$$
+MX0SxS8F2skDNJsJmmgdjg,Lowry Beer Garden,80230,4.0,553,burgers,True,6539.503462728471,$$
+mV1Ay0PjYmonGHJBbelmgg,RiNo Beer Garden,80205,3.5,95,beergardens,True,3851.1387451838086,$$
+YB-th2or0P4qyeF15SVrog,Vesper Lounge,80203,4.0,149,tradamerican,True,1475.1617370380188,$$
+QjYX71KTgQUv-O-T4--V7g,The Owl Saloon,80220,4.5,35,bars,True,3609.113070210763,$
+bzDDEe41whQBUCxO8012nQ,Tstreet,80226,4.0,450,bars,True,9622.338293963498,$$
+JExRlhPb6RyXJZ88pYkcsQ,Tower Tap & Grill,80249,3.0,162,salad,True,19564.18090404767,$$
+jv3UThmfMVYwNcxoqjb8fg,Esters Neighborhood Pub,80222,4.5,714,pizza,True,7341.286744355406,$$
+YtNxcIQBmOJoX3v4-XPwLw,My Brother's Bar,80202,4.0,800,bars,True,4056.739948350276,$
+oJc3khNkjW3aAQZDMEWe4Q,Avanti Food & Beverage,80211,4.0,1157,bars,True,4272.172824415803,$$
+yXVJ_K6vdpM3PwfHfkyn5g,Mister Oso,80205,4.5,60,tacos,True,3264.0261379545163,$$
+T-Hggt2ccPTHHRwT0X1sVA,Dive Inn,80210,4.5,152,divebars,False,5108.244462579358,$
+k1mGLPBSaUhZKem1KrXLJQ,Stout Street Social,80202,4.0,1069,bars,True,2306.074711548896,$$
+1u8ZpG1OqrK7zPWTGwttsg,Local Jones,80206,4.5,38,newamerican,False,2028.328730625132,
+k_ycnrOxtJtapJZLP5bf9A,Joy Hill,80210,5.0,56,bars,True,4834.893963145698,
+c3QuHjgIkESyn_eD4EiACA,Nocturne,80205,4.5,269,jazzandblues,True,2947.3400411585912,$$$
+mfvbpPfl6dWi-kGJuLFKgw,The 1UP Arcade Bar - LoDo,80202,3.5,593,bars,False,2951.345884229066,$
+9Mo3UlgIZWjqLxHqbPEmMQ,The Abbey Tavern,80220,4.0,176,irish,True,3677.8530835101114,$$
+3AuxyU-XsaYWNMjcJsR0Bw,The Refinery,80202,4.0,81,lounges,False,2898.728477508455,$
+3asUEG-iok2bunLBp1O_mw,Lowdown Brewery + Kitchen,80203,4.5,456,breweries,True,1491.6134415581314,$$
+139JfE2uaJD-Z0EWW2cHxg,The Preservery,80205,4.0,244,bars,True,3316.313768934375,$$
+2F0QONSP4CGamLqZNRak7A,Stockyard Saloon,80216,4.0,26,tradamerican,True,5257.530378520483,$
+IFI6Fbp4JMn_ijznHBNAiA,The Greedy Hamster,80202,4.0,299,wine_bars,True,1916.1775350533524,$$
+Ft2XeH0TNB3y7YW5mmYPUA,Forest Room 5,80211,3.0,658,tapas,True,4297.369148517183,$$
+Md8oTgn7B0eOv7sRPJlviQ,Bar Louie - Denver,80238,3.0,476,bars,True,8443.470442842347,$$
+ZntgdCiWJjAfP2N3Jht7MQ,Stoney's Uptown,80218,4.0,128,sportsbars,True,930.5049570195627,$$
+j5-Ox741AvKMH0jlEUyNhw,Bacon Social House,80211,4.0,968,newamerican,True,6032.633486068014,$$
+VryvMiOjGlSTyR6EbopvMg,The District,80218,3.5,408,tradamerican,True,828.7890893100515,$$
+bTSk9KYFvUWuehg_9y1YEw,Jack Rabbit Slims,80205,4.5,74,pizza,True,3318.636919909735,$$
+DBbXnFIYtq_XDn-ZDzlacQ,Rita's Law,80205,4.5,28,coffee,True,2024.1343199354371,$$
+1Pmhci_UdmZSu5lEPiLYKg,The Sand Box & Grill,80603,4.5,6,bars,False,36740.51037326502,
+aygmNko8z8GzkIEbKty7Mg,Fireside The Bar,80202,4.5,2,bars,False,1943.4347881067831,$$
+DjCV9mRaYVMMVywIlgR_Cg,Bud's Cafe and Bar,80135,4.0,133,bars,False,33156.57426896853,$
+kyx_JTNhLOHsfwMU5hGmaw,Last Stand Tavern,80403,3.5,30,bars,False,39894.136230543554,
+Z8vO_mf1V09QDUPdyqJ6og,Linger,80211,4.0,3396,asianfusion,True,4414.859401077679,$$
+ufXp7qSQKhbyDCEl_9nAPQ,Middleman,80206,4.0,40,cocktailbars,False,2029.142424046637,$$
+_jUBigRXts5f3b7ayKLI6Q,The Post Chicken & Beer - Rosedale,80210,4.5,634,breweries,True,6723.127009907778,$$
+76FJJNF7TYnGXsNJA5GUrA,Next Door American Eatery,80238,4.0,226,tradamerican,True,9105.405200668296,$$
+0p6Nq5W_XXhO5GpG8_IOGw,Monkey Barrel,80211,3.0,80,bars,True,5796.756220754244,$$
+CQNv4SXqFltcwNsx-qHbLQ,Steuben's Uptown,80203,4.0,2765,diners,True,1248.9218976439815,$$
+g8czI1SXcO1x6xOAFhdfRQ,The Pioneer Bar,80210,3.5,199,divebars,True,7032.615683742129,$$
+i4-eJcxYSwatmYOTqBV5qQ,Rocky Top Tavern,80221,4.0,84,sportsbars,True,7866.180512965215,$
+TyP7FeFv3HMuALzoTF_lxA,The Game Lounge,80220,4.5,45,cocktailbars,True,3464.763829635489,
+ml_ZSRkp1x1uG7QfDgZFHQ,West End Tap House,80212,4.0,199,tradamerican,True,7502.608327267845,$$
+zhsiD46GZOGjgW9OuRaF6g,Freshcraft,80202,4.0,959,bars,True,2971.4127480487027,$$
+FfwLdr5-TBINeZbR4ey_WQ,Irish Snug,80218,4.0,485,venues,True,541.9058239564879,$$
+B-sG-UwfdmPBbBlKcFLulg,Charlie Brown's Bar & Grill,80203,3.5,276,tradamerican,True,1185.105597098551,$$
+HBATt8A6JVcI9Gr0-vUlKA,Birdhouse,80516,4.5,66,ramen,True,35531.350255397614,
+3Vf6fpFe2J6s2975PVqPAw,Anecdote,80203,4.5,28,cocktailbars,True,1398.1631344534987,$
+b2ASmEr2N2BWrusEEdxaFw,The Griffin Tavern,80237,4.0,180,bars,True,13655.045563623955,$$
+4pJSjg7r09kWps4UL6SUOQ,Dog Haus Biergarten,80238,4.0,165,burgers,True,8461.505431061498,$
+PM7Y1hRf00UicxpP8Rb6tQ,Fire On The Mountain - Highlands,80211,4.0,777,chicken_wings,True,6452.335413571804,$$
+2-J4F7aKX5O1CzODEMPxAg,Las Margs,80218,4.0,543,bars,True,591.3268032436563,$
+JJiugrBcZrNpX0ueUBuvrg,Cherry Cricket,80206,4.0,2534,burgers,True,2124.565769374474,$$
+swPiklhuXaMLnw5Rh2y7Ew,Rhein Haus Denver,80202,4.0,418,bars,True,2958.848658015158,$$
+ywkNGHI1lmljyHqJna-S2w,Asbury Provisions,80210,4.0,151,gastropubs,True,6306.710953286889,$$
+wmGPi9TKAkWbiWzIhE2U9g,Highland Tavern,80211,4.0,550,bars,True,4334.015562346664,$$
+i8VF3q7dTszCcigJSMcJzQ,Angelo’s Taverna,80203,4.5,1152,italian,True,1351.3929919123793,$$
+DFLpKoj2lwDcZScnPW0arg,ViewHouse Ballpark,80205,3.0,1334,bars,True,2860.1824125593066,$$
+2MslMCQttsLoUwfxSOCROQ,Peak To Peak Brewery,80013,4.5,186,sandwiches,True,16567.351136836667,$
+tUE6qjZtjQYPmWyyZuAihQ,Blake’s Taphouse,80023,4.0,48,beerbar,True,29718.225395673628,
+iM8ijTk7rpzcwGAIm7thwg,Gattara - Denver,80203,4.5,38,bars,True,1484.7492022525832,
+YxeTWblmRB3m7egJzgAJCg,Pony Up,80202,4.5,216,sandwiches,True,2897.700785323172,$$
+x0rVT3E__00xg99uGr0tjg,Happy Camper - Denver,80211,4.0,251,pizza,True,4320.593007097462,
+fQj0J_f7UQ_tFufklYIehQ,The Lockwood,80202,4.0,36,whiskeybars,True,1994.521105273265,$$
+GXN1RB7MtPR4pnzxS6FJww,The Shanty Supper Club,80218,4.5,51,tradamerican,True,927.0947212397947,
+_IgOKEp8cXkUi_8F0i6W_g,Brothers Bar & Grill,80238,3.0,278,sportsbars,True,8308.84256563164,$$
+xVPM24nFFF3JNGwtMu4kig,Moonlight Diner,80249,3.5,630,diners,True,18874.349324481507,$$
+nZYrt9j8tXM3XnKFBEVgtg,Señor Bear,80211,4.0,296,latin,True,4688.236995100492,$$
+hIEau-Ze4rbjmoLWzefnoA,Churchill Bar,80202,4.0,75,tradamerican,False,1786.9939081625037,$$
+7D0fUZxE6-6_y1Kd5tUKbg,Machete Tequila + Tacos,80206,4.0,120,mexican,True,2177.702523376303,$$
+RLN5ZKDLYmxuQhdPE2g4lw,The Sportsbook Bar & Grill Wash Park,80209,4.0,29,sportsbars,True,2652.571824339291,$$
+tEa5ldZPH3XN7BIVu7yC8A,Briar Common Brewery + Eatery,80211,4.5,336,newamerican,True,4613.982399611614,$$
+wxSY76dwM1K6JFGyo1MV-w,Bang Up To The Elephant!,80203,3.5,348,caribbean,True,825.6222939987716,$$
+HA6_8IsyxUr6eItoMpQYLg,Illegal Pete's - Colfax,80206,4.0,211,bars,True,793.8319896130849,$
+VxSKu6BxKiT1jRr6arsLLg,Cherry Cricket - Ballpark,80205,4.0,188,sportsbars,True,2922.6218413564834,$$
+vreQk62MUxoJ4RRPwrbYKA,Candlelight Tavern,80209,4.0,116,divebars,False,3016.3604294430406,$
+4Nj4UfxmSI5bPNYS54hTcw,W XYZ Bar,80202,4.5,17,venues,False,2336.8717887119888,$$
+vk5o0YwohHWGr1RS7gt3nQ,Cap City Tavern,80204,4.0,232,bars,True,1726.923152639258,$$
+VrL_eCaJFlZLvqEFeCoKAw,SlaterÕs 50/50,80205,4.0,1,bars,False,3707.044706159762,
+805P-T3T2PcbkTplc5NVpQ,Yogis,80218,4.5,55,indpak,True,859.0147220062465,
+i_-kik9h_dTrEA_bp75Yeg,The Sportsbook Bar & Grill,80112,4.0,163,newamerican,True,17669.674350953654,$$
+AwYnjbDM_reMhFZkSuTh7A,The Dam Grille,80237,4.0,132,tradamerican,True,12540.068287392452,$
+0HlEJ3WzRbXNKf2oBQCp_g,The Way Back,80212,4.0,99,bars,True,7540.672529860284,$$$
+C41Csnb8IAXp1J6FezP6TA,Sienna Wine Bar & Small Plates,80206,4.0,138,wine_bars,True,2014.0574999495439,$$
+46gG3_h3zwFfkf4_183Ydg,Somebody People,80210,4.5,102,wine_bars,True,4735.425404106732,$$
+nIecLwq92w_jnrbC_lr23A,Zanzibar Billiards,80205,3.0,106,poolhalls,True,2687.1532818468895,$
+wVKt2_DR_p2ayqRtdzGJPQ,Root Down - Denver International Airport,80249,4.5,1918,newamerican,False,29034.921271374307,$$
+kfTdkvBUiAqqzISm_cq23A,Hop Alley,80205,4.0,382,chinese,True,3515.3538046140725,$$
+CWjuFD-yEvJGL0flE2LmjQ,Federal Bar & Grill,80211,4.5,212,bars,True,5126.352512588235,$$
+IDIERs8cglWXqZ3EKFdXyQ,Ugly Dog Sports Cafe,80221,3.0,40,bars,True,10947.818059763029,$$
+7cHFgxf33rmfGavv4fOU1A,Dos Santos,80218,4.0,502,mexican,True,883.9208966025363,$$
+QgmXhIgWpJdC6XbziLC0MA,Brewski 's Pub and Grill,80233,3.5,32,pubs,True,16582.71417106823,$
+ZhcGwB30moejjcZNDJJeng,My Neighbor Felix,80211,4.0,94,mexican,False,4178.985536805784,
+hzwrV26rrmaQrLs2gc2HoQ,Tap Fourteen,80202,3.5,142,bars,True,2911.134207600876,$$
+DZxCUXc4kRRB8WjtWNF9kA,The Rusty Bucket Bar and Grill,80227,3.5,75,bars,True,13094.464762549454,$
+F5fGE-Kc7d1eTitKwgrtGQ,Number Thirty Eight,80216,4.0,21,venues,False,4175.320684877408,
+biju9F9GKy0Ogn3YotSZ4A,Wildflower,80211,5.0,8,cocktailbars,False,4574.322719545895,
+Ttk8uzixI-qX8LhdHINV9A,Toro Latin Kitchen & Lounge,80206,4.5,73,latin,True,2233.025718852217,
+lSbVlcgWSNEV6d9DiGhO3A,The Burns Pub,80021,4.5,333,british,True,22304.012638048436,$$
+pthFS_fEHAEzD4Ha2fYtnw,Inga's Alpine Tavern,80246,4.0,163,cocktailbars,True,4744.622228272118,$$
+9vocEDSzUbT8pu7rm5kYuA,The Pig & The Sprout,80202,4.0,480,newamerican,True,3444.687039567733,$$
+0ln11-2F1mpwBQvFqdzZYw,Finley's Pub,80209,4.5,203,burgers,True,3005.0773766468897,$$
+0-O-xCaxbO-ftWVEYVrRlg,Barcelona Wine Bar RiNo,80205,4.0,520,tapasmallplates,True,3015.517481703019,$$
+fEpMZOqIxNNYydNP0hT40g,3 Margaritas Cocina Mexicana,80202,4.0,30,cocktailbars,True,1972.1922393402508,
+niBONW7lIuskJfvwReZn3A,Neighbors,80207,4.5,97,wine_bars,True,4787.01911196742,$$
+2dQe_8-DsdEj4i-QD0rb-A,Renegado Tacos And Margaritas,80249,3.0,90,mexican,True,19155.71530704988,$$
+H-svAdDh7QQx2uj2nYQdwA,Sip | Ultra Lounge,80202,4.0,99,lounges,True,2431.6525892567424,$$
+talElTT6P0jNvYrcxtBjTA,Los Chingones Denver,80205,4.0,791,mexican,True,2817.986497243381,$$
+qbzdUulgPIrqfgGFM22KxQ,Black Sky Brewery,80204,4.0,189,breweries,True,2723.0117039947568,$$
+ELQlh3ilPrisKnP3b8adRw,Wyman's No 5,80206,3.5,274,sportsbars,True,670.2918754203346,$$
+MvS8MEgkEvhA9mv-y5Wtow,Dio Mio,80205,4.0,240,italian,True,3300.4374482436483,$$
+kY_VYn3exTLiGszuSDfnDw,Su Taco,80205,4.0,45,tacos,True,2711.586665514997,
+WlIgrJKNOfTdTXRxqbUMXA,W XYZ Bar,80011,5.0,1,venues,False,15482.4673400617,
+-mLKEN6U1vmBs8IxxBVaEw,Fish N Beer,80205,4.5,260,seafood,True,3517.6562326342305,$$
+iVcyrE8R5Z-LjCFA8BqBWw,Blue Ice Lounge,80203,3.0,55,danceclubs,True,2540.3011459260565,$$
+NAmJLfNW1RTCeccSnFZ0Pw,Malloy’s Bar & Grille,80127,3.0,10,bars,True,21687.086609605634,
+vD7EZkwkB65zg7oUwkwUow,Colfax Sports & Brew,80206,3.5,7,tradamerican,True,1021.8436113057843,
+RbzFPgNGtDTM9tONeQDG4w,Giot Dang Cafe,80219,4.5,2,vietnamese,True,5569.84356024492,$$
+L2gERQZqsalywlUuc7w6XQ,Carbon Cafe & Bar - Platte St,80202,4.0,342,cafes,True,4071.8736803124034,$$
+02cVa1IosbIGUcuV45xw7g,Jackson's,80202,3.5,217,sportsbars,True,2997.643092384057,$$
+C4qoCgm39WLETB7DGbf9JA,Sobo 151 Czech Bar & Grill,80209,4.0,218,sportsbars,True,2869.895118806634,$$
+OdHVxU2oeupupMutruy4AQ,Evergreen Brewery,80439,4.0,83,sandwiches,False,33725.98852650855,$$
+kz881VpJace1ETVJS3gsIg,Globe Hall,80216,4.0,59,divebars,True,4845.7717199442695,$$
+OlhaoBqom_jV4DFEq0tM0A,Three Dogs Tavern,80211,3.0,148,pubs,True,6039.817187180389,$$
+-klbb0Ea5bEGqeCuaeOAdw,Brightmarten,80209,4.5,167,newamerican,True,3768.2782583579988,$$
+lvNxwiVwIpnktE0nk9VbXw,Syrup City Park,80206,3.5,316,tradamerican,True,1479.872603229611,$$
+wrVs9xGNTx7CmtUPrm46qA,The Whiskey Biscuit,80113,4.0,300,newamerican,True,8896.259650835049,$$
+W9_qn9MiDmx0xDZnH0UYiA,The Grateful Gnome Sandwich Shoppe & Brewery,80212,4.0,130,breweries,True,7722.67050723034,$$
+HWSOaP3WEWXdsBloIvIR_w,Broadway Roxy,80209,4.5,50,newamerican,False,3536.0262662817822,
+27Ev4IchdObRnIuojRfwOA,The Kentucky Inn,80209,4.0,76,sportsbars,True,3992.289572210081,$
+q1vlnz2s5JKrVX9Bs9QOvQ,Buckhorn Exchange Restaurant,80204,3.5,914,steak,True,2978.348246614136,$$$
+HAg47reERsyPjDv4oumGbg,North County,80230,4.0,503,mexican,True,6484.195509886443,$$
+ofPa6i98oFCiq0zoWj1cvw,Black Shirt Brewing,80205,4.5,332,breweries,True,3814.589261976626,$
+8IyMLD6uLYFDVRtpa0uHZA,Sloan's Lake Tap & Burger,80204,3.5,313,sportsbars,False,6167.208377852297,$$
+GuJgZjv-EHEpw2lwZ2BX8g,Historians Ale House,80203,3.5,413,bars,True,2515.4605846628483,$$
+kI5oOBAGS-Vo4chwmgOVmQ,Cart-Driver,80205,4.5,466,pizza,True,2802.200029046937,$$
+wHGrRbDPRdSvDSLWy6N5rw,Avelina,80202,4.5,391,cocktailbars,True,3050.6389819275464,$$
+Xdk0ewGrFpRVOTtBq1gmdg,Jay's Grille & Bar,80229,3.0,84,tradamerican,True,11474.18548988743,$$
+IbCPSViliNokpqUsMQ_nbg,La Chiva,80210,4.5,159,colombian,True,5195.243600968969,$$
+uAsOPByhA_JiDi1d8K7cjw,5280 Burger Bar - Denver,80202,4.0,1547,burgers,True,2013.9213500303706,$$
+b6mLmT6x35GH8X7eOiGvwg,The Bindery,80211,4.0,272,newamerican,True,4175.126577435344,$$
+psESMQAg6u2MNnY5DzGcDQ,Appaloosa Grill,80202,4.0,862,newamerican,True,2028.7347412184108,$$
+7UWt_282vPsGQPtrquRR9Q,Shells & Sauce,80206,4.0,865,italian,True,1207.5670962222423,$$
+olb3dCoUxGVMDKiX2AUWdQ,Esters at Oneida Park,80207,4.5,144,pizza,True,5516.788988298708,$$
+W_sRvWQ5W_QBiycmN1j6QA,Backstreet Tavern & Grill,80247,4.0,50,sportsbars,False,9763.441295966888,$$
+dKoNTRBls15d88pVqoGJFQ,Beatrice & Woodsley,80209,4.0,927,newamerican,False,2620.23287180037,$$
+k9ves6vjkIOWFrNA-Kucrg,For[a]ged,80202,4.0,71,newamerican,True,2963.954704211721,
+1PVAG6T--TiYCWzDsCPgKQ,Ale House,80211,3.5,819,newamerican,True,4210.351292315145,$$
+nyN4auhqtAllzSItDH74DA,Brass Tacks,80202,4.5,72,cocktailbars,True,2973.6088317848726,$$
+pMFC9iSrthpcPEUU2TzUkA,Counter Culture Brewery + Grille,80203,4.5,32,tradamerican,True,1521.3851103862182,$$
+HV3M2p6ksP1xbptoQ7PlBg,10 Barrel Brewing - Denver,80205,4.5,364,brewpubs,True,2962.380230454709,$$
+QYbk0V1RKcvV0LCld2SlSg,Players Pub,80209,4.5,35,arcades,False,2575.4848210531077,
+liZAwDjhkt431fTKG_F5LA,The Pint Room,80123,3.5,259,burgers,True,13156.999581906832,$$
+6z6E0V6C4s_ve7emSq6m8w,Miners Tavern,80516,4.0,72,tradamerican,True,35518.50290792363,$$
+6dmt-ALx7sWcIThFLCTXmw,Logan Street,80203,4.5,91,wine_bars,True,1378.8105122740133,$$
+_PbXAi5QXvuLhPfclIk8hQ,Crimson and Gold,80210,3.0,81,newamerican,True,6268.329176543716,$$
+6R99SG2DIlSUkbXciDb5Xg,Coor's Silver Bullet Sports Bar,80249,3.5,190,tradamerican,False,28791.75196213003,$$
+ruAFobqv_mA6Rl377CA-Dw,Alamo Drafthouse Cinema Sloans Lake,80204,4.0,245,movietheaters,True,6206.884072688301,$$
+Xg9L6hcM80r1bBAtGMVMqw,The Hound Sports Pub + Burger,80237,4.0,28,pubs,True,11828.818352774837,
+BM5BDymJb_8SMHL7xM03oA,Roo Bar,80216,3.5,140,bars,True,3884.25253048147,$$
+eJLSmHDOkqKBjh6yo4l0CA,Blake Street Tavern,80205,3.5,448,tradamerican,True,3005.7606446042028,$$
+-5iF6s8wJbGd9R2CVd5bvg,Walter's303 - Lowry,80230,4.5,65,pizza,True,6047.360139225128,$$
+ydbPYReX0IrY1D41fLB3pA,Table 6,80218,4.0,468,newamerican,True,1132.5568514465483,$$
+GyVgD1D9g4La59tA1uRFWQ,Broadway Market Denver,80203,3.5,155,food_court,False,1504.8281570677295,$$
+XuzML7USe6rr9L0wBfFhjw,Brooks Place Tavern,80433,3.5,141,burgers,False,34550.06634373852,$$
+7jWP6e8lQ2ltnVaSiu9opg,The Glenn Bar & Grill,80233,4.0,216,bars,True,18127.431337372247,$$
+n8xnKLUvqm710MLtGMA0rQ,The Bison Grill,80022,4.0,59,tradamerican,True,23087.25879727972,$$
+B_ZiveR6UpqV2uK-BE5cmg,Tavern Lowry,80230,3.0,246,tradamerican,True,6189.800684005699,$$
+CE8Fl3Ixpz6u9M2v7TBrXQ,Larimer Beer Hall,80205,3.5,83,burgers,False,2690.6783387139903,$
+a-rAR8GQIvFuF2C8GWuioQ,El Rancho Brewing,80439,3.0,289,breweries,False,31253.89471699477,$$
+Tj5h4YPSuxCvFtScRWBpkw,The Elm,80220,3.0,193,burgers,True,3516.828769953361,$$
+uBjNp2ymSKKEZFWXoSqamg,El Camino Community Tavern,80211,4.0,614,mexican,True,6310.463641916951,$$
+2CSLeJMLjK_qKrIvOxMFKw,Columbine Steak House & Lounge,80219,4.0,307,steak,True,4926.725406112855,$$
+EOh9f0jI92sZZa76QLKb-g,Beckon,80205,4.5,69,newamerican,False,3031.2962110676526,$$$$
+kHt1zp5WzY7yzCAJtJZ5pA,K Pub,80014,5.0,2,korean,False,12526.15725502653,
+OPG32uL638rnrEGDpH36Ew,Botellón Spanish Tapas & Wine,80218,4.5,23,spanish,False,857.9769190723325,
+l83UGNmKZYU6JbPMpttipw,Locust Cider Belmar,80226,5.0,3,cideries,False,9644.248520086734,
+jj4FhFR8QReW2UGNHBA4QA,Edgewater Public Market,80214,4.0,116,bars,True,7586.010173817948,$$
+9aZRlwqxx0r709kgOGeCcw,Uncle,80209,4.0,155,ramen,True,2502.660126447898,$$
+qovpR5LQrRxNnMKni20gPA,Grill & Vine,80249,3.0,97,salad,False,28200.275030010012,$$
+smcqQSgZZafoKVC4ABVglg,Dazzle,80202,4.0,487,jazzandblues,False,2467.131143891298,$$
+o0nkXmMV2B5I4NmJ_k_SNg,Illegal Pete's DU,80210,3.5,245,mexican,True,6375.447930025482,$$
+-UJ9Z8eTtuM155jjJ8z8RA,Rocky Flats Bar And Grill,80303,5.0,22,bars,False,29546.1092517131,
+LGnbnpKgStBoFCc2mTv5Pg,Bad Daddy's Burger Bar,80206,4.5,554,burgers,True,2318.0311833498818,$$
+lnDQaLKyAFA-J9ynAoQtjg,Bonfire Tavern,80232,3.0,15,divebars,True,11100.439368762945,$
+5WkmWRFoZmmF8MIzYKlktQ,Boulder Beer and Tap House,80249,2.5,183,pubs,False,28256.431663174517,$$
+T4PObJ89O-c09IGqq9acOw,Bookmakers Burgers + Bourbon + Brews,80016,4.0,144,bars,True,29380.667412932886,$$
+lQ_VZUSCuYKFOBWm7n0MOQ,Tacos Tequila Whiskey,80203,4.0,91,mexican,True,1511.2154561992666,$$
+dybVqea5pjn-KKyD5rAjCg,Dulce Vida,80204,4.0,69,tradamerican,True,1836.184185875441,$$
+u5HvR26VlVlakU3WIB3PVA,Citizen Rail,80202,4.0,316,newamerican,True,3360.1304643981407,$$
+c7i2jeZrc1820blCcCiF5Q,Machete Tequila + Tacos,80206,4.0,699,mexican,True,2093.581225153793,$$
+x7lfz9IwBWGnMluD9154zg,O Bar,80206,3.5,18,cocktailbars,True,1916.4443070606694,$$
+ip_SEZkSwnstOrjhrNl8vQ,Twin Peaks,80401,3.5,247,newamerican,True,15939.014831621003,$$
+duoQBJzkCn52E5k-V5-t0A,Illegal Pete's - Northside,80211,3.5,117,mexican,True,5040.593878886097,$$
+trkF3kSr-bMq2rQ4szY_pQ,Coperta,80205,3.5,253,italian,True,1665.6432516397729,$$
+yLlWMyt0xLgBHgUoQztfWg,The Berg Haus,80108,3.5,36,sportsbars,True,30651.232470370753,$$
+whMF9UFpUrtalDgqr_yENw,Kinga's Lounge,80218,3.5,262,lounges,True,560.6498650692919,$$
+nzdw9kZZH_720sfbRTEydw,Zeppelin Station,80216,3.5,102,bars,False,3807.90312436277,$$
+uGqCzGz1BJ3zCKJWfbzgIA,Cheapskates Action Sports Bar,80002,3.0,69,newamerican,True,11783.723671919603,$
+dEvajnJAEicqZVSSRPoyRA,Milwaukee Street Tavern,80206,3.5,121,tradamerican,True,2329.355815280713,$$
+W4ilnF0nLcj_jCK-jX-uug,Ace Eat Serve,80203,3.5,757,bars,True,1265.7855258464986,$$
+Ky_99NkKnTGv-EW9x07rEw,State House 38,80022,3.5,70,sportsbars,True,21817.00644712714,$$
+_k1Dc0ah4ijIXL8aLT9Zag,Buffalo Wild Wings,80238,2.0,303,tradamerican,True,7036.845929200569,$$
+QgLBYDNHkj7Ju0Pcy7Tp5Q,Trattoria Stella on Colfax,80206,4.0,349,italian,True,1841.8447100780745,$$
+E4HzQMzTSWlRjc8_DCnOYg,Postino Broadway,80223,4.5,126,italian,True,2357.0045340751576,$$
+Z7nazPnqUFxxdsgDIYNbng,Yard House,80202,3.5,1039,newamerican,True,1849.5735290018124,$$
+BQ8qsxGISypo1XddL2GT0Q,16Mix,80202,3.5,46,newamerican,False,1812.6282023133622,$$
+ktRKlmz0WMENuLJ6yYlYEQ,Vital Root,80212,4.5,407,vegetarian,True,7483.649052219473,$$
+1QYGDOOK7j6kXYOi1uHHxw,Sputnik,80209,3.5,573,bars,True,2582.9345880012993,$$
+aP1LydPy6dBi3GWkudKGjA,VINCA,80021,4.5,33,wine_bars,True,21396.88242291184,
+YCgXebQmAO80I3FdSapKwg,Scooters,80012,3.5,83,tradamerican,True,12432.939331220326,$$
+pnY1m8aBusUCqgD1rUcLyw,Panzano,80202,4.5,1027,italian,True,2366.3196999156726,$$$
+3c33ZacI9l5g6c3OCADMaw,Highland Tap and Burger,80211,4.0,930,burgers,True,4733.027046981027,$$
+L-HBWYs69Rb992elIwUsCw,The Source,80216,4.0,279,food_court,False,3767.8679313457383,$$
+QllMTki7YCip2IWvFeDM3g,Breckenridge Brewery Mountain House Restaurant,80204,3.0,130,sportsbars,False,3515.5441008673984,$$
+MO6EBqn_1GENnKKo5_g7jw,Tres Chiles,80212,3.5,104,mexican,True,7422.0498594526425,$$
+ReirpdoyhR0aon7u334Smg,Tapas Sky Bar,80249,4.0,55,tapas,False,28807.724271954616,$$
+A9am6KoOTZEgJzbSZi-tHw,The Coop Denver,80202,4.5,58,tradamerican,True,3132.115085307896,
+bVj43MmbZBdrMsO9_CTQDA,Piper Inn,80231,3.5,233,bars,True,10723.889779606048,$$
+QEofpiHdQ9WWVsasAlb2Kw,Miners Saloon,80401,4.5,224,cocktailbars,True,21659.542514217334,$$
+dLRnZutMBNqM6VD7eC7pgA,McDonough's Pub,80247,4.0,19,tradamerican,True,11097.20238532259,$
+2a_ipr2udmXrX5-O3sv9_w,Mountain Pass Sports Bar,80019,3.0,78,sportsbars,True,20805.88867981233,$$
+ZS7mFZwEM_Ff_sr2ZzNiQw,Hopper's Sports Grill,80033,3.0,45,sportsbars,True,13216.225945582304,$
+lCub_rVAKIbuUzB-0FN_Mg,Extra Point Sports Bar,80229,3.5,20,sportsbars,True,15966.535371832178,$
+vTXRdx9F9R1Z7fELdzaSmw,El Potrero Night Club,80246,3.0,16,mexican,False,4347.854252583567,$$
+rAlvTjJxjMHjlDC7VDC9Kg,The Hideaway Lounge,80014,4.0,79,sportsbars,False,11715.015694167852,$
+wWnBybKYcWsco4nVQ0GqJg,Walters303 - Uptown,80203,4.0,312,pizza,True,1447.0291491654039,$$
+Defb5T16qauy2rMcmiv7wQ,Hayter's & Co.,80202,3.5,180,bars,True,2907.3293967079685,$$
+dG09ted0NbVZGZOmBrFY8w,Overland Tavern,80223,5.0,1,sportsbars,True,6285.277673060939,
+6qh3oBBBqYCmAN3pzfZOsQ,Watering Bowl,80246,3.5,213,newamerican,True,4983.188551319595,$$
+DPgTXYcAXgpUqDtNyK8n2A,Dougherty's Neighborhood Pub,80209,4.0,158,irish,True,2535.027961514916,$$
+sdUQHlIh3nXwQ6B1gHTPNw,Providence At 5280,80214,4.0,299,bars,True,7438.885000830621,$$
+FcyalVpVWzOHCYJnQDTLPw,Leven Deli,80204,4.5,228,delis,True,1675.628880964664,$$
+VCgdJQ8JrEitd4OsUwdVCQ,Teller's Taproom & Kitchen,80215,4.0,535,tradamerican,True,14735.153936405346,$$
+ykKUmPCc5IgPgDhkLMHNyw,Julep Southern Table & Whiskey House,80205,3.5,182,southern,True,3290.7299249274856,$$
+Dpw-XhPa_wryAepmDq8qkA,2 Penguins Tap and Grill,80112,4.0,275,beergardens,True,19446.854815814706,$$
+GLx-pLq2Hvt_lLWIwGdT7A,Chocolate Lab,80206,4.5,223,chocolate,True,1230.1676949278337,$$
+aet4cCokBmAlGyjsXrqpiQ,Little Brazil,80215,4.5,120,brazilian,True,12244.062922376626,$
+bb_VNwJQLzao_3HSGx6B9g,Postino 9CO,80206,4.5,68,wine_bars,True,2640.6366749604435,
+EbWF_4FyGbwhpOwK_Z-hrw,Wally's Wisconsin Tavern,80202,4.0,78,tradamerican,True,2958.1954211261814,$$
+ujWroUNoe3Ci-8ZQ8ffMGw,Jerry's Bar and Grill,80601,4.0,16,bars,False,30888.65508147784,$
+nNz-vnyv0eSQRbQO1kqcNw,Ambli Mexico at Fitzsimons,80045,5.0,5,newmexican,False,11404.167357480788,
+iQZvqX2pFr3Xkc06P3vuKw,Alpha Charlie's Tap & Tavern,80111,4.5,41,sportsbars,True,18663.378986882013,
+ZbpmuK-q2g3cbDo6kzxMcA,Smokin' Dave's BBQ & Brew,80221,4.5,205,bbq,True,11110.646010356295,$$
+a7vSnu_NsYeX6ygW9nhtug,Wrigley's Chicago Bar & Grill,80401,3.5,138,sportsbars,True,20178.924378134627,$
+sMvSbXAU937huAF9Pt1viw,Fire On The Mountain,80209,4.0,148,chicken_wings,True,2921.3374813626715,$$
+zJRBJ_Y0-bfADPh_o_G7Sg,14ers,80231,4.0,5,bars,True,10692.392103132059,
+sI7S3aQTuAN49EuUEIJXrQ,Murphy's Tap House,80027,3.5,160,bars,True,30202.743595326156,$$
+w-AWttJtCCm9FQBnFdwxuQ,Billy's Inn,80211,4.0,392,bars,True,7201.579231139241,$$
+53tUc8QPdLoOprPQeFB93Q,Felt,80110,3.5,58,poolhalls,True,8940.885566612475,$
+-r0tWm_9N1xEMFuFFLl-FA,Zio Romolo's Alley Bar,80211,4.0,75,lounges,True,4893.277999738148,$$
+0c7ZMOzasO8cMgCHoUoW2w,Colorado Plus Brew Pub,80033,4.0,337,breweries,True,9688.77105871151,$$
+dYYoq7E5WwK2H2BdRmeQ7w,ChoLon Modern Asian - Central Park,80238,4.5,34,asianfusion,True,9091.7483026992,
+fMQ9whnje3oJ0Y8j_E1yWQ,Pho & Bar,80218,5.0,48,vietnamese,False,854.5455390777431,
+QsaJ6FjMORGIZCw8IfsHPQ,ViewHouse Littleton,80120,3.5,469,breakfast_brunch,True,14203.084472954297,$$
+D0ufYvEQ2JYRl8-XqU3Ktg,Mead St Station,80211,3.5,351,newamerican,True,6307.596143091451,$$
+ODjV2dU6Aq5BcBfeef6bxQ,Lariat Lodge Brewing,80439,4.0,401,brewpubs,False,31353.39773560046,$$
+IhdFeUHNdlmN22Yv3xLHEA,100% de Agave,80203,4.0,438,mexican,True,1440.6745977785263,$$
+Hisc0j78_WlwUpLB7oiQ8g,School House Kitchen & Libations,80002,3.5,649,bars,True,11894.23530091086,$$
+kcSZHlnFAGZiX5SIurlDTw,Lincoln's Roadhouse,80210,4.0,126,bars,True,4633.758158515109,$
+iSZTm7oCnXc3QTNTz4OFpg,LaMark15,80202,4.0,8,tradamerican,False,2877.393620916885,$$
+YHVqT__p7UtZicaWqI_pKA,Homegrown Tap & Dough - Wash Park,80209,4.0,340,pizza,True,4202.630985429612,$$
+D4F3Ntl4e_1A95FMBuqstw,Steve O's Bar & Grill,80223,2.0,5,mexican,False,3967.8004237335463,$$
+tOwqwzuMHb1-pGkk1MJbYQ,Prospect's Urban Kitchen and Bar,80202,3.5,21,bars,False,2160.729881528915,$$
+STjNbLa0mLMSGp7w5PHjXQ,Humboldt Kitchen + Bar,80218,4.0,676,newamerican,True,888.5353597668052,$$
+47IMFinRjm_WYpXyk733Ow,Misfits Sports Bar And Grill,80215,4.0,38,sportsbars,True,13386.796710587001,$
+r_V-3Y8sxRfcxZeU7MbsIg,Ogden Street South,80209,3.5,98,sportsbars,False,2382.1460569130113,$
+ywFvkNZVJoXUQbZoq7fr1w,Rioja,80202,4.5,2247,newamerican,True,2855.2299693634436,$$$
+fg0ToLv23x3QRXmlx9WX7w,Ship Tavern,80202,3.0,230,tradamerican,True,1772.65063491834,$$
+oPqKoUZIyxsYmfu2oWc2Ag,Brewery Bar II,80223,3.5,124,mexican,True,3103.0096094578344,$$
+ZnlUkijBGIYCHnoDdtVW5Q,Mezcal,80206,3.5,526,mexican,True,1898.2278444933695,$$
+6rlKeq2pYbHqo0NUzbC3zQ,North Side Tavern Restaurant,80020,4.0,294,tradamerican,True,21973.733149594147,$$
+FIza3IbAT1rECvhj629nBg,Claim Restaurant & Libations,80249,3.5,2,bars,False,19339.934610801985,
+HL6vV71A6I0JPiEc2DtyKQ,The Well Pizza & Bar,80211,4.5,202,bars,False,4798.4833894156145,$$
+8fbW9x-My6IX-MViTywsww,Bar Louie - Lakewood,80226,3.5,272,bars,True,9447.05585372885,$$
+_nAgQgTcV2YslQyUSmnw8Q,Annette,80010,4.5,262,wine_bars,True,8174.803567980656,$$$
+ofjnIluYBf5ksve-yzPhXA,Junction Food & Drink,80222,4.5,20,food_court,False,6681.6661733042165,
+w9un1CVRe_R3Qh3GzPmR4Q,Clancy's Irish Pub,80033,4.0,141,pubs,True,9664.206543355434,$$
+QmgLDVzZl_91e3-GceV-5w,The Hornet,80203,4.0,707,tradamerican,True,2419.8896467059167,$$
+5P3KlzX9hx-1PhSyMd34-A,Corridor 44,80202,3.5,317,champagne_bars,True,2854.1066617022657,$$
+lDe28njq95Ewlm4IJ_fknQ,Greg's Kitchen & Taphouse,80212,4.0,90,tradamerican,False,6887.933949563529,$$
+4SKqo3amKgRr8cUPLVYsBA,MCA Cafe & Bar,80202,4.5,8,bars,False,3417.3941358089246,$$
+S0nmvdyMGNninuFuEPhqIA,Miller's and Rossi Speakeasy,80205,3.5,2,tapasmallplates,False,3629.767561384538,
+2KcPWxjpSNlVWYIYWt2Kug,W.T. Shortys Sports Grill,80224,3.5,92,tradamerican,True,6689.405387840766,$
+EjNI-dNAMrYxKgUIkqeqhg,Guard and Grace,80202,4.5,1138,steak,True,2140.4033736245196,$$$
+zrUCkMVC061I4oAir0n2yA,Chopper's Sports Grill,80209,3.0,203,tradamerican,True,3114.811627110646,$$
+dbggmmYRYmIRuTU6R8B_RQ,Bar Dough,80211,4.0,462,italian,True,4748.9275845875545,$$
+6gbm4iSFRzciWhMoggvFjw,Mickey's Top Sirloin,80221,3.5,132,steak,True,9771.678659468289,$$
+jG1gbPwxqN1KY0aFcUWe6A,El Padrino,80211,4.5,3,mexican,False,7053.93901522201,
+oYjy071v56RZK-kb9SSn0A,Burgers & Crafts,80207,3.5,11,burgers,True,6503.150025010258,
+L-nIlGtgQgBHl522YSITTw,The Castle Bar & Grille,80121,4.0,156,burgers,False,15619.092678543206,$$
+_7ekW6b8-TYCh75_aCBt_Q,Viewhouse - Centennial,80112,3.0,1630,tradamerican,True,18224.96628728834,$$
+uGldOBewiKoJij_--_u8aQ,Frasca Food and Wine,80302,4.0,515,italian,True,40753.78235066652,$$$$
+CE1dbO8TrTV5OipwF7U02A,Big Choice Brewing,80601,4.5,60,breweries,True,30605.715067292058,$$
+x8WDKQmWKOTpbAZNyzt0nA,Bar Red,80204,4.0,113,bars,True,2104.806881047698,$$
+uRI4OVYE8OxD9_Q_msOYuA,Poppies Restaurant,80222,3.5,161,tradamerican,True,7307.658161282256,$$
+60pmCv8I8-bnz7W5CpOfow,W XYZ Bar,80021,3.5,5,cocktailbars,False,21485.17497972862,$$
+1n3DLJhJkURp__mSE3mK-Q,V2 Sports Bar & Restaurant,80219,2.5,5,vietnamese,False,5518.051069854435,
+iLilGbTfMUGDwKLwDOCgng,Illegal Pete's - S Broadway,80209,4.0,318,mexican,True,3010.5801829676875,$$
+JSZEX7pWE_PcZpjwds-Rbg,Spot Bar & Grill,80209,4.0,127,sportsbars,True,2476.663092393189,$$
+AGopPiE4IZUdmw7yo6PIow,Machete Tequila + Tacos,80202,4.0,538,mexican,True,3152.208864312734,$$
+nGUEDtVQR4a5Rel6KQ-9TA,Lookin' Good Restaurant & Lounge,80226,4.0,84,tradamerican,True,7336.988829359097,$
+Ks-SfiBoz0i8cljMkZKTbg,BJ's Restaurant & Brewhouse,80012,3.5,388,breweries,True,13097.464121488152,$$
+CQVcAFlTUO18PVbspTwVxA,The Peaks Bar & Grill,80026,5.0,1,bars,False,32466.303820024383,
+jUd1aNmISnO7tv4H7TGdyw,Long Shots Bar and Grill,80033,3.5,79,vietnamese,True,15080.222346389566,$$
+ld-tC5OMX7w_PR79oDKweg,Drip Denver,80203,4.5,115,coffee,True,1465.990989031243,$
+B5GgKhPREBgipv8kfSOluw,Adelitas Cocina Y Cantina,80210,4.0,776,mexican,True,4910.471015532131,$$
+hks-LDU4R-mJJvr9bBfguQ,STK Steakhouse,80202,4.0,417,bars,True,2864.6729421701793,$$$
+zi_DRcy09Rc03PwEKCjfjw,Park Burger - Rino,80205,4.0,367,burgers,True,2995.499347256572,$$
+N_tX1pJz92Ls-4sMQvMLpA,Postino LoHi,80211,4.5,651,italian,True,4494.647303313506,$$
+gVPEiJQcnQgGFbMbg92n-w,Zink Bar + Patio,80246,1.5,3,newamerican,False,4241.4392471979145,
+zkZ9ddErx2EAXnD36N04zw,Blue Tide Tacos,80206,5.0,2,seafood,True,2129.5691505951727,
+BE6N7fPQ0SoLfWay8YIlmA,Park Center Lounge,80234,3.0,66,newamerican,True,20189.754807828653,$
+JO_XBAkj1MAPqvPlkH0G9w,Morrison Holiday Bar,80465,3.5,61,tradamerican,True,21000.078607373944,$
+4KwS6dpVftUNEObq4ugPZg,Cilantro,80204,4.0,62,bars,False,4839.100321102712,
+65A35EEKuWBMduR1mlyRow,Cheba Hut Toasted Subs,80203,4.0,185,sandwiches,False,880.4878304986725,$$
+7DD_e7OZ7pLI7Rcx1OVAiw,The Truffle Table,80211,4.5,239,tapasmallplates,True,4344.254773934977,$$
+jDCN-pPZVWa-4ZXZBpBZ3Q,Illegal Pete's - Park Hill,80207,3.5,9,bars,False,5599.069183799388,
+tQfol5Tj9f110F9V3Qj9Qg,Fat Boys Sports Bar & Grill,80012,3.5,103,sportsbars,True,9480.325008054953,$$
+ViQl-_jgYLE0bhvttFVHqQ,The Old Man Bar,80020,3.5,249,bbq,True,20875.94503765855,$$
+V4-VVlxoqT0jYpm2xyjLVw,Swanky's Vittles And Libations,80202,3.5,129,sportsbars,True,2914.2557044866753,$
+OjjbkJr3Xv78_bg6TFPiZg,Los Chingones - DTC,80237,4.0,559,cocktailbars,True,13455.906603949585,$$
+ZW50Y4-glRcFg2GGFcknuw,Jake's Roadhouse,80003,4.0,18,divebars,True,11339.905706284708,$$
+PjIvNPSKRcZnrhtIdXFxVA,Cheba Hut Toasted Subs,80206,4.0,138,bars,True,2610.170724445099,$$
+ymCElb8Z_EV3UIdAHbtRqA,Bacon Social House,80120,4.0,299,newamerican,True,14106.855485216694,$$
+tWN6goegNwDi_vVXvaCHUA,Tributary Food Hall,80401,4.0,80,bars,True,21504.671573073345,$$
+kRmYd-YMlTswHBnK4LBf2A,The Black Buzzard,80202,5.0,4,theater,True,2839.7374247603393,
+DL_Vy3IK_upcstlRF-5TZg,Sideways Sports Lounge,80005,4.0,47,tradamerican,True,17337.781071280668,$$
+mcPe4YvODRH2d-QTKdm5Ow,Degree Metropolitan Food + Drink,80204,4.0,87,newamerican,True,3156.4125006320687,$$
+lbfnJjCGIU0yuG5HlZekag,The Spur Bar & Grill,80207,3.5,8,sportsbars,False,6506.302216272261,$$
+KirNvv8CPBgcX_Bd0X56gQ,Lo Stella Ristorante,80204,4.0,201,italian,True,1743.3885084061399,$$$
+JXQFE7vS0zK65I4Yd9f5ig,Lot One,80005,4.5,103,cocktailbars,True,20191.479891521878,$$
+lJqjCGiVH4V2VaCwXjiWKQ,DMZ Pub,80014,4.5,24,korean,True,11715.366301543203,$$
+EnG68SKKmVENncKzo2bMOg,The 9th Door Capitol Hill,80203,4.0,236,spanish,True,1478.8743654488812,$$
+JWbnx_g6AYSrPMQJDHLBMw,Lola Coastal Mexican,80211,4.0,1198,mexican,True,4351.733245766641,$$
+GOab5GzDqAOcZMiD6zGBuA,Pints Pub,80204,3.5,329,british,True,1769.4427703065053,$$
+3hmNOmXjsVl2qWDKGTcUEw,SOL Mexican Cocina,80206,4.0,460,bars,True,2097.438421052699,$$
+-izMm16SLxE9mlbkxXagSQ,Rock Bottom Restaurant & Brewery,80265,3.5,713,breweries,True,2487.4097574893503,$$
+aT0Fq9F3mcCTAM-Z54AnBQ,Full House,80113,4.0,7,tradamerican,True,10818.325795746892,$$
+Ei_zxEoQsgOnqZb4DEspEQ,Close Quarters,80223,4.5,5,coffee,False,3550.733770302001,
+Z5T2ODN0kwzCn8Yb3HJhdw,Rock-A-Billies,80004,3.5,111,newamerican,True,16647.8985049589,$$
+qtRNJsz1MYEZVidYIft1Tw,Illegal Burger - Capitol Hill,80203,4.0,124,burgers,True,1580.736717023643,$$
+HVmpXGj55HDQW1O2EycXcA,Parker Garage,80138,3.5,409,newamerican,True,29966.375129519074,$$
+EXWfoklDL28i2hNqTgk5ew,Acres,80113,4.5,283,tradamerican,True,10263.099508652283,$$
+hBs0WWdJHfykII5p2lq6RQ,range,80202,4.0,309,newamerican,True,2371.7089370244666,$$
+Z5L6wEWZWRLr6CcpdnDosg,ZEPS EPIQ Sandwiches,80203,4.5,397,sandwiches,True,1491.5917494870496,$
+ZWHqfjHgPdnys6cYjOZ1uQ,Darcy's Bistro & Pub,80237,3.0,199,irish_pubs,True,13659.007654546935,$$
+3-JFnH1dcVmOc2WlvYjpmQ,Lounge 5280,80249,4.0,136,wine_bars,False,28794.283357333414,$$
+wpbsxDcZbSA1h4iZbamlag,Bistro Barbes,80207,4.5,98,french,True,4257.785470235829,$$$
+zlIrQSD200hwHvDcLXn0Fw,Sit N Bull Saloon,80454,3.5,60,tradamerican,False,26288.763123370172,$
+vlwlNowe-TUAp_jLoAa-QA,Sloan's Bar & Grill,80214,4.0,248,bars,True,8010.215880822605,$$
+8JQF8PZca4P3DuDC0-xCQw,Comedy on the Rocks,80230,5.0,1,cocktailbars,False,6587.305582582325,
+6kivzrZHOl-y8I33s9cinQ,College Inn,80224,3.5,160,sportsbars,True,3037.047582721612,$$
+x49canS-pbLxFV5577x0gA,Dagabi Cucina,80304,4.0,156,mediterranean,True,43629.7840434935,$$
+lBf4xzb3wSBP2_e5jeZlSQ,Blackbird Public House,80209,3.5,515,tradamerican,True,2766.17796536148,$$
+o2PfhI0qFjxMG5SiCts3Zg,Dirty Dogs Roadhouse,80401,4.0,51,bars,True,19965.73737897835,$$
+JN2rADMGwVm9zAi_J12EyA,Knife & Board,80207,3.5,19,tradamerican,True,6408.754772776426,
+aYi87LRtyJd5O3qmJxmCgA,Vinue Food and Wine Bar,80206,4.0,198,wine_bars,True,2093.330545587293,$$
+gQAYsZKgN_y70GqA-hVw3A,Skippy's Bar and Grill,80231,3.5,37,sportsbars,True,8966.267881847964,$$
+1aPGQc2VHByavb69I7TSwA,Upstairs Cocktail Lounge,80302,4.0,43,newamerican,True,41133.43947682606,$$
+Ye5urXUjK0HbIDcsehFZTA,Officers Club,80230,4.5,129,cocktailbars,True,6496.682193931605,$$$
+JIgAaa7dmE27RPkoVrWAeA,Aviator's Sports Bar & Bar-B-Que,80249,3.5,302,sportsbars,False,28801.60305903226,$$
+bPN9wXXVYymAKNApPW4xSg,7 Leguas Mexican Grille,80220,4.0,164,mexican,True,6959.110491130128,$$
+0v_hvVw5GRwu785zfv2_rw,Brothers Bar & Grill,80202,2.5,251,sportsbars,True,2795.7562647413347,$$
+uirnWSFztWV8thW3Th_jcQ,The Prime Bar,80015,3.0,13,newamerican,True,19448.774606441704,
+M-juFFD0ALOPWtSb5xrblA,Icehouse Tavern,80202,3.5,143,bars,True,3170.2680207637336,$$
+Bv4qRxhmUmxegUXGFj-RBA,Lakewood Grill,80214,3.5,105,bars,True,10044.530317727074,$
+4tEp9_68UpcJPYxfd6s71w,Park Burger,80246,4.0,301,burgers,True,4799.290069472192,$$
+UBJqi9047ZIRFmPirZh53Q,Jackdaw,80014,4.5,35,newamerican,True,13806.0179712746,
+dGxmv4t36Xi9I-ZLjXEPXw,Tap It Tavern,80002,4.0,43,beerbar,True,11741.203498547447,$$
+_ZpJHop7zAIS6ixMTn2cUw,The Atomic Cowboy,80209,4.0,189,bars,False,2849.6521007536035,$$
+EBCrHwIH6uS8G1375ZTgOg,Cedar Creek Pub,80045,3.5,146,tradamerican,True,11516.13633984387,$$
+4LiJ9Yz_OpKbCBbfLCj0yw,The Walnut Room,80205,3.5,257,pizza,True,3311.806647373658,$$
+46F2_-KnibTgmLuXAkoFhw,Sirens Bar & Grill,80128,4.0,8,sportsbars,False,21158.2416064447,
+bd2vEFeilrADqfJ4oWKJuA,The Rusty Melon,80516,4.0,68,bars,True,34170.05005766309,$$
+lGd9jrFuBFlHmcwD7a7Bbg,Jordinellis Sports Bar & Restaurant,80601,3.0,7,pizza,True,30728.973945782225,$
+p8xiLh2L2gJaT9h1whO6gw,Willow Creek Restaurant at Evergreen Lake,80439,3.5,316,newamerican,False,32797.64810494073,$$
+WCzA9u1d4W1FzsQKrAu74g,Yazoo BBQ Company,80205,4.0,421,bbq,True,2332.168087583331,$
+bVWleX23qf4Xb0vkpYrfwg,Hops n Drops,80021,4.0,69,cocktailbars,True,22355.918898635657,$$
+I-kkdgNcOoD6Z7m5A7jzwg,African Grill and Bar,80226,4.5,223,bars,True,12687.52967808981,$$
+ldycK0JCS0Fi4LL3N7aM5A,20 Mile Tap House,80134,4.0,140,tradamerican,True,27120.027377166367,$$
+vuzELvRz164NdHjKJtt9QA,Miles Sports Pub and Grub,80027,4.5,37,sportsbars,True,30371.69858260312,
+yhlid4L9TbfxyZJM-HWb_Q,Red Rocks Bar and BBQ,80249,2.5,92,bars,False,28308.19544249372,$$
+8lKL5Bxt620aqh0ulDByIg,Sushi Den,80210,4.5,1842,japanese,False,5182.987196490936,$$$
+YgVGY2fE_E_7Dz7LvZYNvA,ZOMO Asian + American Eatery,80113,5.0,201,vietnamese,False,9197.505149805384,$$
+ytb0pP6YyNDrKosiR-g9VQ,Eddie V's Prime Seafood,80111,4.5,23,seafood,False,13903.755595771894,
+_VuhswotQ83PDsmyv3XTOA,Piante Pizzeria,80210,5.0,6,pizza,False,5040.845557726141,
+Tgi-rDD3mxFi9uGybZxdaQ,Faun,11238,4.0,160,italian,True,2943.2784723069913,$$$
+bvzaDb2FqjdM2XQRfo0pmg,Legends of Aurora Sports Grill,80014,4.0,192,pizza,True,13630.418666186422,$$
+XvOmiFA8D-xpH23AJPBPhg,Thank Sool Pocha,80014,4.5,25,pubs,True,11162.610066739835,$$
+f3qF0th9lfJ8CmxGzY0ZDg,Chook Charcoal Chicken,80220,4.5,82,chickenshop,True,2997.6976743510213,$$
+-9kztaxbyKvu4YtMYz-6vg,Skyline Pub,80214,4.0,40,sportsbars,True,7283.611688550059,$$
+QIylo75fUWlVXy73HKGNKg,Mercury Cafe,80205,3.5,292,musicvenues,True,2138.438588893061,$$
+alVuEHMqyyTpXZKcIfKT9w,White Pie,80218,4.5,285,pizza,True,887.4669172893492,$$
+7Wb-Y0dxakfRkLTAIG4Bmw,Hops & Pie,80212,4.5,947,pizza,True,7441.050322937775,$$
+4iMAM_ufOo1kd42-tpVZnA,Monaghan's Bar and Grill,80110,4.0,20,bars,True,11328.963495083422,$
+Yitgfh7pGPnf8NVMZw6hyw,Sweetwater Station,80021,3.0,27,tradamerican,True,18964.642512935294,$
+bTK-udVlUztso271Gxi_aA,No Name Grill,80123,4.0,44,tradamerican,False,17209.70492419964,$
+vRLQV5EntI655QNp2uSkkA,The Bluegrass Coffee & Bourbon Lounge,80002,4.5,286,bars,True,11757.121383647438,$$
+XoQIb5vmFQw8k7nMXaQt9Q,Cactus Jack's Saloon & Grill,80439,3.0,180,bars,False,32175.53118735685,$$
+iFGtWJXQUESdTp1O6NF1kQ,Lodo's Bar & Grill,80031,3.0,229,sportsbars,True,17427.909168332826,$$
+fsP5zLIRLf0gcuZpI94eYw,Wynkoop Brewing,80202,3.5,1227,brewpubs,False,3130.136676246296,$$
+e-uK0CVe86ifdntGrW6EQw,Hamburger Marys,80218,4.0,153,bars,True,833.7949737984919,$$
+FJpM-Veucz0k299Owd8PLQ,Pandora's Box,80031,4.0,1,tradamerican,False,15747.774283973973,
+NTL8RqXDXfmd9jVHfRmC2g,Great Scotts Eatery,80221,3.5,121,diners,False,10939.806709664605,$$
+vcthyvpSer0OwxnFw6RM6g,Bait Shack Tavern,80439,4.0,48,tradamerican,False,32119.390689893524,
+Ab8DNvuiscLeezv_GX4oxQ,Reiver's Bar and Grill,80209,3.5,142,tradamerican,True,4357.05811253951,$$
+Wg7QdsSlIpJ4JzVg73mbJw,The 303 Sports Grill,80123,4.0,159,sportsbars,True,17142.31067113662,$$
+wPU-0BiY5vz2ARPBBzAXrA,Gaetano's,80211,3.5,612,italian,True,5109.048928158419,$$
+UV6iMQRTY5WwBUtuRTbRsQ,Deep Roots Winery and Bistro,80202,4.5,144,wine_bars,True,3076.6523179997475,$$
+XFiAkKflREfvEEH7wJ00qA,Dimestore Delibar,80211,5.0,58,delis,False,4362.671754360521,
+P7QV_Iyak5IDX0tbk3cHkw,Elevate Grill & Bar,80234,3.5,134,sportsbars,True,20431.023562889925,$$
+A9S4iGkRVNLWY8BSkRpDEA,Fruition Restaurant,80218,4.5,839,newamerican,True,1096.7751816744308,$$$
+xsdgsMNAPcnrIUXX-9y_tQ,Coors Field Rooftop Bar,80205,4.0,40,sportsbars,False,3153.083198946029,$$
+-lOMkVlx90Z_l4l5euUi_Q,One Barrel American Bistro & Wine Bar,80110,4.5,106,newamerican,True,9114.27551685576,
+XFpMzl0psOi8-kWYuNRF8g,Piripi,80516,4.5,27,tapasmallplates,False,35654.75312726202,
+DwGfsZbTPgx7A1kThQ5yow,Fiddlesticks Bar and Grill,80232,4.0,101,tradamerican,True,14035.704490397176,$$
+03MTKn6dwETKu0NkAAq3cA,Denver Chophouse & Breweries,80249,2.5,507,steak,False,28582.425086476458,$$
+1VqjYMxk3zNlxcNVN0DZ3Q,Cuba Cuba - Castle Rock,80108,4.0,181,cocktailbars,True,35507.38526280909,$$
+lzUBRCoBfJEtOp5KzJlw_w,Pino's Place,80113,4.0,198,italian,True,9187.51094356029,$$
+l7UeWIFC6L_hfIVAtKXxzg,B Q Foods & Spirits,80015,4.5,7,mexican,True,18817.88544980885,$
+MEc4fCN82Pj9Eui1TXBStA,Dry Dock Brewing - North Dock,80011,4.0,31,breweries,False,17020.464893959434,$
+VQZ1AnO8i1uA-b_50kOh5g,Matsuhisa - Denver,80206,4.0,248,sushi,True,2658.7795381027026,$$$
+7J5A3Bkq5dAfAzvBxp1lnA,Next Door American Eatery,80202,3.5,350,bars,True,3216.358548331235,$$
+MbWsTv_dPTTdt7tGMtFwKw,Crú Food & Wine Bar,80249,4.0,197,wine_bars,False,29125.929768194874,$$
+5M5E9geruC4xY6nlhetlgg,Smok,80216,4.0,153,bbq,True,3748.5344962367053,$$
+-tcQ56G-XyaYagVCpWi1nQ,Blue Sparrow Coffee,80205,4.5,150,coffee,True,3344.099197243606,$
+P3OXk2H-RyUdM-o7zdc0kw,Chili Verde,80211,4.0,390,mexican,True,5045.032188867695,$$
+D_abfQltR-ZVLZHr-ixFzA,La Fonda Mexican Restaurant,80212,3.0,78,mexican,True,8512.096032921898,$
+wPMVTI1IrOQxm6Uv1jxRNg,LeRoux,80202,4.5,94,modern_european,True,3014.5074896652004,$$$
+jx5kzkP_9zwh9BW0WVPAWw,Osteria Marco,80202,4.0,1546,italian,True,2851.3087177377074,$$
+kTCgKQ42s9GtIT59-NCj8g,The Bistro Bar,80112,4.0,1,cocktailbars,False,20889.840475730973,
+ebegb4SpuL4gOxGsn8o9vw,Longshot Restaurant and Lounge,80110,3.5,16,lounges,True,10632.972492545201,$$
+_6WubDpSOhfjB5oDnXk60A,Alibi's Bar & Grill,80122,3.5,37,karaoke,True,18357.316127252634,$$
+Jwfn1v5NKJHisUZs6jDUUA,La Mex Bar & Grill,80216,3.0,1,bars,False,5545.062080788728,
+n6Skam-_s2B79B5xmF2b9w,Famous Philly Cheese Steaks & Beer Garden,80207,4.0,254,tradamerican,True,5574.348526502489,$
+l_6i2S40ZS_VO2X1e0ZSog,The Boardroom Sports Bar & Steakhouse,80120,2.5,153,sportsbars,True,17335.657212439404,$$
+U-VMvVSCezBSsYUUVPxKsw,Shanahan's Steakhouse,80237,4.0,613,steak,True,13708.044475348206,$$$$
+-R6UoScfenNcGsLA8vokCQ,Innsider Bar & Grill,80227,3.5,39,sportsbars,True,13211.462289025714,$$
+vnd1L1Wbu1XDO4AUt09Avw,Angry Chicken,80014,4.0,309,bars,True,10831.172205554474,$$
+FbhmWI81IQkWKNqfJYUSFA,Lefty's Mile High Bar & Grill,80249,2.0,190,bars,False,28905.87748472478,$$
+W81goAte_yPtNbmJq4sPBA,The Village Pub,80260,3.0,21,bars,True,14252.007825795909,$
+be99fisbvat57azF6TB8iA,Agave Taco Bar,80210,3.5,351,mexican,True,4394.223031750592,$$
+aE1poZd-bkrU7qbxgzdBmA,Bluff Street Bar & Billiards,80301,4.5,20,sportsbars,True,40641.60880421719,
+zer-0JgqiMp07DBcY2G39w,Brewability Lab,80113,5.0,44,breweries,False,9173.447528631901,$
+lcZSt1lv0kTUaYrlbgNMOw,Thirsty 30 Craft Kitchen & Tap House,80015,4.0,110,tradamerican,True,18609.68589737681,$$
+miKI4GfcsdjgPfAW3mOaxg,Dark Horse,80303,4.0,357,tradamerican,True,38081.011530031145,$
+PWXL-tnT3QFmjxtBcamOlA,Mizuna,80203,4.0,292,french,True,1488.4555376439764,$$$
+TkdbLGeL7VjKb1-1CI0yzg,The Atomic Cowboy,80212,3.5,114,pizza,False,7669.569599921024,$$
+coQUjputMQk0vuWYBXth-g,Bout Time Pub & Grub,80003,4.0,161,sportsbars,True,13891.657379735349,$$
+pKIvez5VZmXTGJTi0P-zbQ,Majestic Saloon,80014,4.0,28,pubs,True,13391.408471099261,$
+-qTdQy_KPrCj36gKOx2pwQ,Piazza's Sports Bar,80017,5.0,2,italian,True,16410.151288385554,
+TGaoPuRB11ZlsaSdkRh_4Q,Pisco Sour Restaurant & Lounge,80014,3.5,211,peruvian,True,13854.461599396003,$$
+RLehr8gdD8-_50bOhZus8Q,Mudrock's Tap & Tavern,80027,3.0,64,tradamerican,True,31457.694691149205,$$
+6ThdJligZWCUCKjnbKgKFQ,Quality Italian,80206,4.0,357,italian,True,2013.1291261889885,$$$
+WEevalqNDxuvOXRG_0EBAA,The West End Tavern,80302,4.0,573,bars,True,41146.14716180984,$$
+6CCcgWYsYtAzDoldnm7Asg,Harry's,80202,3.5,76,bars,True,2258.051729127048,$$
+T3r9C9iVQ8gwXY7UzObVug,EAT! Food & Drink,80021,4.0,164,breakfast_brunch,True,25339.09880220591,$$
+PUJR3DY_f6MCyHjYjPAV3g,Family Karaoke Noraebang,80014,4.5,47,karaoke,False,11874.4868692107,$$
+yuFBE8X1SNnvXTcgEwh5YQ,Colorado + 49 Cidery & Pub,80401,4.5,152,pubs,True,21726.4660173468,$$
+waFjuYYWer4eTo1fwDVJyg,Slattery's Pub and Grill,80111,3.5,247,pubs,True,14226.399080188317,$$
+BLkwxYJAaURLYJ69bczXSw,The Bluegrass - Candelas,80002,5.0,15,pizza,True,24497.786993883114,
+perW-lmfhHiGJdgJX3dKBQ,Metropolitan Bar & Grill,80112,4.0,144,newamerican,True,19296.006306261148,$$
+geqyZrd7B_SGW3XcFwIPQg,Red Square Euro Bistro,80202,4.0,362,bars,True,2710.6819618926547,$$
+8R92rRC9PxJV6Lm-Uhqvmg,Smiley's,80401,4.5,38,bbq,True,17683.805350488547,
+b6VaEASG9N1xesz6BfEpJw,New Belgium Hub,80249,3.0,273,newamerican,False,29215.245483533217,$$
+8mRGYnQTt0Bw0gPn7hIbDA,Benders Bar & Grill,80020,3.0,86,sportsbars,True,19270.00949649737,$$
+cJtujjAh0GY6071l76hNhQ,Bazille,80206,4.5,20,newamerican,True,2439.5154514875376,
+pNVL0J-qaChARXtjXH3jHw,CRÚ Food & Wine Bar,80202,4.0,416,wine_bars,False,2805.1335490860165,$$
+w72MHABPV17StwOG0pyz-Q,Thai House,80211,3.5,59,sportsbars,True,6484.986081200353,$$
+JIUQRPk20TfbgaCrM7vD2g,Copper Rail Bar & Grill,80601,3.0,147,sportsbars,True,30386.674326142533,$$
+c4-QjGD38NjPgoVohIf6jQ,Yard House,80401,3.5,457,bars,True,15850.6541035046,$$
+CmmktDTVpjvo0_q-rkwCXw,French 75,80202,3.5,95,french,True,2218.1394852336925,$$$
+ifhZiI256AkL_x2nOaU3gQ,Cattivella,80238,4.0,302,italian,True,9091.739430658501,$$
+DJxElSih4k11KB2Hnb-dVg,The Corner Office,80202,3.5,830,newamerican,True,2558.7271996439767,$$
+dyyXv7IYqg_OO72w8wqMgw,Parkway Bar & Grill,80016,4.0,209,newamerican,True,27628.981904232573,$$
+HBBs_ruVCXXaNc-8ZxyezQ,Daughter Thai Kitchen & Bar,80202,4.5,185,thai,True,4006.1260508452633,$$
+UGkTl0n5ftsqTVWnJD4suw,The Little Bear Saloon,80439,3.0,134,bars,False,31913.628754972673,$$
+v2TMgEHyz4nUzuaERy__BA,Patzcuaro's,80211,4.0,407,mexican,True,5124.050330747342,$$
+IMMaj7u7z3cHaYTXaEiUqQ,Tap on the Rocks,80465,3.0,35,pizza,True,21029.66857172814,
+JB3ZiTwWYTJGcnNSL1gWwA,Black Haus,80138,4.5,6,newamerican,True,29950.529519456893,
+p2JNcqBTNAnMcgsNZ42PvQ,Topgolf,80112,3.5,609,newamerican,False,18579.370394644895,$$
+dO3ohq_jgQPPJbJKPEmgtQ,Gennaro's Cafe Italiano,80210,3.5,163,pizza,True,7472.375423140292,$$
+18PK7ox0d6UqF44oXIKSCA,Challengers Sports Bar & Restaurant,80014,3.0,150,sportsbars,True,12548.314288595175,$
+om1JWW-InzEohyYLl56ocg,Twin Peaks Arapahoe,80112,3.5,338,sportsbars,True,17273.85386341208,$$
+6yBwPQ83Ey-Zp7E62_Dw9A,Pitchers Sports Restaurant,80017,3.0,61,sportsbars,True,14838.485105233021,$$
+hK32RiwobZMPHvY_0IMG1A,Jose O'Sheas,80228,3.5,421,mexican,True,13992.82923660849,$$
+mR4gHlfh5W8SaIQXpHTy2g,The Thirsty Bear,80227,2.5,60,burgers,True,14267.346901060911,$$
+ATtXR7ef9dIdmFqahsbvmA,The Old Mine,80516,4.5,170,cideries,True,35488.65186876412,$$
+L5ZINb4ofbS_L8UXPQzjVA,The Dugout Grill & Bar,80516,4.0,89,tradamerican,True,34711.241089486706,$$
+JSNizJSuj0gZ594nBXhVWQ,Park Burger - Platt Park,80210,4.0,813,burgers,True,5975.700269962026,$$
+2KJiplzo4YH-wEWLcVmiog,Giggling Grizzly,80202,3.0,128,sportsbars,False,2789.0008536070886,$
+J5XRBqCxtvzji7_QTIiulQ,The Tune Up,80302,4.5,16,coffee,False,40788.0171620457,
+FejrVKGwbcpnGcZ-mIZvlg,Echo Brewing,80516,3.5,80,pizza,False,35634.12446414406,$$
+fYYoDLgw29NFytKVxDYvTA,Los 3 Potrillos,80219,3.5,6,mexican,True,6410.133653442146,
+ifwWDUeD2V-YeykROwfMaw,Tailgate Tavern & Grill,80138,3.5,248,bars,True,29982.903344848957,$$
+rbJSth8GUVjVcUjtcPyTRQ,Hoffbrau Colorado,80021,3.5,119,tradamerican,True,16840.80062615359,$$
+0FC3EUzMiowsCzuQEpe8KA,Clock Tower Grill,80124,3.5,118,sportsbars,True,22698.823488407666,$$
+3-13purNbs6U6hFIp3Jpmw,Wide Open Saloon,80135,4.0,47,bars,True,33026.930627213274,
+tlkYdsWZO4VaSwXSLUI1SQ,Bramble & Hare,80302,4.0,170,newamerican,True,40964.641445594345,$$
+Z8gHx6P3WcUtsVWB5g930Q,Earls Kitchen + Bar,80202,3.5,636,newamerican,True,1917.4168708592283,$$
+ul1pWhhTQt9zP5UlW2A2-g,Dave & Buster's,80222,2.5,424,tradamerican,True,6605.668559075149,$$
+GDmUoW3hmokCMAVys8M1PQ,The Post Brewing Co. Boulder,80302,4.0,181,breweries,True,41074.37066335111,$$
+9_X9g_r1VHbssrZu1o211w,The Varsity Inn,80122,3.5,49,pizza,True,17291.432224016207,$
+-JXlOrLh3_5ncP8ras-iHw,Sports Column,80202,3.5,175,tradamerican,True,2902.0700373530212,$$
+zEY3fTPqKJ4Ds-cx2Majeg,Next Door American Eatery,80023,3.5,76,bars,True,24682.975671628796,$$
+qu74MDtquASij32IxDlpxA,Aspen Lodge Bar & Grill,80021,4.5,276,bars,True,17784.50288926936,$$
+FpRbWiW5IimdVfiqFKu7dA,Twin Peaks,80021,3.5,170,sportsbars,True,25346.778680911797,$$
+O88dhXNhCnMfgoehxKHAwg,Lohi Steak Bar,80211,3.5,545,steak,True,4575.194433711371,$$
+qEb8GaHe4NjjOS2AAFKcrQ,Cuba Cuba Sandwicheria,80246,3.5,321,cuban,True,4287.025293945323,$
+j71-ZSkVgf5DctCtRUFQyQ,Cracovia Polish-American Restaurant & Bar,80021,4.0,262,polish,True,17872.600922847687,$$
+CHlRCxlIfIriP2i-D_rXbA,Olde Towne Tavern,80120,4.0,99,tradamerican,True,14138.220133764162,$$
+X0kfyqjT5JOwmeB_oJjimA,Morin,80202,4.0,99,french,False,3138.5525256190585,
+7CwtP6UKzYEdzZvSf9qJvg,The Lucky Mutt,80127,4.0,101,bars,True,19018.71583203873,$$
+45nKHK6xJkx4Z93Q1Kt6bA,The Post Brewing - Lafayette,80026,4.0,627,breakfast_brunch,True,30595.39298414022,$$
+JaIZBY0fEPuQ3keGxvGOPw,Los Chingones Colorado Mills,80401,4.0,93,mexican,False,15881.287633983678,$$
+fMo2qPDeVuYj0-tQI0JqJA,Cuba Cuba Sandwicheria,80238,4.5,203,caribbean,True,8698.423205042489,$$
+F1G7xr5OPQBTP452Y1I5yQ,Toley’s on the Creek,80015,4.0,16,sportsbars,True,19393.304815791307,
+o_MQMVF4RdQP7sNsVDY-JA,DAE BAK Korean Bar & Grill,80014,4.0,51,korean,True,11893.39855629797,$$
+ZZJYWHQR96Jir8TItKeX0w,Emilios Almost Famous,80021,4.0,223,mexican,True,19328.568257062678,$$
+5Pqy2mAw5FUizvDY4ugk8Q,Whispers On Havana,80012,4.0,17,bars,True,10228.333292597112,$
+Iz2u_PwWmVboAdUCuUXXeg,Puerto Vallarta Mexican Restaurant,80219,4.0,36,mexican,True,5137.9885419156235,$$
+H37Umy9ue8RfqnYjOMrEZQ,The Alley,80120,4.0,179,mexican,True,14138.104805077215,$$
+d6Ja1vn6I8z1bUIu9l-u0Q,La Jaula Sports Bar & Grill,80223,5.0,1,sportsbars,False,5409.603347092459,
+QQNVVu0cfnu54df-JDs0fg,Kachina Cantina - Denver,80202,4.0,477,mexican,True,3021.583477618833,$$
+qL-1ysVKzpQZ3lelGqEudg,Lila B,80111,3.5,10,lounges,False,14251.399894088243,
+A2no47_otNDV7UiaygobxA,Hooters,80014,3.0,114,chicken_wings,True,11759.1207641539,$$
+uApXOiWiwOG2QzeqOY8ujA,Santoro's Bar,80120,4.0,1,newamerican,False,18813.093350894953,$
+mY3HSdkB4AOLFjWKvc41Kw,Beau's Kitchen & Tavern,80228,4.0,22,tradamerican,True,13862.40258927805,$$$
+Bakf5BTafNCMkT_9dDkxjg,Brickstones Kitchen & Bar,80302,4.0,1,sportsbars,False,39995.80184954797,
+AjX4aX6QxzX_AOGNIX8zeQ,Q's Pub & Grille,80127,3.5,67,pubs,True,22060.557031073375,$$
+vsqq0zWc54jKl2_BF0jAhg,Evergreen Bread & Cocktail Lounge,80439,5.0,59,bakeries,False,33537.59249411304,
+V2wsNh2gEVeIulBkTqkZHw,ChopHouse & Brewery Denver,80202,4.0,652,steak,True,3170.98090730843,$$$
+zA1gEyz9PT76aDIKxmH8DQ,Alamo Drafthouse Cinema Littleton,80120,3.5,579,movietheaters,True,17444.28003378755,$$
+c-Iuwmg3W1WQ9d7Bw4tnsA,Tiller's Kitchen & Bar,80021,3.5,96,newamerican,True,18761.935001205824,$$
+0lk9Dsr6C_ScN06KgSsqNg,Finn McCool's Bar & Grill,80112,3.5,132,tradamerican,True,17311.35826292997,$
+pnxk-vjIq7ONROtbt72FnQ,Tamales by La Casita,80249,3.0,275,mexican,False,29000.982006972616,$
+m1M7Y2LffQH1cuSfnMzLZg,West Hill Grill,80127,3.5,83,poolhalls,True,18462.952154291772,$
+jUYAQzIeFtKlPGa1kgtrUQ,Cheba Hut Toasted Subs,80238,4.0,39,sandwiches,True,8618.760848189513,$$
+p5E5Izxm3rWLSxxemtMXcA,Benihana,80231,3.0,396,japanese,True,10697.526215312197,$$
+eMdepNFk07Qmjy5ZOvdCpg,Waterloo,80027,3.5,287,burgers,True,30326.82913278299,$$
+krIiM680mJhwjk6dqydeAw,Habibi Hookah Lounge,80014,4.5,56,hookah_bars,False,13213.914843993223,$$
+5vD82XX9uFUpgxwI56gaeQ,Blackbird Cafe and Tavern,80439,4.5,139,tradamerican,False,28956.615798392642,$$
+GCijGo46gdqP5sn9ULt3kA,Steuben's Arvada,80002,3.5,482,sandwiches,True,11795.541115894765,$$
+_SaY7fXUKekvaQlj2cnMbg,Cast Iron Tavern,80403,4.0,199,newamerican,True,22716.57293660658,$$
+vYro4cKe_2e1_vQrmt6LrQ,Tin Cup Bar & Grill & Catering,80012,3.0,1,bars,True,11193.393410044146,
+ieCZjj7wBMXIjK4t5A4Haw,The Garden Grille & Bar,80237,3.0,8,tradamerican,False,13245.748841428844,$
+cq0QCjSNQr5awmKmYMgNww,Mountain Tap Bar and Grill,80401,3.5,79,greek,True,14815.419622054844,$$
+pyRXPmzGnRIcwIyDH7L08Q,Pearl Street Pub and Cellar,80302,3.5,103,pubs,True,41064.053726715276,$
+pTWH8_ge6xvo1vlefJZ17w,Viale Pizza & Kitchen,80222,4.5,229,pizza,True,5529.310394482863,$$
+srVfnJQmZ7acqy6HUYimtw,Muse Noraebang and Cafe,80014,4.5,52,cafes,True,11174.210214135253,$$
+cQvDhCiTC1q6-ofQgoPFwg,Cart-Driver Lohi,80211,5.0,30,pizza,True,4631.504207810241,
+KmVS_FzWnPdAmCUmfrKe6A,Red Rocks Grill,80465,3.5,228,tradamerican,True,21016.07540863341,$$
+vmR7eyLmHSO68byA_fCPYg,Takoda Tavern,80134,3.0,150,sportsbars,True,32679.729140813903,$$
+O_MCQSBhvy8Su4RWLFDOVw,Cochino Taco,80113,4.0,331,bars,True,9135.548681672728,$$
+pFTv_oTwElkMFvm7olOnZA,Brick House Tavern + Tap,80138,3.0,417,sportsbars,True,26442.615004017505,$$
+ognNBoS7RREHLc3m7pamaA,Casey's Bistro & Pub,80238,3.5,182,pubs,True,6288.28311041741,$$
+xubVED7BCZjicKxmtq99xg,Tap & Burger Belleview Station,80237,3.5,159,burgers,True,13411.597508388959,$$
+9cwMGGtkdAPBoPGO33MPAw,Bonfire Burritos,80401,4.5,369,mexican,True,20611.80212726681,$
+a7ssTc5Sidq3d4yfmMH7Ug,Coohills Restaurant,80202,3.5,266,french,True,3304.32494680649,$$$
+alu2umNLj6f7IONzJHI9qg,Trailhead Taphouse & Kitchen,80401,3.5,135,sportsbars,True,21612.960494872445,$$
+mzOAkvH-4WIfQuR3uCs87g,Hopdoddy Burger Bar,80202,4.0,906,burgers,True,3190.558899004638,$$
+x-RXQ1B7myPNMwiH22Y0iQ,The Woodcellar Bar & Grill,80439,3.5,70,bars,False,33899.64165447205,$$
+RBBJcDE02wJw1lr5Kl2bsQ,Fresh Mist Hookah,80222,2.5,23,hookah_bars,False,7730.221902710961,$$
+fFEcJoN1aTyUkJFi0xkeqQ,The Celtic House Pub,80134,3.0,62,irish,True,27077.534270107946,$
+RmP-LzMGs8X2Eq0VkOMbFQ,Fuzzy's Taco Shop,80002,3.5,449,mexican,True,11972.8110373862,$
+yN3UED1uh-RHb_idjlTJ4A,Willis Case Bar & Grill,80202,3.0,11,tradamerican,False,8602.663279904049,$$
+j9NQtiHWyAf0DmgKxwPkkw,Piflers,80215,3.0,77,tradamerican,True,13270.881119269246,$$
+RoZe88jhqAcJKqpKDrsciw,Fireside,80112,3.5,7,newamerican,False,20429.680213157226,$$
+O0OC8dDvaWR5meQGWJXIGg,Little Ollie's,80206,3.5,262,chinese,True,1919.4066057949049,$$
+NrXjU1HGhdVcVmDg4g2LSw,Neptune Cafe,80305,5.0,1,cafes,False,36514.382323966405,
+9TkwR0I82iNDy7KvP-MNzg,Lazy Dog Sports Bar & Grill - Erie,80516,3.0,162,tradamerican,True,29830.416001168407,$$
+I3VUGnOv97dV4kpCo_1-Nw,Benny's,80203,3.0,566,mexican,True,1427.486495552089,$$
+CKfT-AZwmCNQeZuHVtFxjA,Lansdowne Arms,80129,3.0,229,irish,True,21108.84893340906,$$
+BvP6qPDOnm-4VQSTS4oMRQ,Real de Minas Mexican Restaurant,80010,3.5,65,mexican,True,9566.084439280594,$$
+ct0Jmy8KNGknmOs1apTKCA,Bettola Bistro,80247,4.5,235,italian,True,10954.70379221581,$$
+0RvPq71n0N3WbRJJPGqPTg,Chili's,80246,3.0,89,tradamerican,True,4508.329660327191,$$
+DX6G8Vdu9wUx95Tzh6gEwA,Bartaco Boulder,80302,4.0,335,mexican,False,41087.54916794077,$$
+aWIZV_qw4T4N3FFt3hw-ig,3 Margaritas Conifer,80433,2.5,86,mexican,False,37531.94534246102,$$
+_9RCyDEJZGNVUvLg5XmjPA,Chuy's,80226,3.5,231,tex-mex,False,9904.524348738578,$$
+8HqbhxW4MESc6DPPAuCJEw,Los Dos Potrillos,80127,4.0,340,mexican,True,22642.890185152344,$$
+RwxGmaG21qlsolZ3tCWopw,BJ's Restaurant and Brewhouse,80204,3.0,45,newamerican,True,16196.931933925673,$$
+rOj9YY5mEbB9s-cq_S4VLg,Mexico City Restaurant & Lounge,80205,3.5,227,mexican,True,2742.016666552896,$$
+MpuYXHfogmhUdG_v8jNV2Q,The Grandview Tavern and Grill,80002,3.0,116,tradamerican,True,11790.890142973347,$$
+CWco_G-CDSl5lZw93TSLMA,Indulge Bistro & Wine Bar - Centennial,80122,4.0,48,wine_bars,True,16038.924222994312,
+xsGII1YoyD8GCRf3wuMVCw,Wheelz Bar & Grill,80110,3.5,3,bars,False,10006.00707810524,
+GxOY6UbP_ZkofX9n4XvKKQ,Grabowski's Pizzeria,80216,4.0,74,pizza,True,3767.8679313457383,$$
+CDG4fStH4t-bKgWi4Ia3JQ,On The Rox Sports Bar & Grill,80134,3.0,141,sportsbars,True,24444.01484331415,$$
+8PTONra8ENwW5Or87e_OWw,In the Zone Sports Bar & Grill,80403,2.5,54,newamerican,True,18103.95540088694,$$
+oS0aW6L1uSNigWvDgE76jw,Undici Ristorante,80113,4.0,209,italian,True,9185.828935603186,$$
+m0rFtGYBX_QljSq8Y0Z-lA,The 1UP Arcade Bar - Greenwood,80112,4.0,78,arcades,False,17736.250812041282,$$
+cPRUZQ1c9Th0ouhSv4nKjg,The Bistro at Marshdale,80439,4.5,166,newamerican,True,33275.78004416557,$$$
+izkGOdzXsbzhJ_IVYyBztA,Grande Station,80120,4.5,183,tradamerican,True,14054.540634558598,$$
+BKRLsUCryeR1JJtyGVWW_g,Blue Sushi Sake Grill,80202,4.0,1017,sushi,True,3116.209280628799,$$
+BVQrbLbmZv3GwVCH6L1L9w,True Food Kitchen,80206,4.0,1336,newamerican,True,2254.027182347942,$$
+yDSS-TjSj8ixVr25Gc56zg,Serene Cuisine Of India,80210,4.5,95,indpak,False,6377.221376017736,$$
+7D8ghWjqV6P3rMcfrMKbpQ,Nite Owl Sports Bar & Grill,80228,3.0,36,sportsbars,True,10330.980981951874,$
+gKd6jIllP60nqnFB7BVAQw,G'Ducks Bar,80013,2.5,6,tradamerican,False,16708.407308381422,$$
+bN6dA-S4lmh3vbSCTz5-qQ,Cheba Hut Toasted Subs,80204,4.0,407,sandwiches,True,2404.8781028430885,$
+oP7yuEo81AXb3_HuPRLvfQ,Nomad Taqueria and Beer Garden,80401,3.5,72,mexican,True,20479.29616723245,
+A5_tuFXYDz7V_a0_7CbjfA,Luca,80203,3.5,253,italian,True,1461.649610565509,$$$
+_IkkjSZb012SFsG4sTsozg,Murphy Creek Tavern,80018,3.5,27,newamerican,True,23148.75725214655,$$
+z8tavRujtddQXQtuTCLyRw,Casa Mariachi,80134,4.0,430,mexican,True,27761.546761566846,$$
+V91BUQ5bjRBk7xX3MNgRHQ,Mint & Serif,80214,4.5,60,coffee,True,9342.452258024754,$
+evLLjnB4yuXtWhWYWb9LpQ,Sushi Ronin,80211,4.0,206,sushi,True,4377.865866360264,$$$
+A2eE5FLg_NW9SVTf40WiBg,The Sunset Grille,80122,3.5,45,sportsbars,True,19181.46215264928,$$
+6Ln43AttrTlbOF1S5-KCRQ,Swig Tavern,80215,3.5,77,divebars,True,13750.20556647268,$
+BQGtZCyhq2ijthZb0Vw06Q,Zink Kitchen + Bar,80111,4.0,133,newamerican,False,15199.895572009673,$$
+JV7f_5Ayj36fgkp6wsPX6g,FuNuGyz,80134,3.0,160,tradamerican,True,25631.089983801536,$$
+FMNXeXMhcV9_ct2ZhKNqsQ,La Cueva,80010,3.5,124,mexican,True,8212.294833711629,$$
+ByHl2r3QbkwcPkmlWBZmHQ,Montview Bar & Grill,80010,1.0,2,bars,False,10199.733770676414,$
+sXsNWJXl4-CFK_0Y8z0U_g,The Rusty Tapp Colorado BBQ & Catering,80122,4.0,87,bbq,True,18719.79221927336,
+UWpzQYsxRWmBMt4QbC5zoQ,Duo Restaurant,80211,4.0,696,newamerican,True,4920.869476898113,$$
+-hEDuWYOjVBEBXhTL6wlew,Mesob Ethiopian Restaurant,80220,4.5,88,ethiopian,True,5648.604012660295,$$
+yDES4dMtJMG1LePWprwy8A,Park Burger - Highlands,80211,4.0,402,burgers,True,5187.907146272529,$$
+1yg5h0GhW_tRy7sT-NsDzg,West Woods Bar and Grill,80403,2.5,31,mexican,True,20476.50807625323,$
+VrfdFp1UC0sHST6inTscog,Community,80026,4.5,309,newamerican,True,30797.15687022715,$$
+_0GPdu5GeDnVlArKf2KxZQ,Yak and Yeti Restaurant and Brewpub,80002,4.0,886,indpak,True,12234.992544877114,$$
+QgH7y1vgbF2GMtxPNJHL2A,Rock Rest Lodge,80401,3.0,174,bars,True,17917.053322180407,$$
+MDQJjJ8Q4TkQ8pN6N8ZNEg,Cubs Q,80122,4.5,119,bbq,True,16063.402671955637,$$
+xp9JXWDk8rAxDE2EoBbcrA,The Keg Steakhouse + Bar - Colorado Mills,80401,4.0,322,steak,True,15989.547840192168,$$$
+AnaT5DZEM3nARFbK6JSCQw,Platte River Bar & Grill,80120,3.5,269,bars,True,14859.911933210617,$$
+hqlaeWmGBsjfV_8mXVki1w,Applebee's Grill + Bar,80011,3.0,93,tradamerican,True,15412.529676226175,$$
+2KT-L7IvGzNRy9uJXOJgXg,Colorado Sports Bar & Grill,80249,2.5,129,sportsbars,False,28614.193549179836,$$
+w4Gx4npOpLq68VJtHI9hyQ,Jaime's Mexican Restaurant,80227,4.0,81,mexican,True,9539.015237683261,$$
+pAQa2OQ6gpjir6QOTFUTOQ,The S-Turn Food & Drinks,80228,4.0,32,pubs,False,16906.963022912514,
+5wbVT6JybUZ46CBaZ02opA,Flights Wine Cafe,80002,4.0,97,wine_bars,True,11914.19708916399,$$
+doNUJASu44wo2JJ9XVYAQA,Vino Volo,80249,4.0,47,wine_bars,False,29213.242970838342,$$
+rA9dpgQOdJSQRb7Wfwyp7w,Zaika Indian Cuisine - Erie,80516,5.0,18,indpak,False,34764.112543807794,
+jXBFfvZFj8qoU0ReOApB9A,Indulge Bistro & Wine Bar,80401,4.0,351,newamerican,True,21506.122368554737,$$
+gxnAFc2sgcfqR-amXZyHdA,Casa Tequilas,80439,3.5,102,bars,False,33608.82668432929,$$
+teMwjMMX2b6n_p-XbUKPjw,Lodo's Bar & Grill,80130,3.5,275,tradamerican,True,20012.6770270571,$$
+ZPxWQ_0LZkfRM1ISF2-5Tw,Applebee's Grill + Bar,80012,2.0,77,tradamerican,True,10077.22698945823,$$
+YS5GPu4yesMj6m3jiPSwSQ,Barolo Grill,80206,4.0,304,italian,True,1955.8285006670892,$$$
+KwLZTl88Sg4I1mWy8cgeqg,Tuscany Tavern,80439,3.5,91,italian,False,34248.17924293746,$$
+xTSCydAPq8EGeOiUzS1LLA,D'Corazon,80202,4.0,574,mexican,False,2971.4905064218256,$$
+3WqlbBB7sUFJ6QX4HLRFew,Hapa Sushi Grill and Sake Bar,80206,3.5,512,bars,True,2431.1235625453596,$$
+IDtE2oDOS8R__YErKo9qqA,Lime - An American Cantina,80202,3.0,514,bars,True,1946.5392531091388,$$
+zX2FJj2MlPP4iilxGMNt1w,Zig Zag Smokin' Burger,80112,4.5,314,burgers,True,17403.74382029065,$$
+qGXfors70j-fBM3VRdn90A,Former Saint Craft Kitchen and Taps,80202,3.5,58,desserts,True,2177.605262231271,$$
+-KHhZxgJlkibPPxdHeocog,Illegal Pete's DTC,80111,3.5,243,mexican,True,14668.457527371955,$
+TGjx_x4udTvsjjoEfeMa5g,Chili's,80237,3.0,74,tex-mex,False,10588.794816846586,$$
+JlgtPsod2D86tohin0G-OA,Margs Taco Bistro,80206,3.0,267,mexican,True,2282.4767642229713,$$
+loKwx1jOF_rEeahOog3PgA,Seasons 52,80124,4.5,739,newamerican,True,20621.34479677142,$$
+uFS6icNrfhdJfgktv2Nhzg,Citron Bistro,80237,4.0,239,newamerican,True,11772.791285949783,$$
+sf1Z7G1utf1cu_PCmJqSwQ,Chili's,80202,3.0,135,tex-mex,True,2384.6248948357174,$$
+JMoFr2BdExd4kWSB2lVzvw,Meatball Eatery and Libations,80112,4.5,154,italian,True,17403.74382029065,$$
+3rMOvGSXXyiTLvZH7LCr8Q,Tj's,80232,3.5,7,sportsbars,False,11431.86792216391,
+1HR76CepO2MPAyyT_hqqtw,El Tequileno Family Mexican Restaurant-Aurora,80014,4.0,311,mexican,True,11890.657526666535,$$
+l3L_AzpF6svQ-Jr2npEEyQ,Bella Italia,80246,4.0,51,pizza,True,4640.52922823575,
+bKY6s_eS7dh0LL4kfaLQcg,Nome Street Bar & Grille,80111,3.0,2,bars,False,18402.721779532796,
+X_nctDxllEIDoXMo3Q9mSQ,Woolley's Grill & Lounge,80011,2.0,1,newamerican,True,15436.848567618421,
+3MBOoXCUrZVujceQ5qCsTg,New Century Karaoke & Restaurant,80012,4.5,12,chinese,False,10231.314742558565,
+BknGLI070MR2B4E9coAnUg,Diego's Mexican Food & Tequila Bar,80202,3.0,261,mexican,True,2345.391241658544,$$
+yD4TTPk2Xi0WszjD8-Z79g,Modern Brew,80122,5.0,25,coffee,False,19082.79247372548,$$
+fj_ooDDW7DT5wsgTPPgCmw,Pita Grill & Hookah Lounge,80218,3.0,102,mediterranean,True,693.2395304502807,$$
+zMoAJk3NxEf8flfaMIMZ4A,Maggiano's Little Italy,80202,4.0,666,italian,True,1917.9808284366875,$$
+ziS-GJn-3Ux6t5l-0IUNog,The Capital Grille,80202,4.5,679,steak,False,2791.5904105017594,$$$$
+FCcJGrek57PVFjnE94tzwA,Elements Restaurant & Bar,80202,3.0,11,tapasmallplates,True,2311.821473968583,$$
+a4XBb0PHGoyKt8XhoLykcQ,Earls Kitchen + Bar,80124,3.5,350,newamerican,True,20708.465973174294,$$
+TT0dqdc_YfaN5AlELRYSTQ,Aloy Modern Thai,80205,4.0,585,thai,True,2718.960745630176,$$
+Nc6h5yTN7GduSJEkJsTtWA,The Yak and Yeti - Westminster,80021,4.0,475,indpak,True,16822.832768893208,$$
+riytVAqagfPMLbUnB3OHBA,Taqueria Las Palmas II,80030,4.0,57,mexican,True,12336.855031749581,$
+JxzgS9p5ti_ZvczF9xcB2Q,Early Bird Restaurant - The Landmark,80111,3.5,262,breakfast_brunch,True,14339.970769626121,$$
+OjghStMxyg6QGPKkhLpeNg,Comida - Aurora,80010,3.0,215,mexican,True,8157.475992403231,$$
+cKnVTP3NG38OTlbruBUQzg,Heritage Grill,80021,4.5,5,bars,True,22118.150579738976,$$$$
+bAR7KNT64fvg0v3zMmDhvQ,Yard House,80124,3.5,423,newamerican,True,20859.295292927214,$$
+z1BixqGXiqkN6ys7PmC09g,Cheba Hut Toasted Subs,80204,3.5,22,sandwiches,False,6173.469291554301,$$
+idrKDu7T9WMhQyqDLJ8i9w,Old Chicago Pizza & Taproom,80235,3.0,209,pizza,True,13353.629023380363,$$
+5jQPKFeyj1HbPRXlPE_EtQ,Torres Mexican Food,80219,3.5,128,mexican,True,7090.49831422302,$$
+_i2lNuJr7Z3K1gsZuBtk2g,Il Posto,80205,3.5,451,italian,True,2895.611890102091,$$$
+xgkRvg9TrItYvQ4H2fKkpQ,Walter's303 Bow Mar,80123,4.5,279,pizza,True,13695.43659633361,$$
+7cqMkMJlLAsVxDoxR4Ozgg,Woody's Wings,80017,3.5,152,chicken_wings,True,15832.790829321199,$$
+KtR_JtVEvydXrGyxJeC2_A,Murphy's North,80304,3.5,110,tradamerican,True,41701.8672090159,$$
+kLjvCRvZ5QvlMvVoT4bG0w,Brothers Bar & Grill,80124,2.5,326,sportsbars,True,20062.566943000915,$$
+wk8za_-7BpdSExVaUd-11w,Flaming Joes Seafood,80013,3.5,340,cajun,True,19440.716568925523,$$
+zf-VRnc_cJOUAximMbNkWw,Los Dos Potrillos,80129,4.0,271,mexican,True,19469.553414729988,$$
+MKbKNOoqHq50KYEtlSHzhg,Soup Etc,80210,3.5,3,cocktailbars,False,5154.597395448942,
+94Gzt7KT7q_UEhdyVAyeJA,Parry's Pizzeria and Taphouse,80110,3.5,3,pizza,False,10279.647556312912,
+98kvLV4Fc2kfOGvqOuX6Rg,Fire + Spice,80011,3.0,24,bars,True,15312.415565664436,$$
+fdOVXBiJ-MilmOFglohi1w,McCarthy's Sports Bar & Grill,80015,2.5,79,sportsbars,True,17989.71679560662,$$
+vjEMzJheqKyC95dkl3lHGg,Fuzzys Taco Shop,80016,2.5,72,mexican,True,21414.18664261959,$$
+-gW9TN41Qz_vu3W1oWS4qw,Corrida,80302,4.0,114,steak,True,41051.356764677585,$$$
+NMAGvL68fzL9CeSg-5990Q,The Empire Lounge & Restaurant,80027,3.5,218,newamerican,True,30303.009548834463,$$
+SAw92u57RHnu5HYszwfyWw,El Tapatio,80235,2.5,211,mexican,True,13532.000082795332,$$
+r9kybWYnZlZZY4vlg1CWrw,Pho Evergreen Bar & Grill,80439,3.5,78,vietnamese,False,33430.37122771956,$$
+f7A6aR5WQK_9N9LDGMx69A,Illegal Pete's- The Hill,80302,4.0,43,mexican,False,39968.03929615669,$
+BFYnBYpuWYOy3Iu8eyRXLQ,Chuy's,80020,4.0,396,tex-mex,False,18811.15950959846,$$
+2CQ6-Fg_MV9gZMs0I_wRhQ,Sports Lounge Off Broadway,80129,3.0,64,tradamerican,True,19367.397816906854,$
+mrKR1AQz3t7j7GHBymv3qA,Backstreet Tavern & Grill,80247,4.0,1,bars,False,9752.329462770156,
+QMF-T0j2RiUtv4q_bzG1zA,Steamer's Coffeehouse & Jack's Bar & Grill,80005,4.0,180,tradamerican,True,20301.399995270258,$$
+UXO82Z_Mn2cAIqec135WcQ,The South Restaurant,80110,3.0,132,mexican,True,9518.708788886799,$$
+r2NtmJCrX4FExFbcGqh0RA,Lempira Restaurant,80220,2.0,3,lounges,True,6657.169216566752,
+-YVleSmliriX41WkVquahA,Chuy's,80112,3.5,255,mexican,False,16840.577206017373,$$
+3R-fqXiMMQ_DPvRrv8grpg,Malone's Clubhouse Grill,80004,3.0,114,tradamerican,True,18486.23000905556,$$
+0Uj0XqRgLPaXxJfsivQ8UA,Denver Pho,80223,3.5,64,vietnamese,True,4684.913624345435,$$
+zC0Zr80n195906ny-3U5qQ,Russell's Smokehouse,80202,3.5,313,tradamerican,True,2808.6674950990214,$$
+0eARUSFjj8tw1F3D6BCPcQ,Sugarfire Smoke House,80023,4.0,201,bbq,True,24725.967775026424,$$
+Mv9e4tKImTPe1SbhhwaFsQ,Stanley Beer Hall,80010,3.0,193,beergardens,True,8174.803567980656,$$
+XFsr57iiMGVpLmSrqZnrEQ,Nonna's Chicago Bistro,80224,4.0,267,italian,True,6179.5402276049,$$
+_n8RKAW2bGZR7GaO_ADGTw,Caffe Sole,80305,3.5,94,coffee,True,36449.00382179594,$$
+PR8N5_Vl8pYlGZ9T08jHVg,Applebee's Grill + Bar,80002,2.5,71,tradamerican,True,11462.739894839428,$$
+U4Nz1wkfL8n8m41JD1DZ4w,Red Agave Tequileria Cantina & Calaca Bar,80301,4.5,84,mexican,True,40803.54873487432,
+qrzoCFczA1MUt-7HSOiRAA,Portico Eritrean and Ethiopian Restaurant and Bar,80012,5.0,1,eritrean,True,9867.326904425354,
+fM8Ng74718Uvig-xQEOS6Q,El Karajo Mexican Restaurant,80111,4.0,155,mexican,True,16393.896799062873,$$
+HK5QJaFjjinCmyAVBbeFhQ,Rock Bottom Restaurant & Brewery,80126,3.5,111,tradamerican,True,20312.685684054835,$$
+wbjFKDN9lEmHAvPGoqC-tA,Gabriel's,80135,4.0,124,italian,False,33162.667546844175,$$$
+EI7jSJ6lvhhwLRzzzvFFyg,The Shack,80120,3.5,123,burgers,True,17874.737009667344,$$
+4tP1-Skeu-Bo4_fw6MYTyA,3 Margaritas Broomfield,80020,3.5,120,mexican,True,21677.013883311356,$$
+1D5M7eY8ZpmvOjM6i6MzPQ,Injoy Restaurant,80516,4.0,63,newamerican,True,29839.96225560769,$$
+8tqTG4DH95MMxbIvzRymAg,Denver Biscuit Co.,80010,4.5,915,sandwiches,True,8174.803567980656,$$
+zM_Sfwj8AQelv3VaUeN6rA,Outback Saloon,80301,3.5,51,karaoke,True,41144.30312476297,$
+9czAQco-_B0BiC5DW3LGoA,Meskerem,80012,3.5,17,bars,True,11380.160603095846,$$
+xrpZpYBRFIXMJWAXxhzAPw,Abejas,80401,4.5,302,breakfast_brunch,True,21526.012875056116,$$$
+BqqesHM5ZounBdqLXpIruQ,Hey Bangkok!,80209,4.5,56,thai,False,2910.503629157787,
+tQa8bAdvILpxcWkLCFDP2w,Nonna's Italian Bistro,80111,4.0,418,italian,True,18596.190332027327,$$
+RikklZILyzJ7_IV71jmT3Q,Marg's Taco Bistro,80202,3.5,286,mexican,True,3219.9506050740306,$$
+NCvSFWRwWhXAPvrApiTsyg,Schnepf's Restaurant,80401,4.5,41,tradamerican,True,20644.443119782187,$$
+NrI2jXA8dv6eVX8wO2g6Gg,Steel Tips Bar,80014,3.0,16,sportsbars,True,16424.232036750906,$
+a9Jf_hN_D43O915dEr1_bw,Zane's Italian Bistro,80237,4.0,231,breakfast_brunch,True,13937.361032817162,$$
+fcbGwyv9QoJVbpt3RmFDjw,Abrusci's Fire & Vine,80215,3.5,298,pizza,True,14784.538488926944,$$
+3mYOQWUEs-XCMcP_-sUChA,Arapahoe Springs Bar & Grill,80019,3.0,1,tradamerican,False,20798.179339889957,
+U03RI9xaMMAvDxZrbWe7AA,Mayans Mexican Restaurant,80234,4.0,17,mexican,True,20211.868646366853,
+Rbt9i4IDFiIBsau020X_xQ,Rosetta Hall,80302,3.5,116,mexican,True,41008.45248255066,$$
+ORMsTywJn3_NghKoIOZV_A,Mint Indian Restaurant & Lounge,80202,4.0,327,indpak,True,2312.8888138723837,$$
+8pjs8rewNStgSH-5yiImMQ,Hard Rock Cafe,80202,3.0,319,newamerican,True,1948.0187609974605,$$
+EWOt6ZUkPC12D2E34VWnPQ,Esteban's,80302,3.5,15,cocktailbars,True,40961.834365156246,
+Fkgr0zyUuqol4dVub-4lTQ,Pho Belmarasia,80226,4.0,163,vietnamese,True,9567.213589753104,$$
+MviQVfABNdmCKLsVAzzIwA,Gordon Biersch Brewery Restaurant,80021,3.0,242,breweries,True,25868.047780453217,$$
+jus5p9mRMi9u2zJ1xqwIrg,Vino Volo,80249,4.0,85,wine_bars,False,28720.59348867808,$$
+cMAm22aqK01POwuBkBdDVA,Potranquitas Express,80223,5.0,1,bars,True,5802.239500621421,
+jj1ZrKNJYM2EXhpmbu6Gtg,Golden Flame Hot Wings,80013,4.0,235,chicken_wings,True,19406.998743328815,$$
+n5GYdi1QDoQdSyTrw6RPbQ,Sexy Pizza,80210,3.5,360,pizza,True,5364.627717374652,$
+fMbA5xYrHqSPIaeUzeJHRQ,"Luke's, A Steak Place",80033,3.5,169,steak,True,13141.662592486357,$$$
+pdXShVJTCvxvy5y40F4hIA,Noonan's Sports Bar & Grill,80014,3.5,109,sportsbars,True,13448.770989754272,$$
+v9xko1W1-0M-TeqduUwFuQ,/pôr/ wine house,80027,3.0,174,tapasmallplates,True,30212.408729285722,$$
+3ZU5wEGzsVxmc-htldIJ7w,Shine Restaurant & Potion Bar,80302,3.5,358,newamerican,True,39978.60897691468,$$
+5TQvgb_E67dxWlZ8E1PXZw,Mt Fuji Hibachi & Sushi Bar,80203,3.0,401,sushi,True,1597.2356053322574,$$
+XzX0OJOoiI6-iWr7HmHW3A,The Rock Wood Fired Pizza,80226,3.5,456,pizza,True,9786.060087073476,$$
+fyXFZwQaJdDIz4BqJGjKoA,Lincoln Station Coffee Pizza Music,80124,4.0,68,coffee,True,22694.08528864857,$
+8GdIIGgqFK7HcOhmuHOUBA,Verde,80301,4.0,174,mexican,True,40974.376446663766,$$
+taoaqdv6d9CrP5QMVwMuug,Cafe Terracotta,80120,4.5,474,tradamerican,True,14057.035637182704,$$
+Mjy8rojmyCMQu9x8mjzIZg,BJ's Restaurant & Brewhouse,80021,3.0,254,newamerican,True,19157.96941297167,$$
+-NE9ibyALjAd58LjqJSd4A,Colorado Bar & Grill,80233,1.5,25,tradamerican,False,19725.14849356867,$$
+QWUxdFhdQYVkblBKB1AVKQ,Indulge Bistro & Wine Bar,80129,3.5,276,wine_bars,True,21214.512192893042,$$
+RcwpMQlFG9Di-g9OMMhyGg,Mellow Mushroom - Downtown Denver,80202,4.0,621,pizza,True,2710.18330334821,$$
+sAzI47FXiIF2hoeruj-atg,Godfather’s Pizza,80601,4.5,9,pizza,True,31046.248213971438,
+Z0Gmva1xm7lk4blb9RglwA,Bad Daddy's Burger Bar,80233,4.0,452,burgers,True,19862.74115557491,$$
+6iYb2HFDywm3zjuRg0shjw,Oskar Blues Taproom,80302,4.0,87,breweries,True,41197.8238625537,$$
+eBBI6poQ5Sva4lutJb4zAg,Fat Sully's Pizza,80212,3.0,103,pizza,True,7669.569599921024,$$
+chmtc0lsrVXoWaoO4_ipQw,Bad Daddy's Burger Bar,80122,3.5,213,burgers,True,15867.200166424036,$$
+KrDi1L-mSoiK4prTLkQoXQ,Yak and Yeti - Denver,80231,4.0,406,indpak,True,12256.001158500074,$$
+Z0wcyf3X0qNXUN4KTkUTuA,Attic Bar & Bistro,80302,4.0,117,bars,True,41062.276572202914,$$
+EN4Cn0svW0ermUjL4zazUA,Moose Hill Cantina,80215,4.0,262,mexican,True,13858.574926259837,$$
+NPdl2i04ev_mkWob9VJuXA,Reeds Southside Tavern,80124,3.5,101,tradamerican,True,21560.362147241336,$$
+Ke6EQ51KG-3JoDXfUpePfg,Los Portales Mexican Restaurant,80113,4.0,98,mexican,True,9186.027652725044,$
+kxduNJ9BrO26b4QuCA1Iww,Applebee's Grill + Bar,80123,2.5,79,tradamerican,True,16337.048983328812,$$
+iN_P0PMDjM-8eJp9uvAN-g,Little India,80203,3.5,684,indpak,True,1559.1586368029855,$$
+sUVMjN6EFUssvBfrm3eFSA,Vy Sushi Bar & Asian Fine Dining,80134,4.5,103,sushi,True,27857.056882614805,$$
+_WzV7oai-CKcyrOuplZxkA,Asaderos Mexican Food Restaurant,80226,3.5,36,mexican,True,7832.212766644417,$$
+2jtw0L3OooYJb2BEOeUJOA,Arcana Restaurant,80302,4.5,153,tradamerican,True,41094.5763334274,$$$
+QI4w9vmZa1k1jVw0HUlMAA,The Perfect Landing Restaurant,80112,3.5,490,tradamerican,True,20442.69912360128,$$$
+XbRwnS7iNEQc4sMnKGDOlQ,Virgilio's Pizzeria & Wine Bar,80127,4.0,444,pizza,True,22607.493421518953,$$
+9s8rUUYVrlRXm6gPVktjAQ,Taco Unico,80232,4.5,60,mexican,True,8694.489473977628,$
+M08fi55G6NaBjQPTrNGuFg,Tibet's Restaurant & Bar,80027,4.0,137,himalayan,True,30491.24146622819,$$
+Q0IOjnAViM_1CSc-1uzUnw,Swing Thai,80206,3.5,308,thai,True,2570.2512136964297,$$
+WuySGC8jfNiqdlWHG6q5IA,Smashburger,80249,2.5,219,burgers,False,29207.769813339815,$$
+HADnPyZAsiNQc34eaSyXdQ,Yak and Yeti,80023,4.5,157,indpak,True,24457.79459252369,$$
+bpOXtmwfYSrAZXHjaUiVGQ,Old Chicago Pizza & Taproom,80228,3.0,227,pizza,True,14121.770426477367,$$
+C-nJaZKcB7iDxec0xV_rwQ,Redgarden Restaurant And Brewery,80027,4.0,49,breweries,True,28463.65469195597,$$
+q59Rz8mgV6HE5E6TzZRwhQ,Los Arcos,80030,3.5,253,mexican,True,13693.511832393579,$$
+G6ckyL7AK1qNyRop7xHa4g,Marco's Coal Fired- Ballpark,80205,4.0,1175,pizza,True,2755.8424165045185,$$
+NqzAIEAf4HWhCWvdAVsbUw,Pizza Republica,80111,4.0,392,pizza,True,14249.896043996783,$$
+zRM0rFyx_9ZqkyT9ptP27g,Buffalo Wild Wings,80110,2.0,122,chicken_wings,True,10329.665807475692,$$
+AdkZjsk2IORcbzDe5HTExQ,Midici - The Neapolitan Pizza Company,80237,3.5,82,pizza,True,13429.022841629652,$$
+zsLa_R1telkxfYlfI5tGLw,The Crawling Crab,80227,4.0,21,seafood,False,12884.322533460983,
+3rj1AB-QexG8DbX25yQQ2A,Rojas Mexican Restaurant,80234,3.0,58,mexican,True,19908.415932760025,$$
+MrFI4g0IoS6WKP4QeSdoQQ,Old Chicago,80601,3.0,78,sportsbars,True,29447.01786836164,$$
+zzd8rJm9XMqFL2_vlwanyQ,Buffalo Wild Wings,80601,2.5,153,tradamerican,True,29585.471761422825,$$
+_BIbWD20fcMPpMiNV-7B_Q,Chili's,80234,2.5,83,tex-mex,False,20043.537211360795,$$
+tm_H2SeW0kUKcTKPjGP8aw,Ruth's Chris Steak House,80237,3.5,143,steak,True,13541.711123828554,$$
+1OU_RfiusQHBQQjezS1XfA,4G's Restaurant,80123,3.0,63,mexican,True,15291.482716503177,$
+gcbAC5Gy-oUzyS-xbGCEGg,Hooters,80234,2.5,87,tradamerican,True,20162.06189502851,$$
+Pqyeby6EVKlKIKDnlmwlBQ,Little India,80210,3.5,352,indpak,True,6915.482091160955,$$
+BIXEzgLqfzBEW-y2EPIrQw,Casa Vallarta,80014,3.5,274,mexican,True,15968.416702208851,$$
+qEMPuEw41Wfsgeh3RO46QA,Hungry Toad,80304,4.0,145,british,True,41719.97248828345,$$
+6swdVBYSJKIfOX1fjSS_vQ,Via Baci,80124,4.0,403,italian,True,23619.16486241514,$$
+gkvEapJwEpvCJIc0Zhcz4g,Murphy's - South,80305,3.5,94,tradamerican,False,36446.79787977292,$$
+g28QSYbPv_L04uq9B-SCXw,Wing Hut,80013,4.5,369,tradamerican,True,16609.339543147824,$$
+C-Nx5zZos_3Pjcy9ReTzbA,Parry's Pizzeria & Taphouse,80233,4.0,388,pizza,True,19724.265398575782,$$
+GV3rbx1_oKFn7Xx7ra09Pg,SALT the Bistro,80302,3.5,658,newamerican,True,41119.577069315856,$$
+_B5-5UnIYRQHee1WKXI_6Q,Las potrancas mexican restaurant,80123,3.5,28,mexican,True,19368.44367621576,
+LLpTpSnnWNLDfII7lFDX2w,Next Door American Eatery,80302,4.0,472,tradamerican,True,41122.16497551163,$$
+x_iZ9Mb-djH9Ah8GEle9WA,La Casita,80134,3.5,106,mexican,True,29624.661033416858,$$
+wmzK6UWIGJhJp9x7K-idmA,Bitto Bistro,80023,4.0,218,wine_bars,True,25362.627906442463,$$
+BBxNHE7rfzP2x54BhEWYxg,McKinner's Pizza Bar,80120,4.0,234,pizza,True,14084.345993672834,$$
+cAMBhEG0dULr-O8vSOCrNQ,T/ACO an Urban Taqueria,80302,4.0,494,mexican,True,40969.89073066948,$$
+sOXPDLdmeKJrFOGXmRmVHg,Little India Restaurant & Bar,80226,4.0,308,indpak,True,9602.947403504177,$$
+shq2aSOzv8SG1AGOO5DBNw,El Tequileno Family Mexican Restaurant - Golden,80401,4.5,64,mexican,True,17851.480005565078,$$
+m5WOv_Y8oIuuD4EFPkKheQ,NY Pizza Pub,80212,3.5,137,italian,True,7126.157138851357,$$
+ZqfOaAX7jzjYvX3XLaqOmA,Buffalo Wild Wings,80226,2.5,215,chicken_wings,True,10010.238995595088,$$
+1fYuAzjhi4uiRQ9AHeRlIg,West Flanders Brewing Company,80302,3.5,397,breweries,True,41094.316412947715,$$
+wIWx9cIe6V-sxA5DZOzvdA,The Gym Co.,80134,3.0,9,pizza,False,29598.246257909625,
+N-xcXjXSKvLjcSwwKC8mIA,Royal Hilltop,80013,3.5,165,tradamerican,True,19285.2918750767,$$
+AHv9ZV6D_QUrw8rxfDaREQ,Pizza Republica,80202,3.5,368,pizza,True,2425.84510240356,$$
+w4uEaY95YU8AeEA74ao9ew,Tony P's Bar & Pizzeria,80211,3.5,529,italian,True,4896.407221091011,$$
+cgra29grp2VA7keesG3AdQ,Sonoma'z Wine Bar & Grill,80124,3.5,77,newamerican,True,23226.48718714535,$$
+zo_hoCO29_bQ7KWATRLstw,Tony Rigatoni's Italian Kitchen,80465,3.0,169,italian,True,20929.020342970667,$$
+Oe3Tf28qDH8EElKjpkg97g,3 Sons Italian Restaurant & Bar,80007,3.0,161,italian,False,18793.004992478836,$$
+xIFuETv8r3lVBj6--C60DA,El Pelicano Restaurant & Lounge,80011,3.5,94,seafood,False,13809.674513300773,$$
+svJWwW0ilssyqk_UML0mUg,Work & Class,80205,4.5,1454,newamerican,True,2810.0960698608437,$$
+G60Sr2sWI4uxY2TsuzLSug,Old Capitol Grill & Smokehouse,80401,3.0,174,tradamerican,True,21599.91482067444,$$
+Gf3WXlrq4THvyyQ43ZQVZA,Bad Daddy's Burger Bar,80021,4.0,139,burgers,True,25856.51972398896,$$
+T9fQyvrHdnT5FxJ2KgUSJg,Roaming Buffalo BBQ,80401,4.5,10,diners,False,18999.891441485153,
+yqUg6yEXyv36znyChW7PDQ,Hooters,80124,3.5,117,chicken_wings,True,20217.23982318076,$$
+P5lpPBTPqAL3GJhc27RNGg,Illegal Pete's - Pearl St,80302,3.5,252,mexican,False,40919.86513342424,$$
+3HmNqBNUa8W6ysnKYL7GiQ,Chili's,80601,2.5,83,tradamerican,False,29273.888167844732,$$
+8B5HvsH62ayrz9e1qM7pHA,Venice Ristorante,80111,3.5,232,italian,True,14647.275136679837,$$$
+IXCyvuromwTrPwhSkq3OWQ,Topgolf,80023,3.0,72,newamerican,False,28022.142006477206,$$
+mh4_liajfdfBzwEnUForew,Casa Gutierrez,80014,4.0,145,seafood,True,12474.227775019313,$$
+cATbxHAuGqdXcmtj5SLA5Q,Roxie's Tacos,80203,4.5,238,indpak,True,40195.12515737546,$
+XBH-cNUGBGXaBdS5jnSN-g,Chili's,80226,2.5,76,tradamerican,False,9725.04422291261,$$
+KbGU3pTS6Lc87t8X6WD6Ng,Rock Bottom Restaurant & Brewery,80112,3.0,256,breweries,True,20391.268372001323,$$
+UlYCl-QySUIi0_AX4FBoYA,Double D's Sourdough Pizzeria & Taphouse,80021,3.5,184,pizza,True,25503.630491833763,$$
+yNR3Lli1RkXnjGCMBJCWqg,Fox & Hound,80124,3.0,311,tradamerican,True,21397.35473559357,$$
+THCGVV-qRBNQdQUGWO1kuQ,Old Chicago Pizza & Taproom,80229,2.5,101,pizza,True,16201.798201908266,$$
+4q8V8rnQb56PesBfGYzjlw,Via Toscana,80027,4.0,189,italian,True,30331.859444480433,$$
+jdxkOJBTACaB-TsFMRO4sA,Grillin' Wings & Things,80124,4.0,222,chicken_wings,True,21525.526405699016,$$
+TZ1kg_AnkV5lDAiBfz_Tdw,Fleming's Prime Steakhouse & Wine Bar,80112,4.0,350,steak,True,20518.85188812607,$$$
+TDFaPAP8QCSmEIJ_1QQyOA,Cabana X at bar helix,80205,4.0,81,cocktailbars,True,3489.7207668589444,$$
+M-22uuQfHgOY0l8_9v1Xfg,Great Divide Brewhouse and Kitchen,80249,3.0,105,brewpubs,False,28021.967986678123,$$
+w_gn7qT5PbV0AKvVN6fYtw,Applebee's Grill + Bar,80021,3.0,55,sportsbars,True,16750.690224383005,$$
+1u6Kbu-eSV3kjhYaCniXFA,Chili's,80012,3.0,103,tradamerican,True,12727.731980649927,$$
+pSTEa9L_jlncR79i1bKQ7w,Carmine's On Penn,80209,3.5,338,italian,True,2474.617179718282,$$
+LSZmdibEN7clZGXeaTgtZw,Old Chicago Pizza & Taproom,80003,3.0,137,pizza,True,16276.022221703033,$$
+AxfYhKPcCiFKcJ9iByV47w,El Amigo Mexican Restaurant,80401,3.5,74,mexican,True,18253.48644154029,$
+FFcfeR51pg8Btgms97fQIw,India's Kitchen II - Centennial,80122,4.5,228,indpak,True,19264.940401609514,$$
+RJGO2VOdLdzb7MywSYVcbg,Greek To Me,80111,4.0,207,greek,True,16958.071537419924,$$
+XmoeQthO0WCfhuqktICRYA,Bar AC,80202,4.5,26,tapas,True,2251.2106405969653,
+IybdWdnmQfeYmUl2p_XpkA,Applebee's Grill + Bar,80234,2.0,62,tradamerican,True,16674.85977855363,$$
+baTagrDTvF63C4s4jBHe3g,Mountain Ranch Bar and Grille,80205,3.0,17,tradamerican,False,3007.069050588263,$$
+Jb96nOK_TVKdWW7s8erTnA,Buffalo Wild Wings,80012,2.0,320,tradamerican,True,10122.052941488575,$$
+7PTvETlUSBJkHVgN2b6wUA,Flatz Restaurant,80021,3.5,72,newamerican,True,25246.88103672434,$$
+WV7TNj9pkyWWPX4eNoAkCw,Applebee's Grill + Bar,80601,2.5,37,tradamerican,True,29307.779314442647,$$
+xxIlb8836QDY8iPNldVmfA,Venice Ristorante & Wine Bar,80202,3.5,374,italian,True,3149.220832567069,$$$
+35NgLoXLvRtDr-fZdi-Fag,Skyline Beer Garden,80202,4.5,20,beergardens,False,2584.0330769169245,$
+wOM8TACkSDcs-PKLZZuP2A,Cuba Cuba Sandwicheria,80111,4.0,250,sandwiches,True,14706.323173969933,$
+dAbECvyL4faLqcO6W36M_w,Zeal DTC,80111,4.5,107,acaibowls,True,14249.811460639005,$$
+C1a6I6OF2SQ81RLSGMgcmA,The Arvada Tavern,80002,4.5,568,lounges,True,11953.251460768863,$$
+tnXYXUAoYnfE_Gvh0IiIQg,Ophelia's Electric Soapbox,80202,4.5,977,bars,True,2658.241748787643,$$
+d4JUAxjolJL5kGgJIp9CRA,Maggiano's Little Italy,80112,3.5,588,italian,False,18864.980857784456,$$
+S3kFKcBFuRWi6OS92gUIsA,India's Best Restaurant & Bar,80120,4.0,326,indpak,True,14058.234843765957,$$
+eR7v-2XMjuhb7qPy7AjOGA,Lucy Restaurant,80111,3.5,196,breakfast_brunch,True,14240.956390016589,$$
+EqBCPmMYl5C4gDC3GCaVug,Ska Street Brewstillery,80301,4.5,12,breweries,False,38955.83084608614,
+_kNMq5k8YUY-rYi0oj3bfA,Chili's,80110,2.5,79,tradamerican,False,10636.377195617704,$$
+F2uJ1oA1SdSs_sklF1aRdQ,Jalapeno Deluxe Restaurante Mexicano,80011,3.0,19,mexican,True,13912.565946716233,$$
+BaxSN7TwoGV-VkcCRY6gTw,Buffalo Wild Wings,80005,2.5,114,tradamerican,True,15611.30125769836,$$
+88WZx0N1p6uRgsqdyHeSrA,Chili's Grill and Bar,80401,1.0,1,bars,False,16114.334473638546,
+G0d0BnrXdLWCoTj2ZoCbcg,El Tequileño - Arvada,80004,3.5,159,mexican,True,16620.13093452248,$$
+Hj8tK1cUKacKHyhtI_SQrg,Backcountry Pizza & Tap House,80302,3.5,255,pizza,True,39899.029413360615,$$
+gOPiq_lbWBFcnkn0h9Knbw,Buffalo Wild Wings,80023,2.0,127,chicken_wings,True,29034.18145096757,$$
+xN-u15przXbKzXCFOq91vg,Asiana Bistro,80112,2.0,1,sushi,False,17495.58050564806,
+jGZ310-vr4vwCamg34s9sw,Burger Theory,80111,3.5,21,burgers,True,18403.478271992528,$$
+jmZ942lmcxNr7qJWnl0uXw,Parry's Pizzeria & Taphouse,80126,3.5,300,pizza,True,21614.83201611696,$$
+vBjkAAEze02vxo4SaPrCZw,Applebee's Grill + Bar,80233,2.5,48,tradamerican,True,19930.946002493216,$$
+0_uHlS_Cr3taX8g6JEmVSA,Chili's,80011,2.5,69,tex-mex,False,17188.623397315485,$$
+jX38MHTqfeAQqxxsAGGcZA,Dave & Buster's,80020,3.0,170,tradamerican,True,19224.67005849545,$$
+A9JGieyqZEd0ghsZP9tJgQ,Buffalo Wild Wings,80016,2.0,150,chicken_wings,True,26653.787723412486,$$
+NdOBBFIxs47leJsFiNUCWw,Larkburger - Greenwood Village,80111,3.5,321,burgers,True,14013.052016871565,$$
+VJkzVONmk0VC4VF4NQKwfA,Applebee's Grill + Bar,80122,2.5,67,tradamerican,True,18820.89812814492,$$
+M01qhEs0cKq9C7sN9boorw,Cuba Cuba Sandwicheria,80126,4.5,206,caribbean,True,21635.464150111082,$
+aZVq2_AtOOVSDponoPE-bg,Nordstrom Grill,80124,3.5,21,newamerican,True,21048.21184709898,$$
+Ni8mZD1-3CC2dtqNXYwViA,BJ's Restaurant & Brewhouse,80301,3.0,173,newamerican,True,39826.972001397386,$$
+pJYOPJVqj7pW881yzJ1glQ,Wine Experience Cafe,80016,3.0,151,wine_bars,True,26849.011217777454,$$$
+u0lEXYd_cdf2_Zg99rSM9w,Vine Street Pub & Brewery,80206,4.0,918,tradamerican,False,1130.8636404547678,$$
+57N8Qs1NchGNMmo8QBdQlQ,Chili's,80033,2.5,62,bars,False,14983.9882538051,$$
+QeUv87lZ1-vdSovZEF0-rg,Hideaway Steakhouse,80234,3.5,306,steak,True,18697.973992804582,$$$
+CK7eMggZc3M7GQ0OZGP11w,3 Margaritas Littleton,80122,3.0,97,mexican,True,18822.894818455203,$$
+Nl9WIaiXqNVDVP0L0VOLCg,Old Chicago,80016,3.0,188,pizza,True,21300.224852358955,$$
+7KkcL7YlCfGa_-j4nMpeQQ,Parry's Pizzeria & Taphouse,80111,3.5,114,pizza,True,14720.783134168498,$$
+nsGnIPVO02yaUg632gVcEA,El Tapatio,80002,3.0,171,mexican,True,11303.095570841075,$$
+EOhtXJQ3rOw2Q6tD07WOSg,Fontana Sushi,80160,4.0,159,sushi,True,16980.87502992545,$$
+VRr1PbWlNtNtShjA4oxIiw,Las Potrancas,80004,3.0,124,mexican,True,16173.734824792644,
+AUjXXOzwoBT4gEYW-Z3opg,Steakhouse No. 316,80302,4.0,63,steak,False,40925.03211357981,
+1JEG3Zq5-HeoKDcdWCi9mg,Black Cat Bistro,80302,4.5,289,newamerican,True,40954.956627616775,$$$
+G2KZn-RoDe5qxdaGO9XY1w,Applebee's Grill + Bar,80014,3.0,77,tradamerican,True,14150.243008662977,$$
+Uii9lp5yV8CXQGkiJT9E_w,Fringe A Well-Tapped Eatery,80301,4.5,7,wine_bars,False,40684.34407668434,
+l8h1gFodmEXuoas3M1Rsyw,Fork & Spoon,80203,4.0,326,tradamerican,True,1165.6168428323954,$$
+1lrjhnSeFIdUcKViyPAi5w,Papa Mazzotti's,80241,3.5,77,italian,True,20997.297892912182,$$
+X6B-hY7onobgrYhHblxt0Q,Old Chicago Pizza & Taproom,80013,2.5,194,pizza,True,16948.157479486803,$$
+DJV0_ctyPIxvrB24oEfurw,Leaf Vegetarian Restaurant,80302,4.0,534,vegetarian,True,40763.44700663967,$$
+o-b2Al3gp0iS-4pBwkKUsg,Trattoria Dionisia,80134,4.0,92,italian,True,28921.987407553337,$$
+57a4ZF4EQA-hESKM2pCi4w,Ruth's Chris Steak House,80202,3.5,334,steak,True,2218.64040896289,$$$
+Q8eAhWf3xXMdAf7bY-WWTA,Chili's,80127,2.5,51,bars,False,22606.555571311517,$$
+peG2QADwaUVT9scneJykeA,Parry's Pizzeria & Taphouse,80122,3.0,62,pizza,True,16071.516876114343,$$
+uPVlZ7YSJRMPK-1zW1EUeA,East Simpson Coffee Company,80026,4.5,54,coffee,True,30815.223121624313,$
+_xvLs9RERKuBvnL7YOU2RA,Old Chicago,80129,2.5,107,pizza,True,20418.095574575065,$$
+srGxGAukFmyZ9IrvNJQQ5Q,Buffalo Wild Wings,80007,2.5,83,chicken_wings,True,19344.707448661273,$$
+utQMFcgonb0Pf_bXdGliaQ,Buffalo Wild Wings,80129,2.0,147,tradamerican,True,20859.867231783497,$$
+nszcpkiXBa02ok-KuoRylA,Chili's,80123,2.5,93,tradamerican,False,17052.610383937965,$$
+l6KPaD9c1xDZJugF6-MoEw,Robert's Italian Restaurant,80128,3.5,170,italian,True,19223.433914899426,$$
+fi8gCYj6pCDuIauJcYi6Rw,Ambli Global Cuisine - DTC,80237,4.0,148,tapasmallplates,True,13474.683171285265,$$
+JozyDHVPiVqqCEZzB4lC1A,Northside Eatery + Market,80211,4.5,22,breakfast_brunch,True,4200.75173090365,
+uKiP0zN2FGF8nxlBQvPnHg,Old Chicago Pizza & Taproom,80233,2.5,139,pizza,True,20112.697687450618,$$
+H5yn0gL331kHVfYIFhAnIg,Super Mega Bien,80205,4.5,208,latin,False,2780.49442913661,
+wyGpXd1M7UcoQ1bX0KbZRQ,Chili's,80016,3.0,91,tradamerican,True,21202.206424969394,$$
+XtN-DTIWXDhlheZ2NDSh0g,Old Chicago,80020,3.0,116,pizza,True,21214.085193684456,$$
+Bfx0aPM_R-klQcCuHoSFZA,Applebee's Grill + Bar,80226,2.0,62,tradamerican,True,12682.333786070705,$$
+_kzkGOOjDCLms8OT_LSCnQ,Chili's,80026,3.0,7,bars,False,31872.62155791887,$$
+lZVGLcpKJoqf68r26AhvYw,Salsas Mexican Restaurant,80033,3.5,87,mexican,True,10599.144706535993,$
+l4NeSqgO-8FOsgJjTNlHbg,Illegal Pete's,80202,4.0,759,bars,True,3063.8860842286194,$
+-gcfKnHk4co7qPE7ejWerw,Colonna's Pizza,80134,4.0,205,pizza,True,30409.78292795636,$$
+kT1rK9qajzQerCadFWXnVA,Jett Sushi,80220,3.5,344,sushi,True,3530.4369287607865,$$
+SjwUTc_jmqmMxWoyJOTalA,Chili's,80134,2.5,86,tradamerican,False,30611.493079535197,$$
+KkjaBpjdyy6rLsZqFjuDpw,Golden Flame Hot Wings,80134,4.0,161,chicken_wings,True,27094.221941133914,$$
+HhrsHtWseo1Yku1ITkz2nA,El Tapatio,80021,3.0,190,mexican,True,25696.189718528414,$$
+_p7kl-pGMnkTMsbuyNB3QQ,Otra Vez Cantina,80202,4.0,567,bars,True,2102.839806716388,$$
+qwAZUk11faKkYeEpsQI9kQ,Chili's,80124,3.0,33,bars,False,23571.594139865992,$$
+Ii_QUFkIjyA2DTPZF0L2hw,Buffalo Wild Wings,80021,2.5,150,chicken_wings,True,19054.982243019393,$$
+ug2XLjxELqI25O-RVIBexw,Chili's,80021,2.5,85,tradamerican,False,16439.479790425445,$$
+YHPemo9azJfd9xqLGTDurQ,The Kitchen American Bistro,80302,4.0,810,newamerican,True,41133.43947682606,$$$
+mgq2vGIzSO3VIg8Stqzjng,Applebee's Grill + Bar,80020,2.5,43,tradamerican,True,21563.70804445437,$$
+mX1-cH3uA-WQ7WhKgEhmpw,Asti D'Italia,80023,3.5,188,italian,True,25240.943480342732,$$
+FU8WEWX_wC9z7ol0zblmJg,British Bulldog,80205,4.0,244,british,True,2170.551320176142,$$
+3y49KTHDu6vIFtyulT1u3Q,Chili's,80023,3.0,36,tex-mex,False,29041.542427427405,$$
+rZUcKezScfaUo8cpiUL-tQ,Angelina's Fine Italian Dining,80123,3.5,130,italian,True,16640.10083750421,$$
+2jz37ru5FArA8tLw7rigQA,Chili's,80026,2.5,44,tradamerican,False,31895.057015699524,$$
+dorcy_-coBBh-O_1M7q1UQ,Chili's,80124,3.5,20,bars,False,23571.9993085139,$$
+ekfawBhEUAktHanbOYVCAw,Chili's,80016,2.5,83,bars,False,26727.179460696407,$$
+eoCkMQXp0Fc6KT5CfJrJhg,Buffalo Wild Wings,80112,2.5,245,tradamerican,True,20242.355329240887,$$
+Mo_H9qjGdEABeo-BGar0xg,Vista Montagne,80019,3.0,50,italian,True,20727.7327473172,
+74OhL7v4HBvWLsRM5Ujwjw,3 Margaritas,80016,3.0,103,mexican,True,29391.30318910011,$$
+d2UMF2kmEXy2AZt6n0Vu3A,Slater's 50/50,80205,4.5,58,burgers,True,3774.638955032734,
+t5BUGYxrppgP5a169A__zQ,Monte Jade,80019,3.5,34,japanese,True,20805.721978473302,$$
+PHs8DL9UUOOehhUtE5b1qw,Corinne,80202,4.0,337,newamerican,True,2228.664226109778,$$
+dG_Wj-27-pekOHRYXRKWlg,Parry's Pizza,80112,3.5,144,pizza,True,24556.778696077352,$$
+9VNGomhzlcsS02Mdpk5QXg,Buffalo Wild Wings,80123,2.5,159,chicken_wings,True,16247.90846472584,$$
+5NzYM9toGfvn6xlhT61aHQ,Chili's,80126,2.0,107,tradamerican,False,19015.398871766396,$$
+d2ru6HhcKITjBx1rXETAfA,Little India Restaurant & Bar,80202,3.5,527,indpak,True,2398.6064823063803,$$
+WdWcAXxCAWcBUOzicNTx3g,Buffalo Wild Wings,80229,2.0,161,tradamerican,True,15955.34241024487,$$
+8hCYiVB4MOawLiGgXu3rNQ,EDGE Restaurant and Bar,80202,4.0,378,steak,True,2681.1315085072465,$$$
+xSzqZtOTiDDrtgE5KZjmfA,Las Palmas,80233,2.5,76,mexican,False,20253.6921827374,$
+SFlAWPKHOJEsTttBLUj8Hw,Mountain Sun Pub & Brewery,80302,4.5,1492,pubs,False,40876.56768588146,$$
+bZWUDiUtPiUldKmtC2tq9Q,Navah Coffee House,80031,4.5,136,coffee,True,17353.602544600933,$
+Bee0W_xaiMi2dahwkaAkqg,Pizzeria Locale,80302,4.0,672,pizza,True,40760.22153341216,$$
+JYhwSCTv9DaoiH-3qXan7g,Tavern Tech Center,80111,3.5,307,tradamerican,True,14800.888443087062,$$
+KPH5CzOEnLejOk-cswJAYA,Southern Sun Pub & Brewery,80305,4.0,418,pubs,True,36510.15962747565,$$
+pyVk1buDbU3H7tk5ySSPMA,Tavern Littleton,80120,3.5,328,tradamerican,True,14136.156758713512,$$
+LIEcfgd6F2UVBqNIMX-fUA,Old Hickory Steakhouse,80019,3.5,26,steak,True,20736.16247386062,
+FyFF1LrJ9vDpBL_i1Gw95Q,Next Door American Eatery - Highlands Ranch,80129,3.5,98,tradamerican,True,20469.943135382193,$$
